@@ -1,0 +1,1950 @@
+{
+ "id": 668,
+ "user_id": 676,
+ "slug": "xqc",
+ "is_banned": false,
+ "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.DsuAwCgUc9Bh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvRHN1QXdDZ1VjOUJoIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly90aXplbi5raWNrLmNvbSxodHRwczovL3dlYm9zLmtpY2suY29tLGh0dHBzOi8vKi5raWNrLXByZXByb2R1Y3Rpb24uY29tLGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOmFkcy1vcHQtb3V0Ijp0cnVlLCJleHAiOjE3ODk5ODYxOTl9.y4Y4uyietsEWKdLHv-A_hKMwuscaKqsfH0q9RmvSZLzkp_l15h_4mQHONYuFJeIfsxkcNK_ebA4NpSn9YSI1ccqnVLfHoC85CLsPeCj2I3ucfnc6ho4ICtr7yFdBLW3i",
+ "name_updated_at": null,
+ "vod_enabled": true,
+ "subscription_enabled": true,
+ "is_affiliate": false,
+ "followersCount": 1113891,
+ "subscriber_badges": [
+  {
+   "id": 97968,
+   "channel_id": 668,
+   "months": 1,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97968/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97975,
+   "channel_id": 668,
+   "months": 2,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97975/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97977,
+   "channel_id": 668,
+   "months": 3,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97977/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97978,
+   "channel_id": 668,
+   "months": 6,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97978/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97982,
+   "channel_id": 668,
+   "months": 9,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97982/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97985,
+   "channel_id": 668,
+   "months": 12,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97985/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97987,
+   "channel_id": 668,
+   "months": 18,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97987/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97988,
+   "channel_id": 668,
+   "months": 24,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97988/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97989,
+   "channel_id": 668,
+   "months": 30,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97989/conversion/original-fullsize.png"
+   }
+  }
+ ],
+ "banner_image": {
+  "responsive": "",
+  "url": "https://files.kick.com/images/channel/668/banner_image/6fcf7418-df00-460b-9467-1fa95b8eb981"
+ },
+ "recent_categories": [
+  {
+   "id": 15,
+   "category_id": 2,
+   "name": "Just Chatting",
+   "slug": "just-chatting",
+   "tags": [
+    "IRL",
+    "Casual"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 58701,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+    "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+   },
+   "category": {
+    "id": 2,
+    "name": "IRL",
+    "slug": "irl",
+    "icon": "🎙️"
+   }
+  },
+  {
+   "id": 8,
+   "category_id": 1,
+   "name": "Grand Theft Auto V (GTA)",
+   "slug": "grand-theft-auto-v",
+   "tags": [
+    "Shooter",
+    "Action",
+    "Open World"
+   ],
+   "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 51695,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w",
+    "url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9"
+   },
+   "category": {
+    "id": 1,
+    "name": "Games",
+    "slug": "games",
+    "icon": "🕹️"
+   }
+  },
+  {
+   "id": 84,
+   "category_id": 1,
+   "name": "Escape From Tarkov",
+   "slug": "escape-from-tarkov",
+   "tags": [
+    "Simulation",
+    "FPS",
+    "Action"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 943,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_294_392.webp 294w",
+    "url": "https://files.kick.com/images/subcategories/84/banner/599546ff-8e13-4f98-a384-2cf96714bce9"
+   },
+   "category": {
+    "id": 1,
+    "name": "Games",
+    "slug": "games",
+    "icon": "🕹️"
+   }
+  },
+  {
+   "id": 28,
+   "category_id": 4,
+   "name": "Slots & Casino",
+   "slug": "slots",
+   "tags": [
+    "Gambling"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": true,
+   "is_promoted": false,
+   "viewers": 108563,
+   "is_fallback": true,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_245_327.webp 245w",
+    "url": "https://files.kick.com/images/subcategories/28/banner/ca01a05f-f807-4fbf-8794-3d547b1bb7a6"
+   },
+   "category": {
+    "id": 4,
+    "name": "Gambling",
+    "slug": "gambling",
+    "icon": "🎰"
+   }
+  }
+ ],
+ "livestream": null,
+ "role": null,
+ "muted": false,
+ "follower_badges": [],
+ "offline_banner_image": null,
+ "can_host": true,
+ "user": {
+  "id": 676,
+  "username": "xQc",
+  "bio": "THE BEST AT ABSOLUTELY EVERYTHING. THE JUICER. LEADER OF THE JUICERS.",
+  "instagram": "xqcow1/",
+  "twitter": "xqc",
+  "youtube": "channel/UCmDTrq0LNgPodDOFZiSbsww",
+  "discord": "xqcow",
+  "tiktok": "",
+  "facebook": "",
+  "club": null,
+  "profile_pic": "https://files.kick.com/images/user/676/profile_image/conversion/931b4e8f-5445-427c-bd82-b473530390cc-fullsize.webp"
+ },
+ "chatroom": {
+  "id": 668,
+  "chatable_type": "App\\Models\\Channel",
+  "channel_id": 668,
+  "created_at": "2022-10-22T06:59:51.000000Z",
+  "updated_at": "2026-01-08T23:32:57.000000Z",
+  "chat_mode_old": "public",
+  "chat_mode": "public",
+  "slow_mode": false,
+  "chatable_id": 668,
+  "followers_mode": true,
+  "subscribers_mode": false,
+  "emotes_mode": false,
+  "message_interval": 5,
+  "following_min_duration": 5760
+ },
+ "ascending_links": [
+  {
+   "id": 605185,
+   "channel_id": 668,
+   "description": "",
+   "link": "https://streamelements.com/xqc/tip",
+   "created_at": "2023-06-21T00:50:11.000000Z",
+   "updated_at": "2024-12-06T00:42:58.000000Z",
+   "order": 1,
+   "title": ""
+  },
+  {
+   "id": 605197,
+   "channel_id": 668,
+   "description": "",
+   "link": "https://www.youtube.com/channel/UCmDTrq0LNgPodDOFZiSbsww",
+   "created_at": "2023-06-21T00:51:13.000000Z",
+   "updated_at": "2024-12-06T00:42:58.000000Z",
+   "order": 2,
+   "title": ""
+  },
+  {
+   "id": 605147,
+   "channel_id": 668,
+   "description": "",
+   "link": "https://discord.gg/xqcow",
+   "created_at": "2023-06-21T00:47:20.000000Z",
+   "updated_at": "2024-12-06T00:42:58.000000Z",
+   "order": 3,
+   "title": ""
+  },
+  {
+   "id": 605189,
+   "channel_id": 668,
+   "description": "",
+   "link": "https://twitter.com/xqc",
+   "created_at": "2023-06-21T00:50:30.000000Z",
+   "updated_at": "2024-12-06T00:42:58.000000Z",
+   "order": 4,
+   "title": ""
+  },
+  {
+   "id": 605212,
+   "channel_id": 668,
+   "description": "",
+   "link": "",
+   "created_at": "2023-06-21T00:52:48.000000Z",
+   "updated_at": "2024-12-06T00:42:58.000000Z",
+   "order": 5,
+   "title": ""
+  }
+ ],
+ "plan": {
+  "id": 24831,
+  "channel_id": 668,
+  "stripe_plan_id": "plan_O5pxLQ5ZNUIvO4",
+  "amount": "4.99",
+  "created_at": "2023-06-16T15:09:52.000000Z",
+  "updated_at": "2023-06-16T15:09:52.000000Z"
+ },
+ "previous_livestreams": [
+  {
+   "id": 128302946,
+   "slug": "c7093a5c-livedramanewsstuffgta-5secret-unveiledtodayriddle-will-be-finishedfollow-the-e-eeeeee-eeeeeeeeeee",
+   "channel_id": 668,
+   "created_at": "2026-09-20 20:18:14",
+   "session_title": "🐅LIVE🐅DRAMA🐅NEWS🐅STUFF🐅GTA 5🐅SECRET UNVEILED🐅TODAY🐅RIDDLE WILL BE FINISHED🐅FOLLOW THE E🐅 EEEEEE🐅 EEEEEEE🐅EEEE🐅",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-20 20:18:11",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 41486000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 6715,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/480.webp 640w"
+   },
+   "views": 47204,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 124001825,
+    "live_stream_id": 128302946,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-20T20:18:14.000000Z",
+    "updated_at": "2026-09-21T10:11:26.000000Z",
+    "uuid": "d252b88b-188e-4d38-ac65-278ad209dff4",
+    "views": 47204,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 127958554,
+   "slug": "c2980af3-livedramanewsgta-5no-pixel-rpbig-big-bigdaysuper-jpreturnschillsquick-introinto-jp-pog",
+   "channel_id": 668,
+   "created_at": "2026-09-18 20:42:29",
+   "session_title": "🦸LIVE🦸DRAMA🦸NEWS🦸GTA 5🦸NO PIXEL RP🦸BIG BIG BIGDAY🦸SUPER JP🦸RETURNS🦸CHILLS🦸QUICK INTRO🦸INTO JP POG🦸",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-18 20:42:29",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 45769000,
+   "language": "English",
+   "is_mature": true,
+   "viewer_count": 6007,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/6uuiBBIJ3rMd/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/6uuiBBIJ3rMd/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/6uuiBBIJ3rMd/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/6uuiBBIJ3rMd/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/6uuiBBIJ3rMd/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/6uuiBBIJ3rMd/480.webp 640w"
+   },
+   "views": 44743,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 123657449,
+    "live_stream_id": 127958554,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-18T20:42:29.000000Z",
+    "updated_at": "2026-09-21T10:00:09.000000Z",
+    "uuid": "4cbfb071-2108-4a02-af56-eaaf2d68ce51",
+    "views": 44743,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 127782970,
+   "slug": "f9322e24-livehereshort-introgta-5-at-5-pm-etslock-inpull-up-quickwe-got-stuff-to-dowickedmaybe-pp-today",
+   "channel_id": 668,
+   "created_at": "2026-09-17 19:45:50",
+   "session_title": "🤚LIVE🤚HERE🤚SHORT INTRO🤚GTA 5 AT 5 PM ETS🤚LOCK IN🤚PULL UP QUICK🤚WE GOT STUFF TO DO🤚WICKED🤚MAYBE PP TODAY🤚",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-17 19:45:49",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 37723000,
+   "language": "English",
+   "is_mature": true,
+   "viewer_count": 6160,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rxiyJyKvKkQQ/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rxiyJyKvKkQQ/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rxiyJyKvKkQQ/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rxiyJyKvKkQQ/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rxiyJyKvKkQQ/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rxiyJyKvKkQQ/480.webp 640w"
+   },
+   "views": 50181,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 8,
+     "category_id": 1,
+     "name": "Grand Theft Auto V (GTA)",
+     "slug": "grand-theft-auto-v",
+     "tags": [
+      "Shooter",
+      "Action",
+      "Open World"
+     ],
+     "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 51695,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w",
+      "url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9"
+     },
+     "category": {
+      "id": 1,
+      "name": "Games",
+      "slug": "games",
+      "icon": "🕹️"
+     }
+    }
+   ],
+   "video": {
+    "id": 123481868,
+    "live_stream_id": 127782970,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-17T19:45:50.000000Z",
+    "updated_at": "2026-09-21T10:11:26.000000Z",
+    "uuid": "44349051-8023-4b51-9390-e4a338b7428a",
+    "views": 50181,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 127608269,
+   "slug": "6798a46f-liveherelock-ingta-rpprogressionfinallynopixelabsolute-pandamoniummini-intropull-upand-witnessgreatness",
+   "channel_id": 668,
+   "created_at": "2026-09-16 18:14:01",
+   "session_title": "🧠LIVE🧠HERE🧠LOCK IN🧠GTA RP🧠PROGRESSION🧠FINALLY🧠NOPIXEL🧠ABSOLUTE PANDAMONIUM🧠MINI INTRO🧠PULL UP🧠AND WITNESS🧠GREATNESS🧠",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-16 18:14:00",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 41964000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 6801,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/RIytveJqRhby/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/RIytveJqRhby/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/RIytveJqRhby/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/RIytveJqRhby/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/RIytveJqRhby/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/RIytveJqRhby/480.webp 640w"
+   },
+   "views": 53128,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 8,
+     "category_id": 1,
+     "name": "Grand Theft Auto V (GTA)",
+     "slug": "grand-theft-auto-v",
+     "tags": [
+      "Shooter",
+      "Action",
+      "Open World"
+     ],
+     "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 51695,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w",
+      "url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9"
+     },
+     "category": {
+      "id": 1,
+      "name": "Games",
+      "slug": "games",
+      "icon": "🕹️"
+     }
+    }
+   ],
+   "video": {
+    "id": 123307180,
+    "live_stream_id": 127608269,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-16T18:14:01.000000Z",
+    "updated_at": "2026-09-21T10:11:26.000000Z",
+    "uuid": "7892f37b-27d1-4097-a04e-60102a10b82c",
+    "views": 53128,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 127469518,
+   "slug": "42d8f06c-liveheregta-vnopixel-rplets-golock-inshort-introwickedpull-upbig-absolute-huge-thingsyay",
+   "channel_id": 668,
+   "created_at": "2026-09-15 20:27:42",
+   "session_title": "👑LIVE👑HERE👑GTA V👑NOPIXEL RP👑LETS GO👑LOCK IN👑SHORT INTRO👑WICKED👑PULL UP👑BIG ABSOLUTE HUGE THINGS👑YAY👑",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-15 20:27:38",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 35971000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 6257,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/9uSadexa3kTN/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/9uSadexa3kTN/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/9uSadexa3kTN/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/9uSadexa3kTN/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/9uSadexa3kTN/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/9uSadexa3kTN/480.webp 640w"
+   },
+   "views": 50836,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 8,
+     "category_id": 1,
+     "name": "Grand Theft Auto V (GTA)",
+     "slug": "grand-theft-auto-v",
+     "tags": [
+      "Shooter",
+      "Action",
+      "Open World"
+     ],
+     "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 51695,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w",
+      "url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9"
+     },
+     "category": {
+      "id": 1,
+      "name": "Games",
+      "slug": "games",
+      "icon": "🕹️"
+     }
+    }
+   ],
+   "video": {
+    "id": 123168431,
+    "live_stream_id": 127469518,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-15T20:27:42.000000Z",
+    "updated_at": "2026-09-21T10:03:31.000000Z",
+    "uuid": "4f856ca1-4c2c-4ee5-b302-2f72c7ead728",
+    "views": 50836,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 127310398,
+   "slug": "b17ad7b3-liveheregta-vnopixel-roleplaytune-in-quicklydont-miss-itbig-thingsmega-thingshuge-thingscolossal-thingsmassive-thing",
+   "channel_id": 668,
+   "created_at": "2026-09-14 19:58:02",
+   "session_title": "👔LIVE👔HERE👔GTA V👔NOPIXEL ROLEPLAY👔TUNE IN QUICKLY👔DONT MISS IT👔BIG THINGS👔MEGA THINGS👔HUGE THINGS👔COLOSSAL THINGS👔MASSIVE THING👔",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-14 19:57:58",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 39804000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 7218,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Jr2H5bkEnOFA/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Jr2H5bkEnOFA/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Jr2H5bkEnOFA/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Jr2H5bkEnOFA/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Jr2H5bkEnOFA/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Jr2H5bkEnOFA/480.webp 640w"
+   },
+   "views": 60652,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 8,
+     "category_id": 1,
+     "name": "Grand Theft Auto V (GTA)",
+     "slug": "grand-theft-auto-v",
+     "tags": [
+      "Shooter",
+      "Action",
+      "Open World"
+     ],
+     "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 51695,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w",
+      "url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9"
+     },
+     "category": {
+      "id": 1,
+      "name": "Games",
+      "slug": "games",
+      "icon": "🕹️"
+     }
+    }
+   ],
+   "video": {
+    "id": 123009386,
+    "live_stream_id": 127310398,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-14T19:58:02.000000Z",
+    "updated_at": "2026-09-21T08:26:22.000000Z",
+    "uuid": "c3df33dd-375c-4955-862e-5fd0a32d43a1",
+    "views": 60652,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 127140723,
+   "slug": "29d7c761-livelock-ingta-vnopixel-rpdramanewsstuffimportantdaypull-upquickdont-miss-itxd",
+   "channel_id": 668,
+   "created_at": "2026-09-13 18:00:54",
+   "session_title": "🎒LIVE🎒LOCK IN🎒GTA V🎒NOPIXEL RP🎒DRAMA🎒NEWS🎒STUFF🎒IMPORTANT🎒DAY🎒PULL UP🎒QUICK🎒DONT MISS IT🎒XD🎒",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-13 18:00:51",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 43751000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 2369,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/r8hY3zoCumn8/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/r8hY3zoCumn8/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/r8hY3zoCumn8/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/r8hY3zoCumn8/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/r8hY3zoCumn8/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/r8hY3zoCumn8/480.webp 640w"
+   },
+   "views": 67122,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 122839712,
+    "live_stream_id": 127140723,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-13T18:00:55.000000Z",
+    "updated_at": "2026-09-21T08:26:21.000000Z",
+    "uuid": "fc9c65ff-7a30-4e0f-8a5b-cd34955fc5de",
+    "views": 67122,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 127013594,
+   "slug": "235df894-live-click-np-rp-with-the-squad-wicked-also-maybe-small-react-maybe-even-long-stream-well-see-lock-in-tho",
+   "channel_id": 668,
+   "created_at": "2026-09-12 22:45:47",
+   "session_title": "👾 LIVE 👾 CLICK 👾NP RP WITH THE SQUAD 👾 WICKED 👾 ALSO MAYBE SMALL REACT 👾 MAYBE EVEN LONG STREAM 👾 WELL SEE 👾 LOCK IN THO 👾",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-12 22:45:46",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 29272000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 8237,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/nrNy3V3f28ID/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/nrNy3V3f28ID/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/nrNy3V3f28ID/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/nrNy3V3f28ID/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/nrNy3V3f28ID/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/nrNy3V3f28ID/480.webp 640w"
+   },
+   "views": 57392,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 122712583,
+    "live_stream_id": 127013594,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-12T22:45:47.000000Z",
+    "updated_at": "2026-09-21T08:26:21.000000Z",
+    "uuid": "67e6b710-b1e7-4fc9-a168-5e1684046439",
+    "views": 57392,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 126797382,
+   "slug": "2c7b80d4-liveherelock-ingta-vnpis-backcome-on-inchill-intro-before-roleplayjust-woke-upbe-nicely",
+   "channel_id": 668,
+   "created_at": "2026-09-11 18:30:49",
+   "session_title": "😈LIVE😈HERE😈LOCK IN😈GTA V😈NP😈IS BACK😈COME ON IN😈CHILL INTRO BEFORE ROLEPLAY😈JUST WOKE UP😈BE NICELY😈",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-11 18:30:45",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 43697000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 986,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/52eDMTe5bwKS/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/52eDMTe5bwKS/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/52eDMTe5bwKS/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/52eDMTe5bwKS/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/52eDMTe5bwKS/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/52eDMTe5bwKS/480.webp 640w"
+   },
+   "views": 60718,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 8,
+     "category_id": 1,
+     "name": "Grand Theft Auto V (GTA)",
+     "slug": "grand-theft-auto-v",
+     "tags": [
+      "Shooter",
+      "Action",
+      "Open World"
+     ],
+     "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 51695,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w",
+      "url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9"
+     },
+     "category": {
+      "id": 1,
+      "name": "Games",
+      "slug": "games",
+      "icon": "🕹️"
+     }
+    }
+   ],
+   "video": {
+    "id": 122496505,
+    "live_stream_id": 126797382,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-11T18:30:49.000000Z",
+    "updated_at": "2026-09-21T08:26:21.000000Z",
+    "uuid": "3d17506f-aee7-4562-91f6-e6a9e81bad89",
+    "views": 60718,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 126615253,
+   "slug": "aecab5dd-livealertliveclickgta-v-rp-continueslock-inherepull-up-quickdont-miss-it-xdyippyend-of-titlefor-now",
+   "channel_id": 668,
+   "created_at": "2026-09-10 16:44:29",
+   "session_title": "🚘LIVE🚘ALERT🚘LIVE🚘CLICK🚘GTA V RP CONTINUES🚘LOCK IN🚘HERE🚘PULL UP QUICK🚘DONT MISS IT XD🚘YIPPY🚘END OF TITLE🚘FOR NOW🚘",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-10 16:44:24",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 46544000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 1412,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8gIAYqRg2Ypm/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8gIAYqRg2Ypm/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8gIAYqRg2Ypm/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8gIAYqRg2Ypm/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8gIAYqRg2Ypm/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8gIAYqRg2Ypm/480.webp 640w"
+   },
+   "views": 70478,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 8,
+     "category_id": 1,
+     "name": "Grand Theft Auto V (GTA)",
+     "slug": "grand-theft-auto-v",
+     "tags": [
+      "Shooter",
+      "Action",
+      "Open World"
+     ],
+     "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 51695,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w",
+      "url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9"
+     },
+     "category": {
+      "id": 1,
+      "name": "Games",
+      "slug": "games",
+      "icon": "🕹️"
+     }
+    }
+   ],
+   "video": {
+    "id": 122314386,
+    "live_stream_id": 126615253,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-10T16:44:29.000000Z",
+    "updated_at": "2026-09-21T08:26:21.000000Z",
+    "uuid": "8be7846e-24ef-4ada-b189-764b597b8899",
+    "views": 70478,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 126449428,
+   "slug": "2561b329-livered-alertlock-indramagta-5-is-backdiscovering-the-mysteriesof-los-santoswith-chat-smileyfacestuff-also",
+   "channel_id": 668,
+   "created_at": "2026-09-09 16:26:33",
+   "session_title": "🌎LIVE🌎RED ALERT🌎LOCK IN🌎DRAMA🌎GTA 5 IS BACK🌎DISCOVERING THE MYSTERIES🌎OF LOS SANTOS🌎WITH CHAT SMILEY🌎FACE🌎STUFF ALSO🌎",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-09 16:26:32",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 53187000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 1086,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/2oh2tsSCFYxW/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/2oh2tsSCFYxW/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/2oh2tsSCFYxW/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/2oh2tsSCFYxW/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/2oh2tsSCFYxW/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/2oh2tsSCFYxW/480.webp 640w"
+   },
+   "views": 65527,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 122148573,
+    "live_stream_id": 126449428,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-09T16:26:33.000000Z",
+    "updated_at": "2026-09-21T08:26:21.000000Z",
+    "uuid": "6533c367-a533-47a2-b1d9-b321e1a409ee",
+    "views": 65527,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 126278421,
+   "slug": "527147a1-live-alert-tune-in-quick-jp-is-back-this-is-not-a-drill-gta-5-rp-nopixel-v-lock-in-also-usual-title-very-cool",
+   "channel_id": 668,
+   "created_at": "2026-09-08 14:59:23",
+   "session_title": "⚠️ LIVE ⚠️ ALERT ⚠️ TUNE IN QUICK ⚠️ JP IS BACK ⚠️ THIS IS NOT A DRILL ⚠️ GTA 5 RP ⚠️ NOPIXEL V ⚠️ LOCK IN ⚠️ ALSO ⚠️ USUAL TITLE ⚠️ VERY COOL ⚠️",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-08 14:59:18",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 48641000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 1799,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8wZGxx2ttqbw/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8wZGxx2ttqbw/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8wZGxx2ttqbw/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8wZGxx2ttqbw/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8wZGxx2ttqbw/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8wZGxx2ttqbw/480.webp 640w"
+   },
+   "views": 75428,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 8,
+     "category_id": 1,
+     "name": "Grand Theft Auto V (GTA)",
+     "slug": "grand-theft-auto-v",
+     "tags": [
+      "Shooter",
+      "Action",
+      "Open World"
+     ],
+     "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 51695,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w",
+      "url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9"
+     },
+     "category": {
+      "id": 1,
+      "name": "Games",
+      "slug": "games",
+      "icon": "🕹️"
+     }
+    }
+   ],
+   "video": {
+    "id": 121977566,
+    "live_stream_id": 126278421,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-08T14:59:23.000000Z",
+    "updated_at": "2026-09-21T08:26:21.000000Z",
+    "uuid": "d7502967-27ca-4e37-b604-a9c7d184d2a2",
+    "views": 75428,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 126167187,
+   "slug": "94ffe26e-livelock-inheredramanewsvideosreactsgamesvideogamescontentthingsnopixel-tomorrow",
+   "channel_id": 668,
+   "created_at": "2026-09-07 20:31:57",
+   "session_title": "🐠LIVE🐠LOCK IN🐠HERE🐠DRAMA🐠NEWS🐠VIDEOS🐠REACTS🐠GAMES🐠VIDEOGAMES🐠CONTENT🐠THINGS🐠NOPIXEL TOMORROW🐠",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-07 20:31:54",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 31451000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 356,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/q0XFwrR546kj/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/q0XFwrR546kj/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/q0XFwrR546kj/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/q0XFwrR546kj/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/q0XFwrR546kj/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/q0XFwrR546kj/480.webp 640w"
+   },
+   "views": 47544,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 84,
+     "category_id": 1,
+     "name": "Escape From Tarkov",
+     "slug": "escape-from-tarkov",
+     "tags": [
+      "Simulation",
+      "FPS",
+      "Action"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 943,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/84/banner/599546ff-8e13-4f98-a384-2cf96714bce9"
+     },
+     "category": {
+      "id": 1,
+      "name": "Games",
+      "slug": "games",
+      "icon": "🕹️"
+     }
+    }
+   ],
+   "video": {
+    "id": 121866332,
+    "live_stream_id": 126167187,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-07T20:31:57.000000Z",
+    "updated_at": "2026-09-21T08:26:22.000000Z",
+    "uuid": "14f53f0e-ca88-4c46-af35-dd325d865e82",
+    "views": 47544,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 125868367,
+   "slug": "1198f7ad-liveherelock-indramanewsvideosimportantbroadcastlpull-upwickedlets-do-thingswicked",
+   "channel_id": 668,
+   "created_at": "2026-09-06 00:15:00",
+   "session_title": "⛽LIVE⛽HERE⛽LOCK IN⛽DRAMA⛽NEWS⛽VIDEOS⛽IMPORTANT⛽BROADCAST⛽LPULL UP⛽WICKED⛽LETS DO THINGS⛽WICKED⛽",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-06 00:14:58",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 29389000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 1266,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8kQmns2QE0UT/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8kQmns2QE0UT/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8kQmns2QE0UT/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8kQmns2QE0UT/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8kQmns2QE0UT/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/8kQmns2QE0UT/480.webp 640w"
+   },
+   "views": 53668,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 121567522,
+    "live_stream_id": 125868367,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-06T00:15:00.000000Z",
+    "updated_at": "2026-09-21T08:26:23.000000Z",
+    "uuid": "2e0c2dc9-011a-4f04-990b-4d952b865811",
+    "views": 53668,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 125695716,
+   "slug": "877f1a32-livelock-indramanewsvideosherepull-upvery-goodok-maybebut-waitthis-is3893478958578587numbers2222",
+   "channel_id": 668,
+   "created_at": "2026-09-05 00:14:48",
+   "session_title": "🧳LIVE🧳LOCK IN🧳DRAMA🧳NEWS🧳VIDEOS🧳HERE🧳PULL UP🧳VERY GOOD🧳OK MAYBE🧳BUT WAIT🧳THIS IS🧳3893478958578587🧳NUMBERS🧳2222🧳",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-05 00:14:45",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 25744000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 9800,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/zmQUqdMCfBzg/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/zmQUqdMCfBzg/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/zmQUqdMCfBzg/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/zmQUqdMCfBzg/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/zmQUqdMCfBzg/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/zmQUqdMCfBzg/480.webp 640w"
+   },
+   "views": 51913,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 121394890,
+    "live_stream_id": 125695716,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-05T00:14:48.000000Z",
+    "updated_at": "2026-09-21T08:26:23.000000Z",
+    "uuid": "8d06921c-c507-4903-a256-8ea26befd475",
+    "views": 51913,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 125496391,
+   "slug": "b332b3c8-18-ad-live-click-lock-in-drama-news-videos-things-react-games-videos-stuff",
+   "channel_id": 668,
+   "created_at": "2026-09-03 20:29:44",
+   "session_title": "18+ #ad 🎒 LIVE 🎒 CLICK 🎒 LOCK IN 🎒 DRAMA 🎒 NEWS 🎒 VIDEOS 🎒 THINGS 🎒 REACT 🎒 GAMES 🎒 VIDEOS 🎒 STUFF 🎒",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-03 20:29:43",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 33721000,
+   "language": "English",
+   "is_mature": true,
+   "viewer_count": 11096,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/SGkon3rI8pjV/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/SGkon3rI8pjV/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/SGkon3rI8pjV/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/SGkon3rI8pjV/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/SGkon3rI8pjV/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/SGkon3rI8pjV/480.webp 640w"
+   },
+   "views": 50767,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 28,
+     "category_id": 4,
+     "name": "Slots & Casino",
+     "slug": "slots",
+     "tags": [
+      "Gambling"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": true,
+     "is_promoted": false,
+     "viewers": 108563,
+     "is_fallback": true,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_245_327.webp 245w",
+      "url": "https://files.kick.com/images/subcategories/28/banner/ca01a05f-f807-4fbf-8794-3d547b1bb7a6"
+     },
+     "category": {
+      "id": 4,
+      "name": "Gambling",
+      "slug": "gambling",
+      "icon": "🎰"
+     }
+    }
+   ],
+   "video": {
+    "id": 121195589,
+    "live_stream_id": 125496391,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-03T20:29:44.000000Z",
+    "updated_at": "2026-09-21T08:26:22.000000Z",
+    "uuid": "62085598-8a11-424e-a827-171a0c8db6ae",
+    "views": 50767,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 125199409,
+   "slug": "2ad99b54-liveclickdramanewsvideosgamesreactsimportant-thingsbeing-discussedlock-inquicklyyay",
+   "channel_id": 668,
+   "created_at": "2026-09-01 22:38:44",
+   "session_title": "🦲LIVE🦲CLICK🦲DRAMA🦲NEWS🦲VIDEOS🦲GAMES🦲REACTS🦲IMPORTANT THINGS🦲BEING DISCUSSED🦲LOCK IN🦲QUICKLY🦲YAY🦲",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-01 22:38:41",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 35881000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 8568,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/YDVmAMS3Lmbj/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/YDVmAMS3Lmbj/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/YDVmAMS3Lmbj/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/YDVmAMS3Lmbj/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/YDVmAMS3Lmbj/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/YDVmAMS3Lmbj/480.webp 640w"
+   },
+   "views": 44080,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 120898709,
+    "live_stream_id": 125199409,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-01T22:38:44.000000Z",
+    "updated_at": "2026-09-21T08:26:22.000000Z",
+    "uuid": "5dac7ef4-72e0-4dcf-910e-516d1a3f77e6",
+    "views": 44080,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 125061578,
+   "slug": "3c613955-liveclicklock-indramanewsvideosreactsgamesnew-pcbe-nicewowokhelp-me",
+   "channel_id": 668,
+   "created_at": "2026-09-01 00:40:01",
+   "session_title": "👓LIVE👓CLICK👓LOCK IN👓DRAMA👓NEWS👓VIDEOS👓REACTS👓GAMES👓NEW PC👓BE NICE👓WOW👓OK👓HELP ME👓",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-09-01 00:39:58",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 26990000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 1153,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Ng4sPHMqM5AU/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Ng4sPHMqM5AU/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Ng4sPHMqM5AU/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Ng4sPHMqM5AU/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Ng4sPHMqM5AU/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/Ng4sPHMqM5AU/480.webp 640w"
+   },
+   "views": 50381,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 120760906,
+    "live_stream_id": 125061578,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-09-01T00:40:01.000000Z",
+    "updated_at": "2026-09-21T08:26:22.000000Z",
+    "uuid": "f43f9b49-d2f1-41d0-91e3-f80c8f7e595f",
+    "views": 50381,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 124876014,
+   "slug": "7b8b0f5d-liveclicklock-indramanewsvideosreactsthingsimportantlock-it-inits-timewow",
+   "channel_id": 668,
+   "created_at": "2026-08-30 20:47:09",
+   "session_title": "✍️LIVE✍️CLICK✍️LOCK IN✍️DRAMA✍️NEWS✍️VIDEOS✍️REACTS✍️THINGS✍️IMPORTANT✍️LOCK IT IN✍️ITS TIME✍️WOW✍️",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-08-30 20:47:07",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 37779000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 1114,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/UAyEpT7jTp98/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/UAyEpT7jTp98/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/UAyEpT7jTp98/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/UAyEpT7jTp98/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/UAyEpT7jTp98/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/UAyEpT7jTp98/480.webp 640w"
+   },
+   "views": 49043,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 120575350,
+    "live_stream_id": 124876014,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-08-30T20:47:10.000000Z",
+    "updated_at": "2026-09-21T08:26:22.000000Z",
+    "uuid": "514ee3bb-18c3-43f1-8863-22adc69b6533",
+    "views": 49043,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 124545241,
+   "slug": "b8b815bf-live-click-here-drama-news-games-videos-clips-things-to-do-very-cool-lets-be-cool",
+   "channel_id": 668,
+   "created_at": "2026-08-28 21:37:40",
+   "session_title": "🐌 LIVE 🐌 CLICK 🐌 HERE 🐌 DRAMA 🐌 NEWS 🐌 GAMES 🐌 VIDEOS 🐌 CLIPS 🐌 THINGS 🐌 TO DO 🐌 VERY COOL 🐌 LETS BE COOL 🐌",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-08-28 21:37:37",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 31157000,
+   "language": "English",
+   "is_mature": true,
+   "viewer_count": 1126,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/hW3jGRy05Px3/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/hW3jGRy05Px3/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/hW3jGRy05Px3/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/hW3jGRy05Px3/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/hW3jGRy05Px3/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/hW3jGRy05Px3/480.webp 640w"
+   },
+   "views": 49826,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 120244630,
+    "live_stream_id": 124545241,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-08-28T21:37:41.000000Z",
+    "updated_at": "2026-09-21T08:26:22.000000Z",
+    "uuid": "6e10dbaf-8750-4c83-a1bc-1fc348f8d978",
+    "views": 49826,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 124345938,
+   "slug": "2dccff99-liveclickalertgta-6netflix-thinglock-inalso-dramanewsand-stuffas-alwaysvideoreactsbig-day",
+   "channel_id": 668,
+   "created_at": "2026-08-27 17:47:55",
+   "session_title": "🌴LIVE🌴CLICK🌴ALERT🌴GTA 6🌴NETFLIX THING🌴LOCK IN🌴ALSO DRAMA🌴NEWS🌴AND STUFF🌴AS ALWAYS🌴VIDEO🌴REACTS🌴BIG DAY🌴",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-08-27 17:47:55",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 43765000,
+   "language": "English",
+   "is_mature": true,
+   "viewer_count": 9754,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/uFWwapDP0hzf/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/uFWwapDP0hzf/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/uFWwapDP0hzf/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/uFWwapDP0hzf/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/uFWwapDP0hzf/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/uFWwapDP0hzf/480.webp 640w"
+   },
+   "views": 55987,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 120045334,
+    "live_stream_id": 124345938,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-08-27T17:47:56.000000Z",
+    "updated_at": "2026-09-21T08:26:23.000000Z",
+    "uuid": "709c0cd8-b2d5-4b9d-b47f-e969a84fcd65",
+    "views": 55987,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 124022094,
+   "slug": "e48d9a2f-liveclickherelock-indramanewsgamescomreactimportantquicklyherepull-up",
+   "channel_id": 668,
+   "created_at": "2026-08-25 17:34:45",
+   "session_title": "🦒LIVE🦒CLICK🦒HERE🦒LOCK IN🦒DRAMA🦒NEWS🦒GAMESCOM🦒REACT🦒IMPORTANT🦒QUICKLY🦒HERE🦒PULL UP🦒",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-08-25 17:34:41",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 33474000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 8579,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/GlNS4tEKAvte/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/GlNS4tEKAvte/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/GlNS4tEKAvte/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/GlNS4tEKAvte/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/GlNS4tEKAvte/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/GlNS4tEKAvte/480.webp 640w"
+   },
+   "views": 40954,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 119721502,
+    "live_stream_id": 124022094,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-08-25T17:34:45.000000Z",
+    "updated_at": "2026-09-21T08:26:22.000000Z",
+    "uuid": "0f30ef88-8de4-4e15-9437-9fbbe0eb9a4e",
+    "views": 40954,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 123910908,
+   "slug": "8a46eef9-liveclickheredrama-newsvideosgamesimportantlivequicklylock-inpull-upbang",
+   "channel_id": 668,
+   "created_at": "2026-08-24 23:07:46",
+   "session_title": "🐕LIVE🐕CLICK🐕HERE🐕DRAMA🐕 NEWS🐕VIDEOS🐕GAMES🐕IMPORTANT🐕LIVE🐕QUICKLY🐕LOCK IN🐕PULL UP🐕BANG🐕",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-08-24 23:07:42",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 35495000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 8531,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rN4eK6EHxNCo/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rN4eK6EHxNCo/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rN4eK6EHxNCo/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rN4eK6EHxNCo/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rN4eK6EHxNCo/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/rN4eK6EHxNCo/480.webp 640w"
+   },
+   "views": 48776,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 119610316,
+    "live_stream_id": 123910908,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-08-24T23:07:46.000000Z",
+    "updated_at": "2026-09-21T08:26:22.000000Z",
+    "uuid": "75774f0e-5b27-4f06-9675-5cc9fe2b138f",
+    "views": 48776,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  },
+  {
+   "id": 123586912,
+   "slug": "6ef96eb5-liveclickdramanewsvideosreactsgamesvideosvideogamesimportantsessionsquickly",
+   "channel_id": 668,
+   "created_at": "2026-08-22 22:39:57",
+   "session_title": "👐LIVE👐CLICK👐DRAMA👐NEWS👐VIDEOS👐REACTS👐GAMES👐VIDEOS👐VIDEOGAMES👐IMPORTANT👐SESSIONS👐QUICKLY👐👐",
+   "is_live": false,
+   "risk_level_id": null,
+   "start_time": "2026-08-22 22:39:53",
+   "source": "",
+   "twitch_channel": null,
+   "duration": 36364000,
+   "language": "English",
+   "is_mature": false,
+   "viewer_count": 582,
+   "thumbnail": {
+    "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/3HENoxV5bOAb/720.webp",
+    "srcset": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/3HENoxV5bOAb/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/3HENoxV5bOAb/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/3HENoxV5bOAb/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/3HENoxV5bOAb/160.webp 284w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/3HENoxV5bOAb/480.webp 640w"
+   },
+   "views": 33495,
+   "lang_iso": "en",
+   "tags": [],
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58701,
+     "is_fallback": false,
+     "banner": {
+      "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+      "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+     },
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ],
+   "video": {
+    "id": 119286389,
+    "live_stream_id": 123586912,
+    "slug": null,
+    "thumb": null,
+    "s3": null,
+    "trading_platform_id": null,
+    "created_at": "2026-08-22T22:39:58.000000Z",
+    "updated_at": "2026-09-21T08:26:23.000000Z",
+    "uuid": "b6fd5deb-9ac1-4091-87fb-758fdacfa003",
+    "views": 33495,
+    "deleted_at": null,
+    "is_pruned": false,
+    "is_private": false,
+    "status": "public"
+   }
+  }
+ ],
+ "verified": {
+  "id": 3496,
+  "channel_id": 668,
+  "created_at": "2023-06-16T21:07:17.000000Z",
+  "updated_at": "2023-06-16T21:07:17.000000Z"
+ },
+ "media": [
+  {
+   "id": 47939478,
+   "model_type": "App\\Models\\Channel",
+   "model_id": 668,
+   "collection_name": "banner_image",
+   "name": "6fcf7418-df00-460b-9467-1fa95b8eb981",
+   "file_name": "6fcf7418-df00-460b-9467-1fa95b8eb981",
+   "mime_type": "image/jpeg",
+   "disk": "s3",
+   "size": 124291,
+   "manipulations": [],
+   "custom_properties": {
+    "generated_conversions": {
+     "fullsize": true,
+     "medium": true
+    }
+   },
+   "responsive_images": [],
+   "order_column": 23326844,
+   "created_at": "2023-06-21T01:10:49.000000Z",
+   "updated_at": "2023-06-21T01:31:24.000000Z",
+   "uuid": "0dee1cc4-4594-4fe3-b71a-46a418f831e2",
+   "conversions_disk": "s3"
+  }
+ ]
+}

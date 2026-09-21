@@ -1,0 +1,32 @@
+{
+ "data": {
+  "category": {
+   "id": 15,
+   "name": "Just Chatting",
+   "slug": "just-chatting"
+  },
+  "channel": {
+   "id": 668,
+   "slug": "xqc",
+   "username": "xQc"
+  },
+  "duration": 41486,
+  "end_time": "2026-09-21T07:51:11Z",
+  "id": "01a0c078-17b8-7021-8b7e-f84923e063e4",
+  "is_live": false,
+  "is_mature": false,
+  "language": "en",
+  "original_expires_at": "2026-10-20T20:18:11Z",
+  "recording_url": "https://stream.kick.com/3c81249a5ce0/ivs/v1/196233775518/DsuAwCgUc9Bh/2026/9/20/20/18/XTsMv6X11nh6/media/hls/master.m3u8",
+  "start_time": "2026-09-20T20:18:11Z",
+  "status": "public",
+  "thumbnail": {
+   "src": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/720.webp",
+   "srcSet": "https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/1080.webp 1920w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/720.webp 1280w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/480.webp 640w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/360.webp 480w, https://images.kick.com/video_thumbnails/DsuAwCgUc9Bh/XTsMv6X11nh6/160.webp 284w"
+  },
+  "tier": "unverified",
+  "title": "🐅LIVE🐅DRAMA🐅NEWS🐅STUFF🐅GTA 5🐅SECRET UNVEILED🐅TODAY🐅RIDDLE WILL BE FINISHED🐅FOLLOW THE E🐅 EEEEEE🐅 EEEEEEE🐅EEEE🐅",
+  "viewer_count": 56658
+ },
+ "message": "Success"
+}

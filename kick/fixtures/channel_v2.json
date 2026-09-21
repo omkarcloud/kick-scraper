@@ -1,0 +1,240 @@
+{
+ "id": 668,
+ "user_id": 676,
+ "slug": "xqc",
+ "is_banned": false,
+ "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.DsuAwCgUc9Bh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvRHN1QXdDZ1VjOUJoIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly90aXplbi5raWNrLmNvbSxodHRwczovL3dlYm9zLmtpY2suY29tLGh0dHBzOi8vKi5raWNrLXByZXByb2R1Y3Rpb24uY29tLGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOmFkcy1vcHQtb3V0Ijp0cnVlLCJleHAiOjE3ODk5ODYxOTl9.qR2Z02uG9rZlG7XVEcG2gWI6EfPOLMh_X1pTH9Zl-wBFZkAu-II3lkL1_FfsOSqvWMKHhRvtaAkuwd0GA9vprOEW71WRiD4Oql4zLXRQ73NpGfAG7Svn1Ykn2z1i7A3m",
+ "vod_enabled": true,
+ "subscription_enabled": true,
+ "is_affiliate": false,
+ "followers_count": "1113891",
+ "subscriber_badges": [
+  {
+   "id": 97968,
+   "channel_id": 668,
+   "months": 1,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97968/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97975,
+   "channel_id": 668,
+   "months": 2,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97975/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97977,
+   "channel_id": 668,
+   "months": 3,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97977/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97978,
+   "channel_id": 668,
+   "months": 6,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97978/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97982,
+   "channel_id": 668,
+   "months": 9,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97982/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97985,
+   "channel_id": 668,
+   "months": 12,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97985/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97987,
+   "channel_id": 668,
+   "months": 18,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97987/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97988,
+   "channel_id": 668,
+   "months": 24,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97988/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97989,
+   "channel_id": 668,
+   "months": 30,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97989/conversion/original-fullsize.png"
+   }
+  }
+ ],
+ "banner_image": {
+  "url": "https://files.kick.com/images/channel/668/banner_image/6fcf7418-df00-460b-9467-1fa95b8eb981"
+ },
+ "livestream": null,
+ "role": null,
+ "muted": false,
+ "follower_badges": [],
+ "offline_banner_image": null,
+ "verified": true,
+ "recent_categories": [
+  {
+   "id": 15,
+   "category_id": 2,
+   "name": "Just Chatting",
+   "slug": "just-chatting",
+   "tags": [
+    "IRL",
+    "Casual"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 58701,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+    "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+   },
+   "category": {
+    "id": 2,
+    "name": "IRL",
+    "slug": "irl",
+    "icon": "🎙️"
+   }
+  },
+  {
+   "id": 8,
+   "category_id": 1,
+   "name": "Grand Theft Auto V (GTA)",
+   "slug": "grand-theft-auto-v",
+   "tags": [
+    "Shooter",
+    "Action",
+    "Open World"
+   ],
+   "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 51695,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w",
+    "url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9"
+   },
+   "category": {
+    "id": 1,
+    "name": "Games",
+    "slug": "games",
+    "icon": "🕹️"
+   }
+  },
+  {
+   "id": 84,
+   "category_id": 1,
+   "name": "Escape From Tarkov",
+   "slug": "escape-from-tarkov",
+   "tags": [
+    "Simulation",
+    "FPS",
+    "Action"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 943,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_294_392.webp 294w",
+    "url": "https://files.kick.com/images/subcategories/84/banner/599546ff-8e13-4f98-a384-2cf96714bce9"
+   },
+   "category": {
+    "id": 1,
+    "name": "Games",
+    "slug": "games",
+    "icon": "🕹️"
+   }
+  },
+  {
+   "id": 28,
+   "category_id": 4,
+   "name": "Slots & Casino",
+   "slug": "slots",
+   "tags": [
+    "Gambling"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": true,
+   "is_promoted": false,
+   "viewers": 108563,
+   "is_fallback": true,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_245_327.webp 245w",
+    "url": "https://files.kick.com/images/subcategories/28/banner/ca01a05f-f807-4fbf-8794-3d547b1bb7a6"
+   },
+   "category": {
+    "id": 4,
+    "name": "Gambling",
+    "slug": "gambling",
+    "icon": "🎰"
+   }
+  }
+ ],
+ "can_host": true,
+ "user": {
+  "id": 676,
+  "username": "xQc",
+  "bio": "THE BEST AT ABSOLUTELY EVERYTHING. THE JUICER. LEADER OF THE JUICERS.",
+  "instagram": "xqcow1/",
+  "twitter": "xqc",
+  "youtube": "channel/UCmDTrq0LNgPodDOFZiSbsww",
+  "discord": "xqcow",
+  "tiktok": "",
+  "facebook": "",
+  "club": null,
+  "profile_pic": "https://files.kick.com/images/user/676/profile_image/conversion/931b4e8f-5445-427c-bd82-b473530390cc-fullsize.webp"
+ },
+ "chatroom": {
+  "id": 668,
+  "chatable_type": "App\\Models\\Channel",
+  "channel_id": 668,
+  "created_at": "2022-10-22T06:59:51.000000Z",
+  "updated_at": "2026-01-08T23:32:57.000000Z",
+  "chat_mode_old": "public",
+  "chat_mode": "public",
+  "slow_mode": false,
+  "chatable_id": 668,
+  "followers_mode": true,
+  "subscribers_mode": false,
+  "emotes_mode": false,
+  "message_interval": 5,
+  "following_min_duration": 5760
+ }
+}

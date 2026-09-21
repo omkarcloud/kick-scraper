@@ -1,0 +1,785 @@
+{
+ "clips": [
+  {
+   "id": "clip_01H811MXG4FBR62FXPE1AXABDH",
+   "livestream_id": "12271000",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 7418785,
+   "title": "soda",
+   "clip_url": "https://clips.kick.com/clips/dh/clip_01H811MXG4FBR62FXPE1AXABDH/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/dh/clip_01H811MXG4FBR62FXPE1AXABDH/thumbnail.png",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 328281,
+   "duration": 30,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2023-08-17T06:07:19.490719Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/dh/clip_01H811MXG4FBR62FXPE1AXABDH/playlist.m3u8",
+   "view_count": 328281,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 7418785,
+    "username": "Wasab7i",
+    "slug": "wasab7i"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01H6QY1H0QCE582N739JNZTD3Q",
+   "livestream_id": "10535712",
+   "category_id": "6",
+   "channel_id": 668,
+   "user_id": 16670427,
+   "title": "BRUHHHHH",
+   "clip_url": "https://clips.kick.com/clips/3q/clip_01H6QY1H0QCE582N739JNZTD3Q/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/3q/clip_01H6QY1H0QCE582N739JNZTD3Q/thumbnail.png",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 288075,
+   "duration": 30,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2023-08-01T06:55:18.769488Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/3q/clip_01H6QY1H0QCE582N739JNZTD3Q/playlist.m3u8",
+   "view_count": 288075,
+   "likes_count": 0,
+   "category": {
+    "id": 6,
+    "name": "Overwatch",
+    "slug": "overwatch",
+    "parent_category": "games"
+   },
+   "creator": {
+    "id": 16670427,
+    "username": "aintnoway_1",
+    "slug": "aintnoway-1"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01HENP2EGF195T4FFNH472YEEK",
+   "livestream_id": "18171890",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 8322367,
+   "title": "Documentary Guy",
+   "clip_url": "https://clips.kick.com/clips/ek/clip_01HENP2EGF195T4FFNH472YEEK/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/ek/clip_01HENP2EGF195T4FFNH472YEEK/thumbnail.png",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 243409,
+   "duration": 46,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2023-11-07T20:02:55.487558Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/ek/clip_01HENP2EGF195T4FFNH472YEEK/playlist.m3u8",
+   "view_count": 243409,
+   "likes_count": 0,
+   "category": {
+    "id": 6853,
+    "name": "Lethal Company",
+    "slug": "lethal-company",
+    "parent_category": "games"
+   },
+   "creator": {
+    "id": 8322367,
+    "username": "Yetiking3",
+    "slug": "yetiking3"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01J9HF8GTSS5MP083YXGJ2WE2X",
+   "livestream_id": "38502768",
+   "category_id": "8549",
+   "channel_id": 668,
+   "user_id": 34809784,
+   "title": "HUH",
+   "clip_url": "https://clips.kick.com/clips/63/clip_01J9HF8GTSS5MP083YXGJ2WE2X/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/63/clip_01J9HF8GTSS5MP083YXGJ2WE2X/thumbnail.webp",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 232522,
+   "duration": 23,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2024-10-06T17:51:27.34934Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/63/clip_01J9HF8GTSS5MP083YXGJ2WE2X/playlist.m3u8",
+   "view_count": 232522,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 34809784,
+    "username": "neger_negerskej",
+    "slug": "neger-negerskej"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01KWZ9HNZS5V7BF1JG7AGCE0FV",
+   "livestream_id": "116417987",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 40625219,
+   "title": "ddddddddd",
+   "clip_url": "https://clips.kick.com/clips/3b/clip_01KWZ9HNZS5V7BF1JG7AGCE0FV/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/3b/clip_01KWZ9HNZS5V7BF1JG7AGCE0FV/thumbnail.webp",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 222518,
+   "duration": 30,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2026-07-07T22:00:34.43954Z",
+   "vod_starts_at": 0,
+   "is_mature": true,
+   "video_url": "https://clips.kick.com/clips/3b/clip_01KWZ9HNZS5V7BF1JG7AGCE0FV/playlist.m3u8",
+   "view_count": 222518,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 40625219,
+    "username": "Sambosa211",
+    "slug": "sambosa211"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01J4QWN10QEQ48MEM68MKD0PHS",
+   "livestream_id": "34315385",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 17132869,
+   "title": "forsenCD",
+   "clip_url": "https://clips.kick.com/clips/6c/clip_01J4QWN10QEQ48MEM68MKD0PHS/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/6c/clip_01J4QWN10QEQ48MEM68MKD0PHS/thumbnail.webp",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 174295,
+   "duration": 44,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2024-08-08T02:21:59.183568Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/6c/clip_01J4QWN10QEQ48MEM68MKD0PHS/playlist.m3u8",
+   "view_count": 174295,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 17132869,
+    "username": "ILOVEYALL",
+    "slug": "iloveyall"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01HA656QAC6ECC5MQD6GJVDQ4K",
+   "livestream_id": "14865487",
+   "category_id": "345",
+   "channel_id": 668,
+   "user_id": 5830892,
+   "title": "Aware",
+   "clip_url": "https://clips.kick.com/clips/4k/clip_01HA656QAC6ECC5MQD6GJVDQ4K/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/4k/clip_01HA656QAC6ECC5MQD6GJVDQ4K/thumbnail.png",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 150523,
+   "duration": 35,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2023-09-13T02:17:56.449288Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/4k/clip_01HA656QAC6ECC5MQD6GJVDQ4K/playlist.m3u8",
+   "view_count": 150523,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 5830892,
+    "username": "Taha1991",
+    "slug": "taha1991"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01HGVRVKQMQ89F3TQCFJ8QT37N",
+   "livestream_id": "19648649",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 22937773,
+   "title": "ADEPT",
+   "clip_url": "https://clips.kick.com/clips/cf/clip_01HGVRVKQMQ89F3TQCFJ8QT37N/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/cf/clip_01HGVRVKQMQ89F3TQCFJ8QT37N/thumbnail.png",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 150225,
+   "duration": 30,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2023-12-05T01:18:36.629499Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/cf/clip_01HGVRVKQMQ89F3TQCFJ8QT37N/playlist.m3u8",
+   "view_count": 150225,
+   "likes_count": 0,
+   "category": {
+    "id": 5,
+    "name": "League of Legends",
+    "slug": "league-of-legends",
+    "parent_category": "games"
+   },
+   "creator": {
+    "id": 22937773,
+    "username": "Raapid",
+    "slug": "raapid"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01K7HKD4XAH1Z8H5HDNPD5J6XQ",
+   "livestream_id": "78769933",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 69354551,
+   "title": "true",
+   "clip_url": "https://clips.kick.com/clips/68/clip_01K7HKD4XAH1Z8H5HDNPD5J6XQ/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/68/clip_01K7HKD4XAH1Z8H5HDNPD5J6XQ/thumbnail.webp",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 146808,
+   "duration": 28,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2025-10-14T14:58:38.089124Z",
+   "vod_starts_at": 0,
+   "is_mature": true,
+   "video_url": "https://clips.kick.com/clips/68/clip_01K7HKD4XAH1Z8H5HDNPD5J6XQ/playlist.m3u8",
+   "view_count": 146808,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 69354551,
+    "username": "betimkick7",
+    "slug": "betimkick7"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01JGPMZCKDPF1DYVS6YGBQA7W1",
+   "livestream_id": "45109531",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 3884347,
+   "title": "xqc on why he won't talk to poke anymore",
+   "clip_url": "https://clips.kick.com/clips/b4/clip_01JGPMZCKDPF1DYVS6YGBQA7W1/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/b4/clip_01JGPMZCKDPF1DYVS6YGBQA7W1/thumbnail.webp",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 96255,
+   "duration": 50,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2025-01-03T17:57:52.98244Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/b4/clip_01JGPMZCKDPF1DYVS6YGBQA7W1/playlist.m3u8",
+   "view_count": 96255,
+   "likes_count": 0,
+   "category": {
+    "id": 8098,
+    "name": "Marvel Rivals",
+    "slug": "marvel-rivals",
+    "parent_category": "games"
+   },
+   "creator": {
+    "id": 3884347,
+    "username": "hazard_j",
+    "slug": "hazard-j"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01K6FSTS6ZPZH536K4GRPP6H3X",
+   "livestream_id": "76853726",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 69354551,
+   "title": "kasdk44a",
+   "clip_url": "https://clips.kick.com/clips/f6/clip_01K6FSTS6ZPZH536K4GRPP6H3X/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/f6/clip_01K6FSTS6ZPZH536K4GRPP6H3X/thumbnail.webp",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 91752,
+   "duration": 54,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2025-10-01T12:58:26.985922Z",
+   "vod_starts_at": 0,
+   "is_mature": true,
+   "video_url": "https://clips.kick.com/clips/f6/clip_01K6FSTS6ZPZH536K4GRPP6H3X/playlist.m3u8",
+   "view_count": 91752,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 69354551,
+    "username": "betimkick7",
+    "slug": "betimkick7"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01JHK98FGENGWVA2HMXQ6TF2KY",
+   "livestream_id": "46047375",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 98582,
+   "title": "LOL",
+   "clip_url": "https://clips.kick.com/clips/f7/clip_01JHK98FGENGWVA2HMXQ6TF2KY/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/f7/clip_01JHK98FGENGWVA2HMXQ6TF2KY/thumbnail.webp",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 87729,
+   "duration": 50,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2025-01-14T20:52:44.779737Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/f7/clip_01JHK98FGENGWVA2HMXQ6TF2KY/playlist.m3u8",
+   "view_count": 87729,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 98582,
+    "username": "alikei",
+    "slug": "alikei"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01K3CG1MYK41CCNH8W4KXTV6Z2",
+   "livestream_id": "70629624",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 70490021,
+   "title": "lo",
+   "clip_url": "https://clips.kick.com/clips/a1/clip_01K3CG1MYK41CCNH8W4KXTV6Z2/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/a1/clip_01K3CG1MYK41CCNH8W4KXTV6Z2/thumbnail.webp",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 80704,
+   "duration": 34,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2025-08-23T22:16:28.817676Z",
+   "vod_starts_at": 0,
+   "is_mature": true,
+   "video_url": "https://clips.kick.com/clips/a1/clip_01K3CG1MYK41CCNH8W4KXTV6Z2/playlist.m3u8",
+   "view_count": 80704,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 70490021,
+    "username": "bigboyjamesarthur77",
+    "slug": "bigboyjamesarthur77"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01JK57XNS4DAPMSH68TBXPVXY5",
+   "livestream_id": "47913339",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 7444274,
+   "title": "call",
+   "clip_url": "https://clips.kick.com/clips/34/clip_01JK57XNS4DAPMSH68TBXPVXY5/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/34/clip_01JK57XNS4DAPMSH68TBXPVXY5/thumbnail.webp",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 78734,
+   "duration": 50,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2025-02-03T06:29:12.686387Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/34/clip_01JK57XNS4DAPMSH68TBXPVXY5/playlist.m3u8",
+   "view_count": 78734,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 7444274,
+    "username": "vices_cq",
+    "slug": "vices-cq"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01H7PDVZDBZYT15CK40NYT2KQB",
+   "livestream_id": "11810225",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 4316148,
+   "title": "xQc accepts taking adderall",
+   "clip_url": "https://clips.kick.com/clips/qb/clip_01H7PDVZDBZYT15CK40NYT2KQB/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/qb/clip_01H7PDVZDBZYT15CK40NYT2KQB/thumbnail.png",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 78700,
+   "duration": 60,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2023-08-13T03:09:44.772244Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/qb/clip_01H7PDVZDBZYT15CK40NYT2KQB/playlist.m3u8",
+   "view_count": 78700,
+   "likes_count": 0,
+   "category": {
+    "id": 12,
+    "name": "Counter-Strike: Global Offensive",
+    "slug": "counter-strike-global-offensive",
+    "parent_category": "games"
+   },
+   "creator": {
+    "id": 4316148,
+    "username": "KickIndia",
+    "slug": "kickindia"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01HHK33CSJQH2QC279JQ11KNCN",
+   "livestream_id": "20108160",
+   "category_id": "10",
+   "channel_id": 668,
+   "user_id": 1120964,
+   "title": "4K",
+   "clip_url": "https://clips.kick.com/clips/7d/clip_01HHK33CSJQH2QC279JQ11KNCN/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/7d/clip_01HHK33CSJQH2QC279JQ11KNCN/thumbnail.png",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 76535,
+   "duration": 30,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2023-12-14T02:40:53.847606Z",
+   "vod_starts_at": 0,
+   "is_mature": true,
+   "video_url": "https://clips.kick.com/clips/7d/clip_01HHK33CSJQH2QC279JQ11KNCN/playlist.m3u8",
+   "view_count": 76535,
+   "likes_count": 0,
+   "category": {
+    "id": 28,
+    "name": "Slots & Casino",
+    "slug": "slots",
+    "parent_category": "gambling"
+   },
+   "creator": {
+    "id": 1120964,
+    "username": "chrisawsom",
+    "slug": "chrisawsom"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01J1BD2SMX55946WRTF0XB6A3S",
+   "livestream_id": "31167749",
+   "category_id": "79",
+   "channel_id": 668,
+   "user_id": 1255754,
+   "title": "x rates mizkif's new hair transplant",
+   "clip_url": "https://clips.kick.com/clips/28/clip_01J1BD2SMX55946WRTF0XB6A3S/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/28/clip_01J1BD2SMX55946WRTF0XB6A3S/thumbnail.png",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 74189,
+   "duration": 54,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2024-06-26T23:12:49.410624Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/28/clip_01J1BD2SMX55946WRTF0XB6A3S/playlist.m3u8",
+   "view_count": 74189,
+   "likes_count": 0,
+   "category": {
+    "id": 599,
+    "name": "Age of Empires IV",
+    "slug": "age-of-empires-iv",
+    "parent_category": "games"
+   },
+   "creator": {
+    "id": 1255754,
+    "username": "CloudyDay",
+    "slug": "cloudyday"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01JGNDYWTF7R7JKT9MT43AR5ZG",
+   "livestream_id": "45109531",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 3884347,
+   "title": "...",
+   "clip_url": "https://clips.kick.com/clips/3f/clip_01JGNDYWTF7R7JKT9MT43AR5ZG/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/3f/clip_01JGNDYWTF7R7JKT9MT43AR5ZG/thumbnail.webp",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 72798,
+   "duration": 30,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2025-01-03T06:34:46.902728Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/3f/clip_01JGNDYWTF7R7JKT9MT43AR5ZG/playlist.m3u8",
+   "view_count": 72798,
+   "likes_count": 0,
+   "category": {
+    "id": 8098,
+    "name": "Marvel Rivals",
+    "slug": "marvel-rivals",
+    "parent_category": "games"
+   },
+   "creator": {
+    "id": 3884347,
+    "username": "hazard_j",
+    "slug": "hazard-j"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01HFZWSG01XRMQXAKRKKBXHTB1",
+   "livestream_id": "19065965",
+   "category_id": "15",
+   "channel_id": 668,
+   "user_id": 197375,
+   "title": "xqc getting humbled",
+   "clip_url": "https://clips.kick.com/clips/37/clip_01HFZWSG01XRMQXAKRKKBXHTB1/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/37/clip_01HFZWSG01XRMQXAKRKKBXHTB1/thumbnail.png",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 72388,
+   "duration": 60,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2023-11-24T05:29:20.451353Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/37/clip_01HFZWSG01XRMQXAKRKKBXHTB1/playlist.m3u8",
+   "view_count": 72388,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 197375,
+    "username": "geem",
+    "slug": "geem"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  },
+  {
+   "id": "clip_01HCA3XAXSJGPQKSAV88Y94XFJ",
+   "livestream_id": "16402713",
+   "category_id": "1552",
+   "channel_id": 668,
+   "user_id": 4355273,
+   "title": "Adept onlyfans almost happened",
+   "clip_url": "https://clips.kick.com/clips/fj/clip_01HCA3XAXSJGPQKSAV88Y94XFJ/playlist.m3u8",
+   "thumbnail_url": "https://clips.kick.com/clips/fj/clip_01HCA3XAXSJGPQKSAV88Y94XFJ/thumbnail.png",
+   "privacy": "public",
+   "likes": 0,
+   "liked": false,
+   "views": 70193,
+   "duration": 17,
+   "started_at": "0001-01-01T00:00:00Z",
+   "created_at": "2023-10-09T11:44:02.301296Z",
+   "vod_starts_at": 0,
+   "is_mature": false,
+   "video_url": "https://clips.kick.com/clips/fj/clip_01HCA3XAXSJGPQKSAV88Y94XFJ/playlist.m3u8",
+   "view_count": 70193,
+   "likes_count": 0,
+   "category": {
+    "id": 15,
+    "name": "Just Chatting",
+    "slug": "just-chatting",
+    "parent_category": "irl"
+   },
+   "creator": {
+    "id": 4355273,
+    "username": "Asuki39",
+    "slug": "asuki39"
+   },
+   "channel": {
+    "id": 668,
+    "username": "xQc",
+    "slug": "xqc",
+    "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/151f289a-5bff-4f31-b125-0c54c542519e-thumb.webp"
+   }
+  }
+ ],
+ "nextCursor": "{\"view\":70193,\"id\":\"clip_01HCA3XAXSJGPQKSAV88Y94XFJ\"}"
+}

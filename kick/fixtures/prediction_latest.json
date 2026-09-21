@@ -1,0 +1,66 @@
+{
+ "data": {
+  "prediction": {
+   "id": "01KZ7MPEFQ0BNTES7J3TQDFVPA",
+   "channel_id": 668,
+   "title": "Will xQc win ? ",
+   "outcomes": [
+    {
+     "id": "01KZ7MPEFR28EYNTF6EPNSG7MN",
+     "title": "Yes ",
+     "total_vote_amount": 522200,
+     "vote_count": 16,
+     "return_rate": 1.2605898,
+     "top_users": [
+      {
+       "id": 7334,
+       "username": "daiminister",
+       "amount": 230000
+      },
+      {
+       "id": 85470685,
+       "username": "yungw3twilly",
+       "amount": 75000
+      },
+      {
+       "id": 7422928,
+       "username": "PiffMasterRJ91",
+       "amount": 60000
+      }
+     ]
+    },
+    {
+     "id": "01KZ7MPEFR28EYNTF6EQ0DKQKS",
+     "title": "No ",
+     "total_vote_amount": 136080,
+     "vote_count": 17,
+     "return_rate": 4.8374486,
+     "top_users": [
+      {
+       "id": 84115598,
+       "username": "ironat",
+       "amount": 40000
+      },
+      {
+       "id": 7396737,
+       "username": "Chiboto",
+       "amount": 30000
+      },
+      {
+       "id": 24338439,
+       "username": "Rainbetusername",
+       "amount": 14850
+      }
+     ]
+    }
+   ],
+   "duration": 300,
+   "created_at": "2026-08-05T00:20:41Z",
+   "updated_at": "2026-08-05T00:22:53Z",
+   "locked_at": "2026-08-05T00:22:04Z",
+   "state": "RESOLVED",
+   "winning_outcome_id": "01KZ7MPEFR28EYNTF6EQ0DKQKS"
+  }
+ },
+ "message": "Success"
+}

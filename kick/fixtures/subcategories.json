@@ -1,0 +1,221 @@
+{
+ "current_page": 1,
+ "data": [
+  {
+   "id": 15,
+   "category_id": 2,
+   "name": "Just Chatting",
+   "slug": "just-chatting",
+   "tags": [
+    "IRL",
+    "Casual"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 58063,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+    "url": "https://files.kick.com/images/subcategories/15/banner/conversion/b697a8a3-62db-4779-aa76-e4e47662af97-banner.webp"
+   },
+   "category": {
+    "id": 2,
+    "name": "IRL",
+    "slug": "irl",
+    "icon": "🎙️"
+   }
+  },
+  {
+   "id": 8549,
+   "category_id": 2,
+   "name": "IRL",
+   "slug": "irl",
+   "tags": [
+    "Adventure"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 68448,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/8549/banner/responsives/3b142fca-b643-48d9-8ed0-405d454181d1___banner_408_546.webp 408w, https://files.kick.com/images/subcategories/8549/banner/responsives/3b142fca-b643-48d9-8ed0-405d454181d1___banner_341_456.webp 341w, https://files.kick.com/images/subcategories/8549/banner/responsives/3b142fca-b643-48d9-8ed0-405d454181d1___banner_285_381.webp 285w, https://files.kick.com/images/subcategories/8549/banner/responsives/3b142fca-b643-48d9-8ed0-405d454181d1___banner_238_319.webp 238w, https://files.kick.com/images/subcategories/8549/banner/responsives/3b142fca-b643-48d9-8ed0-405d454181d1___banner_199_266.webp 199w",
+    "url": "https://files.kick.com/images/subcategories/8549/banner/conversion/3b142fca-b643-48d9-8ed0-405d454181d1-banner.webp"
+   },
+   "category": {
+    "id": 2,
+    "name": "IRL",
+    "slug": "irl",
+    "icon": "🎙️"
+   }
+  },
+  {
+   "id": 8,
+   "category_id": 1,
+   "name": "Grand Theft Auto V (GTA)",
+   "slug": "grand-theft-auto-v",
+   "tags": [
+    "Shooter",
+    "Action",
+    "Open World"
+   ],
+   "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 51573,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w",
+    "url": "https://files.kick.com/images/subcategories/8/banner/conversion/8110f223-9654-4536-bfee-6a324bbf03f9-banner.webp"
+   },
+   "category": {
+    "id": 1,
+    "name": "Games",
+    "slug": "games",
+    "icon": "🕹️"
+   }
+  },
+  {
+   "id": 28,
+   "category_id": 4,
+   "name": "Slots & Casino",
+   "slug": "slots",
+   "tags": [
+    "Gambling"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": true,
+   "is_promoted": false,
+   "viewers": 110551,
+   "is_fallback": true,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_245_327.webp 245w",
+    "url": "https://files.kick.com/images/subcategories/28/banner/conversion/ca01a05f-f807-4fbf-8794-3d547b1bb7a6-banner.webp"
+   },
+   "category": {
+    "id": 4,
+    "name": "Gambling",
+    "slug": "gambling",
+    "icon": "🎰"
+   }
+  },
+  {
+   "id": 1552,
+   "category_id": 1,
+   "name": "Counter-Strike 2",
+   "slug": "counter-strike-2",
+   "tags": [
+    "Shooter",
+    "Tactical"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 17581,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/1552/banner/responsives/555d5ee4-5863-4546-8c4c-6ebca28dc60d___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/1552/banner/responsives/555d5ee4-5863-4546-8c4c-6ebca28dc60d___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/1552/banner/responsives/555d5ee4-5863-4546-8c4c-6ebca28dc60d___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/1552/banner/responsives/555d5ee4-5863-4546-8c4c-6ebca28dc60d___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/1552/banner/responsives/555d5ee4-5863-4546-8c4c-6ebca28dc60d___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/1552/banner/responsives/555d5ee4-5863-4546-8c4c-6ebca28dc60d___banner_245_327.webp 245w",
+    "url": "https://files.kick.com/images/subcategories/1552/banner/conversion/555d5ee4-5863-4546-8c4c-6ebca28dc60d-banner.webp"
+   },
+   "category": {
+    "id": 1,
+    "name": "Games",
+    "slug": "games",
+    "icon": "🕹️"
+   }
+  }
+ ],
+ "first_page_url": "https://kick.com/api/v1/subcategories?page=1",
+ "from": 1,
+ "last_page": 2586,
+ "last_page_url": "https://kick.com/api/v1/subcategories?page=2586",
+ "links": [
+  {
+   "url": null,
+   "label": "Previous",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=1",
+   "label": "1",
+   "active": true
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=2",
+   "label": "2",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=3",
+   "label": "3",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=4",
+   "label": "4",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=5",
+   "label": "5",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=6",
+   "label": "6",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=7",
+   "label": "7",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=8",
+   "label": "8",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=9",
+   "label": "9",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=10",
+   "label": "10",
+   "active": false
+  },
+  {
+   "url": null,
+   "label": "...",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=2585",
+   "label": "2585",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=2586",
+   "label": "2586",
+   "active": false
+  },
+  {
+   "url": "https://kick.com/api/v1/subcategories?page=2",
+   "label": "Next",
+   "active": false
+  }
+ ],
+ "next_page_url": "https://kick.com/api/v1/subcategories?page=2",
+ "path": "https://kick.com/api/v1/subcategories",
+ "per_page": "5",
+ "prev_page_url": null,
+ "to": 5,
+ "total": 12930
+}

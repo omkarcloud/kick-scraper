@@ -1,0 +1,116 @@
+{
+ "gifts": [
+  {
+   "user_id": 64645818,
+   "username": "PragmaticPlay_Brandon",
+   "quantity": 5434
+  },
+  {
+   "user_id": 22,
+   "username": "Eddie",
+   "quantity": 3202
+  },
+  {
+   "user_id": 24820139,
+   "username": "jamestonic",
+   "quantity": 2300
+  },
+  {
+   "user_id": 4490065,
+   "username": "Yossy",
+   "quantity": 1850
+  },
+  {
+   "user_id": 17696803,
+   "username": "LG_Buyaka",
+   "quantity": 500
+  },
+  {
+   "user_id": 376486,
+   "username": "orangemorange",
+   "quantity": 400
+  },
+  {
+   "user_id": 17031425,
+   "username": "maj_nitrogaming",
+   "quantity": 350
+  },
+  {
+   "user_id": 50901902,
+   "username": "PufferFish777",
+   "quantity": 277
+  },
+  {
+   "user_id": 83628961,
+   "username": "MrTrainer1337",
+   "quantity": 276
+  },
+  {
+   "user_id": 97866,
+   "username": "fixitfelix",
+   "quantity": 248
+  }
+ ],
+ "gifts_enabled": true,
+ "gifts_week": [
+  {
+   "user_id": 129947840,
+   "username": "sendrgg",
+   "quantity": 1
+  }
+ ],
+ "gifts_week_enabled": true,
+ "gifts_month": [
+  {
+   "user_id": 64645818,
+   "username": "PragmaticPlay_Brandon",
+   "quantity": 500
+  },
+  {
+   "user_id": 22,
+   "username": "Eddie",
+   "quantity": 300
+  },
+  {
+   "user_id": 17031425,
+   "username": "maj_nitrogaming",
+   "quantity": 50
+  },
+  {
+   "user_id": 7419472,
+   "username": "juicerrj",
+   "quantity": 5
+  },
+  {
+   "user_id": 129947840,
+   "username": "sendrgg",
+   "quantity": 3
+  },
+  {
+   "user_id": 1049809,
+   "username": "peeuhknees",
+   "quantity": 1
+  },
+  {
+   "user_id": 66309366,
+   "username": "MrLondonBoi",
+   "quantity": 1
+  },
+  {
+   "user_id": 94815051,
+   "username": "michaelmartinsb",
+   "quantity": 1
+  },
+  {
+   "user_id": 105176245,
+   "username": "meandxQc",
+   "quantity": 1
+  },
+  {
+   "user_id": 123767210,
+   "username": "jeferson12237",
+   "quantity": 1
+  }
+ ],
+ "gifts_month_enabled": true
+}

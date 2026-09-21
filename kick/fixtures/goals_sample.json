@@ -1,0 +1,16 @@
+[
+ {
+  "id": "chgoal_01KSGY50H4280NXD4ZPN3VKGZD",
+  "channel_id": "channel_01JPC152MCVK2VGV03Q1ZHESPT",
+  "type": "subscriptions",
+  "status": "active",
+  "target_value": 1000,
+  "current_value": 41,
+  "progress_bar_emoji_id": "chnl-goal-emotes/1",
+  "end_date": null,
+  "achieved_at": null,
+  "created_at": "2026-05-26T01:24:54Z",
+  "updated_at": "2026-09-19T06:10:41Z",
+  "count_from_creation": true
+ }
+]

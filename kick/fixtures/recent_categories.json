@@ -1,0 +1,91 @@
+[
+ {
+  "id": 15,
+  "category_id": 2,
+  "name": "Just Chatting",
+  "slug": "just-chatting",
+  "tags": [
+   "IRL",
+   "Casual"
+  ],
+  "description": null,
+  "viewers": 58063,
+  "banner": {
+   "src": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97",
+   "srcset": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w"
+  },
+  "category": {
+   "id": 2,
+   "name": "IRL",
+   "slug": "irl",
+   "icon": "🎙️"
+  }
+ },
+ {
+  "id": 8,
+  "category_id": 1,
+  "name": "Grand Theft Auto V (GTA)",
+  "slug": "grand-theft-auto-v",
+  "tags": [
+   "Shooter",
+   "Action",
+   "Open World"
+  ],
+  "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+  "viewers": 51573,
+  "banner": {
+   "src": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9",
+   "srcset": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w"
+  },
+  "category": {
+   "id": 1,
+   "name": "Games",
+   "slug": "games",
+   "icon": "🕹️"
+  }
+ },
+ {
+  "id": 84,
+  "category_id": 1,
+  "name": "Escape From Tarkov",
+  "slug": "escape-from-tarkov",
+  "tags": [
+   "Simulation",
+   "FPS",
+   "Action"
+  ],
+  "description": null,
+  "viewers": 712,
+  "banner": {
+   "src": "https://files.kick.com/images/subcategories/84/banner/599546ff-8e13-4f98-a384-2cf96714bce9",
+   "srcset": "https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/84/banner/responsives/599546ff-8e13-4f98-a384-2cf96714bce9___banner_294_392.webp 294w"
+  },
+  "category": {
+   "id": 1,
+   "name": "Games",
+   "slug": "games",
+   "icon": "🕹️"
+  }
+ },
+ {
+  "id": 28,
+  "category_id": 4,
+  "name": "Slots & Casino",
+  "slug": "slots",
+  "tags": [
+   "Gambling"
+  ],
+  "description": null,
+  "viewers": 110551,
+  "banner": {
+   "src": "https://files.kick.com/images/subcategories/28/banner/ca01a05f-f807-4fbf-8794-3d547b1bb7a6",
+   "srcset": "https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_245_327.webp 245w"
+  },
+  "category": {
+   "id": 4,
+   "name": "Gambling",
+   "slug": "gambling",
+   "icon": "🎰"
+  }
+ }
+]

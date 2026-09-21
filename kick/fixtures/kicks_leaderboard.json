@@ -1,0 +1,144 @@
+{
+ "data": {
+  "kicks_gifts_lifetime": [
+   {
+    "quantity": 50000,
+    "user_id": 6937907,
+    "username": "KICK"
+   },
+   {
+    "quantity": 50000,
+    "user_id": 64645818,
+    "username": "PragmaticPlay_Brandon"
+   },
+   {
+    "quantity": 15000,
+    "user_id": 22,
+    "username": "Eddie"
+   },
+   {
+    "quantity": 11050,
+    "user_id": 2453,
+    "username": "bijan"
+   },
+   {
+    "quantity": 8500,
+    "user_id": 57834823,
+    "username": "mynameisashley"
+   },
+   {
+    "quantity": 6779,
+    "user_id": 58807,
+    "username": "puzzler"
+   },
+   {
+    "quantity": 3010,
+    "user_id": 55054645,
+    "username": "kriszix"
+   },
+   {
+    "quantity": 2993,
+    "user_id": 48282671,
+    "username": "Apesigmaredpilledtateunix"
+   },
+   {
+    "quantity": 2396,
+    "user_id": 76993754,
+    "username": "ClankerWiggA"
+   },
+   {
+    "quantity": 2300,
+    "user_id": 140497,
+    "username": "KillamaneW"
+   }
+  ],
+  "kicks_gifts_lifetime_enabled": true,
+  "kicks_gifts_month": [
+   {
+    "quantity": 1000,
+    "user_id": 66939830,
+    "username": "JP_o0"
+   },
+   {
+    "quantity": 1000,
+    "user_id": 31555932,
+    "username": "U_U00"
+   },
+   {
+    "quantity": 550,
+    "user_id": 62653039,
+    "username": "pGStoner0"
+   },
+   {
+    "quantity": 500,
+    "user_id": 4352380,
+    "username": "Broughtvulture"
+   },
+   {
+    "quantity": 500,
+    "user_id": 29758419,
+    "username": "Aerobix"
+   },
+   {
+    "quantity": 500,
+    "user_id": 13084063,
+    "username": "BingChilling360"
+   },
+   {
+    "quantity": 500,
+    "user_id": 127281146,
+    "username": "Newokakusei"
+   },
+   {
+    "quantity": 211,
+    "user_id": 105176245,
+    "username": "meandxQc"
+   },
+   {
+    "quantity": 200,
+    "user_id": 46464619,
+    "username": "stormblues"
+   },
+   {
+    "quantity": 172,
+    "user_id": 66105596,
+    "username": "woofx"
+   }
+  ],
+  "kicks_gifts_month_enabled": true,
+  "kicks_gifts_week": [
+   {
+    "quantity": 2,
+    "user_id": 7657799,
+    "username": "notarobotm8"
+   },
+   {
+    "quantity": 2,
+    "user_id": 54241792,
+    "username": "realJuiceExtractor"
+   },
+   {
+    "quantity": 2,
+    "user_id": 1059522,
+    "username": "bubbledrip"
+   },
+   {
+    "quantity": 1,
+    "user_id": 66105596,
+    "username": "woofx"
+   },
+   {
+    "quantity": 1,
+    "user_id": 120877237,
+    "username": "johnshyqjhdi"
+   },
+   {
+    "quantity": 1,
+    "user_id": 1059667,
+    "username": "RobK"
+   }
+  ],
+  "kicks_gifts_week_enabled": true
+ },
+ "message": "Success"
+}

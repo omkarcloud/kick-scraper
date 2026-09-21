@@ -1,0 +1,65 @@
+{
+ "data": [
+  {
+   "id": "01KQ2WX51FPJ9NR108RH6KVHHQ",
+   "title": "Swieca",
+   "cost": 50000,
+   "description": "",
+   "is_enabled": true,
+   "is_paused": false,
+   "is_user_input_required": false,
+   "prompt": "",
+   "background_color": "#00F1FF",
+   "should_redemptions_skip_request_queue": false
+  },
+  {
+   "id": "01M17JVPWQTSJJ29HEV01RHWKW",
+   "title": "VIP",
+   "cost": 100000,
+   "description": "",
+   "is_enabled": true,
+   "is_paused": false,
+   "is_user_input_required": false,
+   "prompt": "",
+   "background_color": "#FFA600",
+   "should_redemptions_skip_request_queue": false
+  },
+  {
+   "id": "01M17JSC96NFVRK5YYVDGKZJ48",
+   "title": "KONIEC STREAMA",
+   "cost": 2000000,
+   "description": "",
+   "is_enabled": true,
+   "is_paused": false,
+   "is_user_input_required": false,
+   "prompt": "",
+   "background_color": "#00F1FF",
+   "should_redemptions_skip_request_queue": false
+  },
+  {
+   "id": "01M17JTFQJZDVBF2QAA0BMGK5A",
+   "title": "START STREAMA",
+   "cost": 5000000,
+   "description": "startuje transmisje w ciągu 30 minut od odebrania",
+   "is_enabled": true,
+   "is_paused": false,
+   "is_user_input_required": false,
+   "prompt": "",
+   "background_color": "#FF2C56",
+   "should_redemptions_skip_request_queue": false
+  },
+  {
+   "id": "01M17JWZADGBE2YZ5NNJ3Z50ST",
+   "title": "ODDAJE KANAL",
+   "cost": 999999999,
+   "description": "",
+   "is_enabled": false,
+   "is_paused": false,
+   "is_user_input_required": false,
+   "prompt": "",
+   "background_color": "#00F1FF",
+   "should_redemptions_skip_request_queue": false
+  }
+ ],
+ "message": "OK"
+}

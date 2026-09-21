@@ -1,0 +1,98 @@
+{
+ "facet_counts": [],
+ "found": 2,
+ "hits": [
+  {
+   "document": {
+    "category_id": 1,
+    "description": "",
+    "id": "13155",
+    "is_live": true,
+    "is_mature": false,
+    "name": "Grand Theft Auto VI (GTA)",
+    "parent": "games",
+    "slug": "grand-theft-auto-vi",
+    "src": "https://files.kick.com/images/subcategories/13155/banner/conversion/96e48951-056a-41cc-8a3b-cbb7649cc074-banner.webp",
+    "srcset": "https://files.kick.com/images/subcategories/13155/banner/responsives/96e48951-056a-41cc-8a3b-cbb7649cc074___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/13155/banner/responsives/96e48951-056a-41cc-8a3b-cbb7649cc074___banner_238_238.webp 238w"
+   },
+   "highlight": {
+    "name": {
+     "matched_tokens": [
+      "GTA"
+     ],
+     "snippet": "Grand Theft Auto VI (<mark>GTA</mark>)"
+    }
+   },
+   "highlights": [
+    {
+     "field": "name",
+     "matched_tokens": [
+      "GTA"
+     ],
+     "snippet": "Grand Theft Auto VI (<mark>GTA</mark>)"
+    }
+   ],
+   "text_match": 578730123365187705,
+   "text_match_info": {
+    "best_field_score": "1108091338752",
+    "best_field_weight": 15,
+    "fields_matched": 1,
+    "num_tokens_dropped": 0,
+    "score": "578730123365187705",
+    "tokens_matched": 1,
+    "typo_prefix_score": 0
+   }
+  },
+  {
+   "document": {
+    "category_id": 1,
+    "description": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+    "id": "8",
+    "is_live": true,
+    "is_mature": false,
+    "name": "Grand Theft Auto V (GTA)",
+    "parent": "games",
+    "slug": "grand-theft-auto-v",
+    "src": "https://files.kick.com/images/subcategories/8/banner/conversion/8110f223-9654-4536-bfee-6a324bbf03f9-banner.webp",
+    "srcset": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w"
+   },
+   "highlight": {
+    "name": {
+     "matched_tokens": [
+      "GTA"
+     ],
+     "snippet": "Grand Theft Auto V (<mark>GTA</mark>)"
+    }
+   },
+   "highlights": [
+    {
+     "field": "name",
+     "matched_tokens": [
+      "GTA"
+     ],
+     "snippet": "Grand Theft Auto V (<mark>GTA</mark>)"
+    }
+   ],
+   "text_match": 578730123365187705,
+   "text_match_info": {
+    "best_field_score": "1108091338752",
+    "best_field_weight": 15,
+    "fields_matched": 1,
+    "num_tokens_dropped": 0,
+    "score": "578730123365187705",
+    "tokens_matched": 1,
+    "typo_prefix_score": 0
+   }
+  }
+ ],
+ "out_of": 10765,
+ "page": 1,
+ "request_params": {
+  "collection_name": "subcategory_index",
+  "first_q": "gta",
+  "per_page": 5,
+  "q": "gta"
+ },
+ "search_cutoff": false,
+ "search_time_ms": 1
+}

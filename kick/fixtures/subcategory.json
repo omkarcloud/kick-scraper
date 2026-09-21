@@ -1,0 +1,28 @@
+{
+ "id": 15,
+ "category_id": 2,
+ "name": "Just Chatting",
+ "slug": "just-chatting",
+ "tags": [
+  "IRL",
+  "Casual"
+ ],
+ "description": null,
+ "deleted_at": null,
+ "is_mature": false,
+ "is_promoted": false,
+ "viewers": 58063,
+ "is_fallback": false,
+ "followers_count": 306868,
+ "followed": false,
+ "banner": {
+  "srcset": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+  "src": "https://files.kick.com/images/subcategories/15/banner/conversion/b697a8a3-62db-4779-aa76-e4e47662af97-banner.webp"
+ },
+ "category": {
+  "id": 2,
+  "name": "IRL",
+  "slug": "irl",
+  "icon": "🎙️"
+ }
+}

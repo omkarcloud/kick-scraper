@@ -1,0 +1,45 @@
+{
+ "status": {
+  "code": 200,
+  "message": "Poll retrieved successfully",
+  "error": false
+ },
+ "data": {
+  "poll": {
+   "title": "next",
+   "duration": 120,
+   "result_display_duration": 15,
+   "created_at": "2026-09-21T10:21:57.785054Z",
+   "options": [
+    {
+     "id": 0,
+     "label": "le fisherman",
+     "votes": 8
+    },
+    {
+     "id": 1,
+     "label": "bigger barn",
+     "votes": 3
+    },
+    {
+     "id": 2,
+     "label": "banana farm",
+     "votes": 4
+    },
+    {
+     "id": 3,
+     "label": "sugar rush",
+     "votes": 0
+    },
+    {
+     "id": 4,
+     "label": "luca pick",
+     "votes": 1
+    }
+   ],
+   "remaining": 63,
+   "has_voted": false,
+   "voted_option_id": null
+  }
+ }
+}

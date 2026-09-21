@@ -1,0 +1,568 @@
+{
+ "data": {
+  "clips": [
+   {
+    "category": {
+     "id": 1552,
+     "name": "Counter-Strike 2",
+     "slug": "counter-strike-2"
+    },
+    "channel": {
+     "id": 25254858,
+     "is_verified": false,
+     "profile_picture": "https://files.kick.com/images/user/26266149/profile_image/conversion/4d709f12-980e-4ece-8b04-7f88bbbce1a9-medium.webp",
+     "slug": "rasoa9",
+     "username": "RasoA9"
+    },
+    "created_at": "2026-09-20T21:41:49.888905Z",
+    "creator": {
+     "id": 9529109,
+     "slug": "aposu",
+     "username": "ApoSu"
+    },
+    "duration": 10,
+    "id": "clip_01M30C877S466TRB0YCNAWXQWF",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/08/clip_01M30C877S466TRB0YCNAWXQWF/playlist.m3u8",
+    "started_at": "2026-09-20T21:40:41Z",
+    "thumbnail_url": "https://clips.kick.com/clips/08/clip_01M30C877S466TRB0YCNAWXQWF/thumbnail.webp",
+    "title": "kahrol düşman al sana bombe",
+    "views_count": 109216
+   },
+   {
+    "category": {
+     "id": 28,
+     "name": "Slots & Casino",
+     "slug": "slots"
+    },
+    "channel": {
+     "id": 715,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/723/profile_image/conversion/87a305ea-3bc8-4e65-8772-9a453e8b9f37-medium.webp",
+     "slug": "trainwreckstv",
+     "username": "Trainwreckstv"
+    },
+    "created_at": "2026-09-21T05:54:21.420251Z",
+    "creator": {
+     "id": 129162401,
+     "slug": "gamalhadi4",
+     "username": "GamalHadi4"
+    },
+    "duration": 180,
+    "id": "clip_01M318EXRHMB8PNTGTDXF8Q9BD",
+    "is_mature": true,
+    "playback_url": "https://clips.kick.com/clips/59/clip_01M318EXRHMB8PNTGTDXF8Q9BD/playlist.m3u8",
+    "started_at": "2026-09-21T04:47:22Z",
+    "thumbnail_url": "https://clips.kick.com/clips/59/clip_01M318EXRHMB8PNTGTDXF8Q9BD/thumbnail.webp",
+    "title": "free lilskydie",
+    "views_count": 23576
+   },
+   {
+    "category": {
+     "id": 1552,
+     "name": "Counter-Strike 2",
+     "slug": "counter-strike-2"
+    },
+    "channel": {
+     "id": 61269969,
+     "is_verified": false,
+     "profile_picture": "https://files.kick.com/images/user/62411329/profile_image/conversion/8dd81a56-4650-4f73-961f-85d365a86fa1-medium.webp",
+     "slug": "ziyaakbulut",
+     "username": "ziyaakbulut"
+    },
+    "created_at": "2026-09-21T07:02:03.219463Z",
+    "creator": {
+     "id": 62411329,
+     "slug": "ziyaakbulut",
+     "username": "ziyaakbulut"
+    },
+    "duration": 18,
+    "id": "clip_01M31C96S9V6EE6TAYD050JPZA",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/e9/clip_01M31C96S9V6EE6TAYD050JPZA/playlist.m3u8",
+    "started_at": "2026-09-21T06:13:47Z",
+    "thumbnail_url": "https://clips.kick.com/clips/e9/clip_01M31C96S9V6EE6TAYD050JPZA/thumbnail.webp",
+    "title": "koca kafa",
+    "views_count": 13642
+   },
+   {
+    "category": {
+     "id": 28,
+     "name": "Slots & Casino",
+     "slug": "slots"
+    },
+    "channel": {
+     "id": 82569540,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/83760887/profile_image/conversion/a3a11113-f659-4a4a-8d79-19e1086435c9-medium.webp",
+     "slug": "betwithkevin",
+     "username": "BetwithKEVIN"
+    },
+    "created_at": "2026-09-20T11:10:14.358089Z",
+    "creator": {
+     "id": 83760887,
+     "slug": "betwithkevin",
+     "username": "BetwithKEVIN"
+    },
+    "duration": 15,
+    "id": "clip_01M2Z83VK2XXBKTDSG62XM2J58",
+    "is_mature": true,
+    "playback_url": "https://clips.kick.com/clips/31/clip_01M2Z83VK2XXBKTDSG62XM2J58/playlist.m3u8",
+    "started_at": "2026-09-18T06:09:24Z",
+    "thumbnail_url": "https://clips.kick.com/clips/31/clip_01M2Z83VK2XXBKTDSG62XM2J58/thumbnail.webp",
+    "title": "120k sweet bonanza",
+    "views_count": 11362
+   },
+   {
+    "category": {
+     "id": 8549,
+     "name": "IRL",
+     "slug": "irl"
+    },
+    "channel": {
+     "id": 1360944,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/1405177/profile_image/conversion/2f59fd15-cc22-4b4d-abdf-892c0a0182ed-medium.webp",
+     "slug": "cowboyheritage",
+     "username": "cowboyheritage"
+    },
+    "created_at": "2026-09-21T05:27:29.572817Z",
+    "creator": {
+     "id": 1405177,
+     "slug": "cowboyheritage",
+     "username": "cowboyheritage"
+    },
+    "duration": 180,
+    "id": "clip_01M316X4W0H6Y80BW7D4G4V3Z9",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/b8/clip_01M316X4W0H6Y80BW7D4G4V3Z9/playlist.m3u8",
+    "started_at": "2026-09-21T04:16:25Z",
+    "thumbnail_url": "https://clips.kick.com/clips/b8/clip_01M316X4W0H6Y80BW7D4G4V3Z9/thumbnail.webp",
+    "title": "+1 epic npc loot",
+    "views_count": 4216
+   },
+   {
+    "category": {
+     "id": 8,
+     "name": "Grand Theft Auto V (GTA)",
+     "slug": "grand-theft-auto-v"
+    },
+    "channel": {
+     "id": 32807,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/33057/profile_image/conversion/f9532639-c917-468d-899a-da08c31a1d77-medium.webp",
+     "slug": "buddha",
+     "username": "Buddha"
+    },
+    "created_at": "2026-09-21T02:49:26.865564Z",
+    "creator": {
+     "id": 121380004,
+     "slug": "orangejuiceboxes",
+     "username": "orangejuiceboxes"
+    },
+    "duration": 119,
+    "id": "clip_01M30XRPFTTEYKSMXWXX9TN22D",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/ba/clip_01M30XRPFTTEYKSMXWXX9TN22D/playlist.m3u8",
+    "started_at": "2026-09-20T20:09:52Z",
+    "thumbnail_url": "https://clips.kick.com/clips/ba/clip_01M30XRPFTTEYKSMXWXX9TN22D/thumbnail.webp",
+    "title": "cj unlocks gc",
+    "views_count": 2845
+   },
+   {
+    "category": {
+     "id": 8,
+     "name": "Grand Theft Auto V (GTA)",
+     "slug": "grand-theft-auto-v"
+    },
+    "channel": {
+     "id": 2587387,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/2642629/profile_image/conversion/1bb2975e-6717-49a1-aa46-ca2a4b817463-medium.webp",
+     "slug": "4head",
+     "username": "4HEAD"
+    },
+    "created_at": "2026-09-20T12:44:03.51799Z",
+    "creator": {
+     "id": 92274296,
+     "slug": "doggoboggo",
+     "username": "doggoboggo"
+    },
+    "duration": 45,
+    "id": "clip_01M2ZDDKXSA6C3XZ4JZT3G1RGV",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/e6/clip_01M2ZDDKXSA6C3XZ4JZT3G1RGV/playlist.m3u8",
+    "started_at": "2026-09-20T12:38:00Z",
+    "thumbnail_url": "https://clips.kick.com/clips/e6/clip_01M2ZDDKXSA6C3XZ4JZT3G1RGV/thumbnail.webp",
+    "title": "4head gets punished",
+    "views_count": 2764
+   },
+   {
+    "category": {
+     "id": 111,
+     "name": "Old School RuneScape",
+     "slug": "old-school-runescape"
+    },
+    "channel": {
+     "id": 2401072,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/2455830/profile_image/conversion/fbf4d0db-156d-4c7d-98d5-3fb800025ef6-medium.webp",
+     "slug": "odablock",
+     "username": "Odablock"
+    },
+    "created_at": "2026-09-20T01:38:29.675449Z",
+    "creator": {
+     "id": 2996001,
+     "slug": "balerion25",
+     "username": "Balerion25"
+    },
+    "duration": 38,
+    "id": "clip_01M2Y7DAFBD3A6EASF57XFCWAD",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/4d/clip_01M2Y7DAFBD3A6EASF57XFCWAD/playlist.m3u8",
+    "started_at": "2026-09-20T01:14:45Z",
+    "thumbnail_url": "https://clips.kick.com/clips/4d/clip_01M2Y7DAFBD3A6EASF57XFCWAD/thumbnail.webp",
+    "title": "Series",
+    "views_count": 2283
+   },
+   {
+    "category": {
+     "id": 8549,
+     "name": "IRL",
+     "slug": "irl"
+    },
+    "channel": {
+     "id": 3473164,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/3543430/profile_image/conversion/5b78bcc9-343f-4186-9a88-16586e6c9726-medium.webp",
+     "slug": "chanty",
+     "username": "Chanty"
+    },
+    "created_at": "2026-09-21T01:49:46.603672Z",
+    "creator": {
+     "id": 29503674,
+     "slug": "isigg1",
+     "username": "isigg1"
+    },
+    "duration": 70,
+    "id": "clip_01M30TDZCED23AFGCYVTYKNYE1",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/31/clip_01M30TDZCED23AFGCYVTYKNYE1/playlist.m3u8",
+    "started_at": "2026-09-21T01:47:40Z",
+    "thumbnail_url": "https://clips.kick.com/clips/31/clip_01M30TDZCED23AFGCYVTYKNYE1/thumbnail.webp",
+    "title": "VILLA DAVO",
+    "views_count": 1799
+   },
+   {
+    "category": {
+     "id": 14048,
+     "name": "Wardogs",
+     "slug": "wardogs"
+    },
+    "channel": {
+     "id": 118958,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/120292/profile_image/conversion/1d004d7f-4ef5-4c1c-8911-606a69303f61-medium.webp",
+     "slug": "rayc",
+     "username": "RayC"
+    },
+    "created_at": "2026-09-21T08:52:00.785783Z",
+    "creator": {
+     "id": 51942677,
+     "slug": "lkatressi",
+     "username": "lkatressi"
+    },
+    "duration": 48,
+    "id": "clip_01M31JKSGFJNWPTDFM1X1QDRS6",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/8f/clip_01M31JKSGFJNWPTDFM1X1QDRS6/playlist.m3u8",
+    "started_at": "2026-09-21T08:01:05Z",
+    "thumbnail_url": "https://clips.kick.com/clips/8f/clip_01M31JKSGFJNWPTDFM1X1QDRS6/thumbnail.webp",
+    "title": "Rayc invited to NPV",
+    "views_count": 1510
+   },
+   {
+    "category": {
+     "id": 8,
+     "name": "Grand Theft Auto V (GTA)",
+     "slug": "grand-theft-auto-v"
+    },
+    "channel": {
+     "id": 105521973,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/106756949/profile_image/conversion/6f07fb18-5ffc-4a35-ae31-0810e7a7a01e-medium.webp",
+     "slug": "8bitheadflicker",
+     "username": "8bitHeadFlicker"
+    },
+    "created_at": "2026-09-20T06:17:28.878133Z",
+    "creator": {
+     "id": 106765461,
+     "slug": "jilanizzz",
+     "username": "Jilanizzz"
+    },
+    "duration": 125,
+    "id": "clip_01M2YQBXKSA4F4TPP4C5CFT15Z",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/76/clip_01M2YQBXKSA4F4TPP4C5CFT15Z/playlist.m3u8",
+    "started_at": "2026-09-19T20:50:52Z",
+    "thumbnail_url": "https://clips.kick.com/clips/76/clip_01M2YQBXKSA4F4TPP4C5CFT15Z/thumbnail.webp",
+    "title": "Shonty memes",
+    "views_count": 1420
+   },
+   {
+    "category": {
+     "id": 15,
+     "name": "Just Chatting",
+     "slug": "just-chatting"
+    },
+    "channel": {
+     "id": 55829408,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/56958473/profile_image/conversion/55239ac7-6b2a-4da6-8ac3-5a84b00e16a6-medium.webp",
+     "slug": "nekokoneko",
+     "username": "Nekokoneko"
+    },
+    "created_at": "2026-09-21T02:09:30.860462Z",
+    "creator": {
+     "id": 86860872,
+     "slug": "abzou",
+     "username": "abzou"
+    },
+    "duration": 11,
+    "id": "clip_01M30VHY9MQ65ZMDHX65Y637QM",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/02/clip_01M30VHY9MQ65ZMDHX65Y637QM/playlist.m3u8",
+    "started_at": "2026-09-21T02:08:06Z",
+    "thumbnail_url": "https://clips.kick.com/clips/02/clip_01M30VHY9MQ65ZMDHX65Y637QM/thumbnail.webp",
+    "title": "かっこいいいいいいいいいいいいい",
+    "views_count": 1293
+   },
+   {
+    "category": {
+     "id": 28,
+     "name": "Slots & Casino",
+     "slug": "slots"
+    },
+    "channel": {
+     "id": 26408657,
+     "is_verified": false,
+     "profile_picture": "https://files.kick.com/images/user/27429612/profile_image/conversion/c71221cd-d04d-40fa-8da0-2cd8c0d1a3fb-medium.webp",
+     "slug": "h3nnri",
+     "username": "h3nnri"
+    },
+    "created_at": "2026-09-21T00:35:13.890423Z",
+    "creator": {
+     "id": 27429612,
+     "slug": "h3nnri",
+     "username": "h3nnri"
+    },
+    "duration": 39,
+    "id": "clip_01M30P4SZGWY93XEWWQC7ZVNSE",
+    "is_mature": true,
+    "playback_url": "https://clips.kick.com/clips/ad/clip_01M30P4SZGWY93XEWWQC7ZVNSE/playlist.m3u8",
+    "started_at": "2026-09-21T00:09:40Z",
+    "thumbnail_url": "https://clips.kick.com/clips/ad/clip_01M30P4SZGWY93XEWWQC7ZVNSE/thumbnail.webp",
+    "title": "1200$ WE WON NEAR MAXWIN",
+    "views_count": 1214
+   },
+   {
+    "category": {
+     "id": 28,
+     "name": "Slots & Casino",
+     "slug": "slots"
+    },
+    "channel": {
+     "id": 62620849,
+     "is_verified": false,
+     "profile_picture": "https://files.kick.com/images/user/63765091/profile_image/conversion/42fb09b5-dbcb-4422-abfa-b50a2f4321b8-medium.webp",
+     "slug": "c4nceltv",
+     "username": "C4NCELTV"
+    },
+    "created_at": "2026-09-21T02:44:35.829737Z",
+    "creator": {
+     "id": 63765091,
+     "slug": "c4nceltv",
+     "username": "C4NCELTV"
+    },
+    "duration": 33,
+    "id": "clip_01M30XHFSB455PXWS9TV68GZC4",
+    "is_mature": true,
+    "playback_url": "https://clips.kick.com/clips/2c/clip_01M30XHFSB455PXWS9TV68GZC4/playlist.m3u8",
+    "started_at": "2026-09-20T01:37:19Z",
+    "thumbnail_url": "https://clips.kick.com/clips/2c/clip_01M30XHFSB455PXWS9TV68GZC4/thumbnail.webp",
+    "title": "500$ On Fire Portals",
+    "views_count": 1195
+   },
+   {
+    "category": {
+     "id": 28,
+     "name": "Slots & Casino",
+     "slug": "slots"
+    },
+    "channel": {
+     "id": 62620849,
+     "is_verified": false,
+     "profile_picture": "https://files.kick.com/images/user/63765091/profile_image/conversion/42fb09b5-dbcb-4422-abfa-b50a2f4321b8-medium.webp",
+     "slug": "c4nceltv",
+     "username": "C4NCELTV"
+    },
+    "created_at": "2026-09-21T02:50:08.850124Z",
+    "creator": {
+     "id": 63765091,
+     "slug": "c4nceltv",
+     "username": "C4NCELTV"
+    },
+    "duration": 27,
+    "id": "clip_01M30XPVJ59ZTCQ21EAFBEXFSA",
+    "is_mature": true,
+    "playback_url": "https://clips.kick.com/clips/94/clip_01M30XPVJ59ZTCQ21EAFBEXFSA/playlist.m3u8",
+    "started_at": "2026-09-20T01:45:22Z",
+    "thumbnail_url": "https://clips.kick.com/clips/94/clip_01M30XPVJ59ZTCQ21EAFBEXFSA/thumbnail.webp",
+    "title": "1000X On Le Fisherman",
+    "views_count": 1054
+   },
+   {
+    "category": {
+     "id": 28,
+     "name": "Slots & Casino",
+     "slug": "slots"
+    },
+    "channel": {
+     "id": 116036815,
+     "is_verified": false,
+     "profile_picture": "https://files.kick.com/images/user/117283391/profile_image/conversion/d5312e16-5f05-4602-bcf9-cb42b899f064-medium.webp",
+     "slug": "frolzenn",
+     "username": "FROLZENN"
+    },
+    "created_at": "2026-09-20T08:44:46.230666Z",
+    "creator": {
+     "id": 117283391,
+     "slug": "frolzenn",
+     "username": "FROLZENN"
+    },
+    "duration": 70,
+    "id": "clip_01M2YZS16TV8CBE07DGQ3K0FF9",
+    "is_mature": true,
+    "playback_url": "https://clips.kick.com/clips/52/clip_01M2YZS16TV8CBE07DGQ3K0FF9/playlist.m3u8",
+    "started_at": "2026-09-20T08:37:59Z",
+    "thumbnail_url": "https://clips.kick.com/clips/52/clip_01M2YZS16TV8CBE07DGQ3K0FF9/thumbnail.webp",
+    "title": "не плохо",
+    "views_count": 1045
+   },
+   {
+    "category": {
+     "id": 15,
+     "name": "Just Chatting",
+     "slug": "just-chatting"
+    },
+    "channel": {
+     "id": 106183320,
+     "is_verified": false,
+     "profile_picture": "https://files.kick.com/images/user/107420331/profile_image/conversion/f81a8e9a-7759-4399-b72e-3a5d1cd50ce8-medium.webp",
+     "slug": "los-primos-lp",
+     "username": "Los_primos_lp"
+    },
+    "created_at": "2026-09-20T04:10:07.693781Z",
+    "creator": {
+     "id": 107420331,
+     "slug": "los-primos-lp",
+     "username": "Los_primos_lp"
+    },
+    "duration": 23,
+    "id": "clip_01M2YG2H900DNHSFSQ1HJ5REFF",
+    "is_mature": true,
+    "playback_url": "https://clips.kick.com/clips/a2/clip_01M2YG2H900DNHSFSQ1HJ5REFF/playlist.m3u8",
+    "started_at": "2026-09-20T02:26:13Z",
+    "thumbnail_url": "https://clips.kick.com/clips/a2/clip_01M2YG2H900DNHSFSQ1HJ5REFF/thumbnail.webp",
+    "title": "pelea de pri y melany",
+    "views_count": 1020
+   },
+   {
+    "category": {
+     "id": 5,
+     "name": "League of Legends",
+     "slug": "league-of-legends"
+    },
+    "channel": {
+     "id": 258834,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/261340/profile_image/conversion/21f551b8-e18c-4b8d-94d7-d61ed3c51c0c-medium.webp",
+     "slug": "yetz",
+     "username": "yetz"
+    },
+    "created_at": "2026-09-21T02:09:20.541911Z",
+    "creator": {
+     "id": 3665728,
+     "slug": "haterdoflamengo",
+     "username": "HaterdoFlamengo"
+    },
+    "duration": 180,
+    "id": "clip_01M30VH4R1Q2EMFF33D5EX0YSG",
+    "is_mature": false,
+    "playback_url": "https://clips.kick.com/clips/d8/clip_01M30VH4R1Q2EMFF33D5EX0YSG/playlist.m3u8",
+    "started_at": "2026-09-20T19:31:16Z",
+    "thumbnail_url": "https://clips.kick.com/clips/d8/clip_01M30VH4R1Q2EMFF33D5EX0YSG/thumbnail.webp",
+    "title": "Motivo",
+    "views_count": 1002
+   },
+   {
+    "category": {
+     "id": 1058,
+     "name": "Body Art",
+     "slug": "body-art"
+    },
+    "channel": {
+     "id": 42325370,
+     "is_verified": true,
+     "profile_picture": "https://files.kick.com/images/user/43422276/profile_image/conversion/0fea0429-e976-456f-93ed-336dda8571d1-medium.webp",
+     "slug": "vicilucky",
+     "username": "Vicilucky"
+    },
+    "created_at": "2026-09-20T05:59:45.838443Z",
+    "creator": {
+     "id": 43657442,
+     "slug": "smackynacky",
+     "username": "Smackynacky"
+    },
+    "duration": 180,
+    "id": "clip_01M2YPBXAR0TCZXS23NCEMHKAQ",
+    "is_mature": true,
+    "playback_url": "https://clips.kick.com/clips/a5/clip_01M2YPBXAR0TCZXS23NCEMHKAQ/playlist.m3u8",
+    "started_at": "2026-09-20T05:52:54Z",
+    "thumbnail_url": "https://clips.kick.com/clips/a5/clip_01M2YPBXAR0TCZXS23NCEMHKAQ/thumbnail.webp",
+    "title": "Body art",
+    "views_count": 890
+   },
+   {
+    "category": {
+     "id": 28,
+     "name": "Slots & Casino",
+     "slug": "slots"
+    },
+    "channel": {
+     "id": 122011542,
+     "is_verified": false,
+     "profile_picture": "https://files.kick.com/images/user/123267060/profile_image/conversion/f4c90578-2af0-4a40-ac46-abd8582fd4a3-medium.webp",
+     "slug": "lebabycute",
+     "username": "LeBabyCute"
+    },
+    "created_at": "2026-09-20T12:46:17.857986Z",
+    "creator": {
+     "id": 46521703,
+     "slug": "babygodless",
+     "username": "babygodless"
+    },
+    "duration": 24,
+    "id": "clip_01M2ZDKZ8TMRW4KBYGT1CQ72GP",
+    "is_mature": true,
+    "playback_url": "https://clips.kick.com/clips/f7/clip_01M2ZDKZ8TMRW4KBYGT1CQ72GP/playlist.m3u8",
+    "started_at": "2026-09-20T10:01:37Z",
+    "thumbnail_url": "https://clips.kick.com/clips/f7/clip_01M2ZDKZ8TMRW4KBYGT1CQ72GP/thumbnail.webp",
+    "title": "AHAHAHAHHA OMFG",
+    "views_count": 878
+   }
+  ],
+  "cursor": "eyJpZCI6ImNsaXBfMDFNMlpES1o4VE1SVzRLQllHVDFDUTcyR1AiLCJ2aWV3cyI6ODc4fQ=="
+ },
+ "message": "success"
+}

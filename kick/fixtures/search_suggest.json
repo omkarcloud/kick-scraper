@@ -1,0 +1,89 @@
+{
+ "data": {
+  "categories": [
+   {
+    "is_mature": false,
+    "name": "Grand Theft Auto V (GTA)",
+    "slug": "grand-theft-auto-v",
+    "thumbnail": {
+     "src": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9",
+     "srcset": "https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_293_391.webp 293w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_245_327.webp 245w, https://files.kick.com/images/subcategories/8/banner/responsives/8110f223-9654-4536-bfee-6a324bbf03f9___banner_205_273.webp 205w"
+    }
+   },
+   {
+    "is_mature": false,
+    "name": "Grand Theft Auto VI (GTA)",
+    "slug": "grand-theft-auto-vi",
+    "thumbnail": {
+     "src": "https://files.kick.com/images/subcategories/13155/banner/96e48951-056a-41cc-8a3b-cbb7649cc074",
+     "srcset": "https://files.kick.com/images/subcategories/13155/banner/responsives/96e48951-056a-41cc-8a3b-cbb7649cc074___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/13155/banner/responsives/96e48951-056a-41cc-8a3b-cbb7649cc074___banner_238_238.webp 238w"
+    }
+   },
+   {
+    "is_mature": false,
+    "name": "Dragon Ball GT: Transformation",
+    "slug": "dragon-ball-gt-transformation",
+    "thumbnail": {
+     "src": "https://files.kick.com/images/subcategories/13128/banner/1e8d194e-6734-4dff-b3ee-45636b82003d",
+     "srcset": "https://files.kick.com/images/subcategories/13128/banner/responsives/1e8d194e-6734-4dff-b3ee-45636b82003d___banner_285_285.webp 285w, https://files.kick.com/images/subcategories/13128/banner/responsives/1e8d194e-6734-4dff-b3ee-45636b82003d___banner_238_238.webp 238w, https://files.kick.com/images/subcategories/13128/banner/responsives/1e8d194e-6734-4dff-b3ee-45636b82003d___banner_199_199.webp 199w"
+    }
+   }
+  ],
+  "channels": [
+   {
+    "is_live": false,
+    "is_verified": true,
+    "profile_picture": "https://files.kick.com/images/user/1994596/profile_image/conversion/0f011e8f-8a65-4f87-ad41-785a50f91b34-medium.webp",
+    "slug": "gtasty",
+    "username": "gTasty"
+   },
+   {
+    "is_live": false,
+    "is_verified": true,
+    "profile_picture": "https://files.kick.com/images/user/120288486/profile_image/0f16ab9d-5ba7-491b-96cb-faa950ab17e7",
+    "slug": "gtamarathon",
+    "username": "GTAMarathon"
+   },
+   {
+    "is_live": false,
+    "is_verified": true,
+    "profile_picture": "https://files.kick.com/images/user/62138924/profile_image/conversion/1c7d28ff-85b1-4265-a38e-a2648bf5b57e-medium.webp",
+    "slug": "sangtar",
+    "username": "Sangtar"
+   }
+  ],
+  "livestreams": [
+   {
+    "is_mature": false,
+    "language": "en",
+    "slug": "nightowlchemist",
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/zvdKUmjqRfEJ/CiZNTBYJdn5P/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/zvdKUmjqRfEJ/CiZNTBYJdn5P/1080.webp 1920w, https://images.kick.com/video_thumbnails/zvdKUmjqRfEJ/CiZNTBYJdn5P/720.webp 1280w, https://images.kick.com/video_thumbnails/zvdKUmjqRfEJ/CiZNTBYJdn5P/480.webp 640w, https://images.kick.com/video_thumbnails/zvdKUmjqRfEJ/CiZNTBYJdn5P/360.webp 480w, https://images.kick.com/video_thumbnails/zvdKUmjqRfEJ/CiZNTBYJdn5P/160.webp 284w"
+    },
+    "title": "GTA V! GTA 5! GTA RP!"
+   },
+   {
+    "is_mature": false,
+    "language": "en",
+    "slug": "theonlyyori",
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/jTNNnxQeWINS/QJ2wCLoQJXA3/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/jTNNnxQeWINS/QJ2wCLoQJXA3/1080.webp 1920w, https://images.kick.com/video_thumbnails/jTNNnxQeWINS/QJ2wCLoQJXA3/720.webp 1280w, https://images.kick.com/video_thumbnails/jTNNnxQeWINS/QJ2wCLoQJXA3/480.webp 640w, https://images.kick.com/video_thumbnails/jTNNnxQeWINS/QJ2wCLoQJXA3/360.webp 480w, https://images.kick.com/video_thumbnails/jTNNnxQeWINS/QJ2wCLoQJXA3/160.webp 284w"
+    },
+    "title": "sl & gta"
+   },
+   {
+    "is_mature": false,
+    "language": "en",
+    "slug": "ygboy1550",
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/fLtoATfiNQxw/v6qaBigiJ04O/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/fLtoATfiNQxw/v6qaBigiJ04O/1080.webp 1920w, https://images.kick.com/video_thumbnails/fLtoATfiNQxw/v6qaBigiJ04O/720.webp 1280w, https://images.kick.com/video_thumbnails/fLtoATfiNQxw/v6qaBigiJ04O/480.webp 640w, https://images.kick.com/video_thumbnails/fLtoATfiNQxw/v6qaBigiJ04O/360.webp 480w, https://images.kick.com/video_thumbnails/fLtoATfiNQxw/v6qaBigiJ04O/160.webp 284w"
+    },
+    "title": "GTA MAIN"
+   }
+  ]
+ },
+ "message": "success"
+}

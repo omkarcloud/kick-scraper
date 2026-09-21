@@ -1,0 +1,371 @@
+{
+ "data": {
+  "livestreams": [
+   {
+    "category": {
+     "id": 8549,
+     "name": "IRL",
+     "slug": "irl"
+    },
+    "channel": {
+     "id": 5417122,
+     "profile_pic": "https://files.kick.com/images/user/5508767/profile_image/conversion/573bc8be-7580-426c-b741-a65dca3ab089-medium.webp",
+     "slug": "deenthegreat",
+     "username": "DeenTheGreat"
+    },
+    "chatroom_id": 5389830,
+    "id": "01a0c08e-3bb0-736a-8cba-09e33a55f519",
+    "is_mature": false,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-20T20:42:22Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/nnDwHw8EOliy/FPLEentX84Jv/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/nnDwHw8EOliy/FPLEentX84Jv/1080.webp 1920w, https://images.kick.com/video_thumbnails/nnDwHw8EOliy/FPLEentX84Jv/720.webp 1280w, https://images.kick.com/video_thumbnails/nnDwHw8EOliy/FPLEentX84Jv/480.webp 640w, https://images.kick.com/video_thumbnails/nnDwHw8EOliy/FPLEentX84Jv/360.webp 480w, https://images.kick.com/video_thumbnails/nnDwHw8EOliy/FPLEentX84Jv/160.webp 284w"
+    },
+    "title": "LOCKED-IN-ATHON DAY 70 OF 90 🔥 w/ HITMAKA MAKING A HIT PROJECT DAY 4 💿",
+    "viewer_count": 15496
+   },
+   {
+    "category": {
+     "id": 1552,
+     "name": "Counter-Strike 2",
+     "slug": "counter-strike-2"
+    },
+    "channel": {
+     "id": 108929383,
+     "profile_pic": "https://files.kick.com/images/user/110169543/profile_image/conversion/f8bcfab7-0736-4fa2-bd83-e22de70706b4-medium.webp",
+     "slug": "stake_pulse",
+     "username": "Stake_Pulse"
+    },
+    "chatroom_id": 108639875,
+    "id": "01a0c347-c9e8-7c59-9c19-389117b506d1",
+    "is_mature": false,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T09:24:17Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/edkPLIsMPiNq/Kx60WlsbfIOD/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/edkPLIsMPiNq/Kx60WlsbfIOD/1080.webp 1920w, https://images.kick.com/video_thumbnails/edkPLIsMPiNq/Kx60WlsbfIOD/720.webp 1280w, https://images.kick.com/video_thumbnails/edkPLIsMPiNq/Kx60WlsbfIOD/480.webp 640w, https://images.kick.com/video_thumbnails/edkPLIsMPiNq/Kx60WlsbfIOD/360.webp 480w, https://images.kick.com/video_thumbnails/edkPLIsMPiNq/Kx60WlsbfIOD/160.webp 284w"
+    },
+    "title": "Stake Pulse Beat II - Astralis vs. Sangal - GROUP A - !stake",
+    "viewer_count": 2697
+   },
+   {
+    "category": {
+     "id": 15,
+     "name": "Just Chatting",
+     "slug": "just-chatting"
+    },
+    "channel": {
+     "id": 112200,
+     "profile_pic": "https://files.kick.com/images/user/113474/profile_image/conversion/7d7c6746-19b8-4778-b569-263c1a72213b-medium.webp",
+     "slug": "gogirl",
+     "username": "gogirl"
+    },
+    "chatroom_id": 112198,
+    "id": "01a0c2ff-d408-7ad8-ba46-e4dd55d8d1b5",
+    "is_mature": false,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T08:05:41Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/TCsx5HElwM7o/MWJTXsgJvMB9/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/TCsx5HElwM7o/MWJTXsgJvMB9/1080.webp 1920w, https://images.kick.com/video_thumbnails/TCsx5HElwM7o/MWJTXsgJvMB9/720.webp 1280w, https://images.kick.com/video_thumbnails/TCsx5HElwM7o/MWJTXsgJvMB9/480.webp 640w, https://images.kick.com/video_thumbnails/TCsx5HElwM7o/MWJTXsgJvMB9/360.webp 480w, https://images.kick.com/video_thumbnails/TCsx5HElwM7o/MWJTXsgJvMB9/160.webp 284w"
+    },
+    "title": "MARATHON STREAM DAY 2 WITH @lil_taybae 💜 POKEMON 💜 FIND MORE OF ME -> !S IN CHAT 💜 !modtip",
+    "viewer_count": 74
+   },
+   {
+    "category": {
+     "id": 4571,
+     "name": "Live Music",
+     "slug": "live-music"
+    },
+    "channel": {
+     "id": 1330972,
+     "profile_pic": "https://files.kick.com/images/user/1374659/profile_image/conversion/373f1d32-340b-407d-9a8a-54a079aaf15e-medium.webp",
+     "slug": "lizzvega",
+     "username": "lizzvega"
+    },
+    "chatroom_id": 1323895,
+    "id": "01a0c200-0f78-7108-9391-413c3ff82b7b",
+    "is_mature": false,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T03:26:19Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/Jr9uXX5D5s1A/qPhceJT4YQbz/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/Jr9uXX5D5s1A/qPhceJT4YQbz/1080.webp 1920w, https://images.kick.com/video_thumbnails/Jr9uXX5D5s1A/qPhceJT4YQbz/720.webp 1280w, https://images.kick.com/video_thumbnails/Jr9uXX5D5s1A/qPhceJT4YQbz/480.webp 640w, https://images.kick.com/video_thumbnails/Jr9uXX5D5s1A/qPhceJT4YQbz/360.webp 480w, https://images.kick.com/video_thumbnails/Jr9uXX5D5s1A/qPhceJT4YQbz/160.webp 284w"
+    },
+    "title": "Back + Painter Lizz Update + Sitting Down + Classroom Song Review 🎶",
+    "viewer_count": 38
+   },
+   {
+    "category": {
+     "id": 28,
+     "name": "Slots & Casino",
+     "slug": "slots"
+    },
+    "channel": {
+     "id": 413269,
+     "profile_pic": "https://files.kick.com/images/user/423382/profile_image/conversion/60700449-89e3-4b14-918f-497cb73e87a0-medium.webp",
+     "slug": "jamie",
+     "username": "Jamie"
+    },
+    "chatroom_id": 413152,
+    "id": "01a0c305-2f20-7af7-805c-89d87ba72811",
+    "is_mature": true,
+    "language": "en",
+    "show_view_count": false,
+    "start_time": "2026-09-21T08:11:32Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/ieO9hywJfxSH/7YlpDSoyW2tG/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/ieO9hywJfxSH/7YlpDSoyW2tG/1080.webp 1920w, https://images.kick.com/video_thumbnails/ieO9hywJfxSH/7YlpDSoyW2tG/720.webp 1280w, https://images.kick.com/video_thumbnails/ieO9hywJfxSH/7YlpDSoyW2tG/480.webp 640w, https://images.kick.com/video_thumbnails/ieO9hywJfxSH/7YlpDSoyW2tG/360.webp 480w, https://images.kick.com/video_thumbnails/ieO9hywJfxSH/7YlpDSoyW2tG/160.webp 284w"
+    },
+    "title": "Broke Monday !stake !leaderboard !website !store",
+    "viewer_count": 1469
+   },
+   {
+    "category": {
+     "id": 15,
+     "name": "Just Chatting",
+     "slug": "just-chatting"
+    },
+    "channel": {
+     "id": 1965826,
+     "profile_pic": "https://files.kick.com/images/user/2019148/profile_image/conversion/de911135-72d2-45dd-bef4-ab586714a931-medium.webp",
+     "slug": "isaacnaks",
+     "username": "IsaacNaks"
+    },
+    "chatroom_id": 1958337,
+    "id": "01a0c365-19d0-7cfe-9d71-7f203d496c6f",
+    "is_mature": false,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T09:56:18Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/LczjIKjilTXa/2rpS3P6pZ5U2/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/LczjIKjilTXa/2rpS3P6pZ5U2/1080.webp 1920w, https://images.kick.com/video_thumbnails/LczjIKjilTXa/2rpS3P6pZ5U2/720.webp 1280w, https://images.kick.com/video_thumbnails/LczjIKjilTXa/2rpS3P6pZ5U2/480.webp 640w, https://images.kick.com/video_thumbnails/LczjIKjilTXa/2rpS3P6pZ5U2/360.webp 480w, https://images.kick.com/video_thumbnails/LczjIKjilTXa/2rpS3P6pZ5U2/160.webp 284w"
+    },
+    "title": "WELCOME IN NFAMMMMMMMM",
+    "viewer_count": 32
+   },
+   {
+    "category": {
+     "id": 28,
+     "name": "Slots & Casino",
+     "slug": "slots"
+    },
+    "channel": {
+     "id": 1115999,
+     "profile_pic": "https://files.kick.com/images/user/1156095/profile_image/conversion/28ee3332-d2ed-4ffc-aea5-dfd8154928d8-medium.webp",
+     "slug": "tyceno",
+     "username": "Tyceno"
+    },
+    "chatroom_id": 1109075,
+    "id": "01a0c371-a4c0-7aec-89d0-542c572a2bd5",
+    "is_mature": true,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T10:10:00Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/NbtbqEl7YjGS/oWwO3xAQSL9l/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/NbtbqEl7YjGS/oWwO3xAQSL9l/1080.webp 1920w, https://images.kick.com/video_thumbnails/NbtbqEl7YjGS/oWwO3xAQSL9l/720.webp 1280w, https://images.kick.com/video_thumbnails/NbtbqEl7YjGS/oWwO3xAQSL9l/480.webp 640w, https://images.kick.com/video_thumbnails/NbtbqEl7YjGS/oWwO3xAQSL9l/360.webp 480w, https://images.kick.com/video_thumbnails/NbtbqEl7YjGS/oWwO3xAQSL9l/160.webp 284w"
+    },
+    "title": "$12,500 USD RAW BALANCE HIGH RISK HIGH REWARD !stake !discord",
+    "viewer_count": 467
+   },
+   {
+    "category": {
+     "id": 10,
+     "name": "Minecraft",
+     "slug": "minecraft"
+    },
+    "channel": {
+     "id": 2401072,
+     "profile_pic": "https://files.kick.com/images/user/2455830/profile_image/conversion/fbf4d0db-156d-4c7d-98d5-3fb800025ef6-medium.webp",
+     "slug": "odablock",
+     "username": "Odablock"
+    },
+    "chatroom_id": 2393554,
+    "id": "01a0bb6d-2358-76c8-af49-2a12382812e5",
+    "is_mature": false,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-19T20:48:07Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/GIgWTIzFefK8/UnSpvat8P0JT/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/GIgWTIzFefK8/UnSpvat8P0JT/1080.webp 1920w, https://images.kick.com/video_thumbnails/GIgWTIzFefK8/UnSpvat8P0JT/720.webp 1280w, https://images.kick.com/video_thumbnails/GIgWTIzFefK8/UnSpvat8P0JT/480.webp 640w, https://images.kick.com/video_thumbnails/GIgWTIzFefK8/UnSpvat8P0JT/360.webp 480w, https://images.kick.com/video_thumbnails/GIgWTIzFefK8/UnSpvat8P0JT/160.webp 284w"
+    },
+    "title": "SUBATHON DAY 20 | !dragonwilds !SUBATHON !incentives !socials !discord !youtube !series !terry",
+    "viewer_count": 9554
+   },
+   {
+    "category": {
+     "id": 8549,
+     "name": "IRL",
+     "slug": "irl"
+    },
+    "channel": {
+     "id": 145224,
+     "profile_pic": "https://files.kick.com/images/user/146923/profile_image/conversion/f13387ea-e14f-477f-8d59-742250aac30a-medium.webp",
+     "slug": "iceposeidon",
+     "username": "Ice Poseidon"
+    },
+    "chatroom_id": 145222,
+    "id": "01a0c372-77b0-7d56-9f52-3334062304b0",
+    "is_mature": true,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T10:10:54Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/aAMMC00nhtv0/MOV0AJCLikKi/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/aAMMC00nhtv0/MOV0AJCLikKi/1080.webp 1920w, https://images.kick.com/video_thumbnails/aAMMC00nhtv0/MOV0AJCLikKi/720.webp 1280w, https://images.kick.com/video_thumbnails/aAMMC00nhtv0/MOV0AJCLikKi/480.webp 640w, https://images.kick.com/video_thumbnails/aAMMC00nhtv0/MOV0AJCLikKi/360.webp 480w, https://images.kick.com/video_thumbnails/aAMMC00nhtv0/MOV0AJCLikKi/160.webp 284w"
+    },
+    "title": "Co Hosting @nicklee's SeeEx event | day 7",
+    "viewer_count": 2262
+   },
+   {
+    "category": {
+     "id": 15,
+     "name": "Just Chatting",
+     "slug": "just-chatting"
+    },
+    "channel": {
+     "id": 49590063,
+     "profile_pic": "https://files.kick.com/images/user/50706807/profile_image/conversion/33f69ca4-f51c-4b28-948a-894cb522c4a4-medium.webp",
+     "slug": "anythingelse",
+     "username": "anythingelse"
+    },
+    "chatroom_id": 49301716,
+    "id": "01a0c323-afb8-7b90-87ed-b4b8578a076d",
+    "is_mature": false,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T08:44:51Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/bod1wwFtADm7/AJFxihehqHiq/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/bod1wwFtADm7/AJFxihehqHiq/1080.webp 1920w, https://images.kick.com/video_thumbnails/bod1wwFtADm7/AJFxihehqHiq/720.webp 1280w, https://images.kick.com/video_thumbnails/bod1wwFtADm7/AJFxihehqHiq/480.webp 640w, https://images.kick.com/video_thumbnails/bod1wwFtADm7/AJFxihehqHiq/360.webp 480w, https://images.kick.com/video_thumbnails/bod1wwFtADm7/AJFxihehqHiq/160.webp 284w"
+    },
+    "title": "News, Politics, Memes - Something Else?",
+    "viewer_count": 1168
+   },
+   {
+    "category": {
+     "id": 8549,
+     "name": "IRL",
+     "slug": "irl"
+    },
+    "channel": {
+     "id": 328683,
+     "profile_pic": "https://files.kick.com/images/user/336946/profile_image/conversion/3bcd1076-84a3-4f3c-97fc-dd22366d2aaa-medium.webp",
+     "slug": "sam",
+     "username": "Sam"
+    },
+    "chatroom_id": 328681,
+    "id": "01a0c29c-8a10-7884-912c-f3187fb6697a",
+    "is_mature": true,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T06:17:14Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/z7oMLoDcD3va/Re4QF70dVJWR/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/z7oMLoDcD3va/Re4QF70dVJWR/1080.webp 1920w, https://images.kick.com/video_thumbnails/z7oMLoDcD3va/Re4QF70dVJWR/720.webp 1280w, https://images.kick.com/video_thumbnails/z7oMLoDcD3va/Re4QF70dVJWR/480.webp 640w, https://images.kick.com/video_thumbnails/z7oMLoDcD3va/Re4QF70dVJWR/360.webp 480w, https://images.kick.com/video_thumbnails/z7oMLoDcD3va/Re4QF70dVJWR/160.webp 284w"
+    },
+    "title": "Riding an Electric Unicycle to Ukraine | Day 2 Trakai → Birštonas | $credits $song $tts $pokemon",
+    "viewer_count": 1117
+   },
+   {
+    "category": {
+     "id": 14353,
+     "name": "EA Sports FC 27",
+     "slug": "ea-sports-fc-27"
+    },
+    "channel": {
+     "id": 72379,
+     "profile_pic": "https://files.kick.com/images/user/73066/profile_image/conversion/d3aa40be-018f-4ff4-8101-c257757b77be-medium.webp",
+     "slug": "razo97",
+     "username": "razo97"
+    },
+    "chatroom_id": 72377,
+    "id": "01a0c286-db48-77c1-817b-8116e8920cc4",
+    "is_mature": true,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T05:53:33Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/VKvNJ1e1mq1i/Ife7QV9D5ifH/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/VKvNJ1e1mq1i/Ife7QV9D5ifH/1080.webp 1920w, https://images.kick.com/video_thumbnails/VKvNJ1e1mq1i/Ife7QV9D5ifH/720.webp 1280w, https://images.kick.com/video_thumbnails/VKvNJ1e1mq1i/Ife7QV9D5ifH/480.webp 640w, https://images.kick.com/video_thumbnails/VKvNJ1e1mq1i/Ife7QV9D5ifH/360.webp 480w, https://images.kick.com/video_thumbnails/VKvNJ1e1mq1i/Ife7QV9D5ifH/160.webp 284w"
+    },
+    "title": "Herro | [EN/ES] @razo97",
+    "viewer_count": 468
+   },
+   {
+    "category": {
+     "id": 14,
+     "name": "Dota 2",
+     "slug": "dota-2"
+    },
+    "channel": {
+     "id": 25595783,
+     "profile_pic": "https://files.kick.com/images/user/26610074/profile_image/conversion/8814033b-d443-4887-8116-f7f01c733b62-medium.webp",
+     "slug": "pgldota2_b",
+     "username": "pgldota2_b"
+    },
+    "chatroom_id": 25307471,
+    "id": "01a0c2a9-c4c8-78e7-9def-fe90a7806f5f",
+    "is_mature": false,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T06:31:41Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/vFX5LKSo9rDT/BqZwb70Mz1uO/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/vFX5LKSo9rDT/BqZwb70Mz1uO/1080.webp 1920w, https://images.kick.com/video_thumbnails/vFX5LKSo9rDT/BqZwb70Mz1uO/720.webp 1280w, https://images.kick.com/video_thumbnails/vFX5LKSo9rDT/BqZwb70Mz1uO/480.webp 640w, https://images.kick.com/video_thumbnails/vFX5LKSo9rDT/BqZwb70Mz1uO/360.webp 480w, https://images.kick.com/video_thumbnails/vFX5LKSo9rDT/BqZwb70Mz1uO/160.webp 284w"
+    },
+    "title": "TI15 Regional Qualifiers - North America",
+    "viewer_count": 396
+   },
+   {
+    "category": {
+     "id": 8549,
+     "name": "IRL",
+     "slug": "irl"
+    },
+    "channel": {
+     "id": 63898389,
+     "profile_pic": "https://files.kick.com/images/user/65045277/profile_image/conversion/eb4805d7-2df0-42fb-9b7c-726ce9ffc55e-medium.webp",
+     "slug": "lifeismizzy",
+     "username": "lifeismizzy"
+    },
+    "chatroom_id": 63609978,
+    "id": "01a0c2a5-2918-78c0-ae74-783e91681b92",
+    "is_mature": false,
+    "language": "en",
+    "show_view_count": true,
+    "start_time": "2026-09-21T06:26:39Z",
+    "tags": [],
+    "thumbnail": {
+     "src": "https://images.kick.com/video_thumbnails/7T3ckfaicwgo/VSG14SjsbDdS/720.webp",
+     "srcset": "https://images.kick.com/video_thumbnails/7T3ckfaicwgo/VSG14SjsbDdS/1080.webp 1920w, https://images.kick.com/video_thumbnails/7T3ckfaicwgo/VSG14SjsbDdS/720.webp 1280w, https://images.kick.com/video_thumbnails/7T3ckfaicwgo/VSG14SjsbDdS/480.webp 640w, https://images.kick.com/video_thumbnails/7T3ckfaicwgo/VSG14SjsbDdS/360.webp 480w, https://images.kick.com/video_thumbnails/7T3ckfaicwgo/VSG14SjsbDdS/160.webp 284w"
+    },
+    "title": "SEE EX EVENT @Ice Poseidon @NickLee",
+    "viewer_count": 244
+   }
+  ]
+ },
+ "message": "Success"
+}

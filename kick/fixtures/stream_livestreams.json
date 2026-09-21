@@ -1,0 +1,407 @@
+{
+ "current_page": 1,
+ "data": [
+  {
+   "id": 128378704,
+   "slug": "6073c404d21a9404-z",
+   "channel_id": 57213893,
+   "created_at": "2026-09-21 08:41:12",
+   "session_title": "【緊急新情報】『せいｚ』『うどん』Z界解散お知らせ！！→最高の展開だ！！！コレコレさんジェネリックに入りたい....『りなち』また暴走で新展開か...！！！",
+   "is_live": true,
+   "risk_level_id": null,
+   "start_time": "2026-09-21 08:41:12",
+   "source": null,
+   "twitch_channel": null,
+   "duration": 0,
+   "language": "Japanese",
+   "is_mature": false,
+   "viewer_count": 12137,
+   "order": 5,
+   "tags": [],
+   "thumbnail": {
+    "srcset": "https://images.kick.com/video_thumbnails/SCP1Dp9Hfi5c/3YHSdhFVu18f/1080.webp?versionId=g8poy9yegZcAD6XSxjmVuVJkBHD8IAr1 1920w, https://images.kick.com/video_thumbnails/SCP1Dp9Hfi5c/3YHSdhFVu18f/720.webp?versionId=DmDeP4vGv8tkyVeJvLIZtqgPeE2a5p5R 1280w, https://images.kick.com/video_thumbnails/SCP1Dp9Hfi5c/3YHSdhFVu18f/360.webp?versionId=nTk08OiBtF6iwBrqT2Imaru4zhAKEVtK 480w, https://images.kick.com/video_thumbnails/SCP1Dp9Hfi5c/3YHSdhFVu18f/160.webp?versionId=EoHtkekI_Iq_xlt2iV.kzcuaeIIr3xD6 284w, https://images.kick.com/video_thumbnails/SCP1Dp9Hfi5c/3YHSdhFVu18f/480.webp?versionId=hvIAFX0bRjwpFKr7MHGBQJ6MWbA.QNQ9 640w",
+    "src": "https://images.kick.com/video_thumbnails/SCP1Dp9Hfi5c/3YHSdhFVu18f/720.webp?versionId=DmDeP4vGv8tkyVeJvLIZtqgPeE2a5p5R"
+   },
+   "viewers": 12137,
+   "show_view_count": true,
+   "channel": {
+    "id": 57213893,
+    "user_id": 58345476,
+    "slug": "kimono_chan",
+    "is_banned": false,
+    "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SCP1Dp9Hfi5c.m3u8",
+    "name_updated_at": null,
+    "vod_enabled": true,
+    "subscription_enabled": true,
+    "is_affiliate": true,
+    "can_host": true,
+    "user": {
+     "id": 58345476,
+     "username": "kimono_chan",
+     "agreed_to_terms": true,
+     "email_verified_at": "2025-03-20T12:59:17.000000Z",
+     "bio": null,
+     "country": null,
+     "state": null,
+     "city": null,
+     "instagram": null,
+     "twitter": null,
+     "youtube": null,
+     "discord": null,
+     "tiktok": null,
+     "facebook": null,
+     "gender": null,
+     "club": null,
+     "profilepic": "https://files.kick.com/images/user/58345476/profile_image/conversion/e6b833b5-3d90-43e2-bafc-c6ec4a2dea45-thumb.webp"
+    }
+   },
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58063,
+     "is_fallback": false,
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ]
+  },
+  {
+   "id": 128377721,
+   "slug": "c391e579c16ba724-after",
+   "channel_id": 30329683,
+   "created_at": "2026-09-21 08:20:38",
+   "session_title": "⚽ AFTER",
+   "is_live": true,
+   "risk_level_id": null,
+   "start_time": "2026-09-21 08:20:37",
+   "source": null,
+   "twitch_channel": null,
+   "duration": 0,
+   "language": "Spanish",
+   "is_mature": false,
+   "viewer_count": 5536,
+   "order": 5,
+   "tags": [],
+   "thumbnail": {
+    "srcset": "https://images.kick.com/video_thumbnails/7KOqePkIoPYO/RTKOliR3wea6/1080.webp?versionId=JPyIEBnLD1cpS71LA5BfS5VKmsyPmguk 1920w, https://images.kick.com/video_thumbnails/7KOqePkIoPYO/RTKOliR3wea6/720.webp?versionId=ErnFQ1087fEdTY1n7nLoDP9dADHIk9iP 1280w, https://images.kick.com/video_thumbnails/7KOqePkIoPYO/RTKOliR3wea6/360.webp?versionId=HcTXjeA7fCfhtYxeM2BPFcb2JRZR4zSw 480w, https://images.kick.com/video_thumbnails/7KOqePkIoPYO/RTKOliR3wea6/160.webp?versionId=U.5CVvCWBs5OMgxyMDfy2LAZ7kjQjdbh 284w, https://images.kick.com/video_thumbnails/7KOqePkIoPYO/RTKOliR3wea6/480.webp?versionId=XDjqsfkuc3_dzLuaY6KFQLOCpFmze.mb 640w",
+    "src": "https://images.kick.com/video_thumbnails/7KOqePkIoPYO/RTKOliR3wea6/720.webp?versionId=ErnFQ1087fEdTY1n7nLoDP9dADHIk9iP"
+   },
+   "viewers": 5536,
+   "show_view_count": true,
+   "channel": {
+    "id": 30329683,
+    "user_id": 31377709,
+    "slug": "agusneta",
+    "is_banned": false,
+    "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.7KOqePkIoPYO.m3u8",
+    "name_updated_at": "2024-11-26 01:26:38",
+    "vod_enabled": true,
+    "subscription_enabled": true,
+    "is_affiliate": false,
+    "can_host": true,
+    "user": {
+     "id": 31377709,
+     "username": "agusneta",
+     "agreed_to_terms": true,
+     "email_verified_at": "2024-04-22T07:39:54.000000Z",
+     "bio": "Subite a La Agusneta. Streams todos los díasa la hora que pinte, mas que nada madrugada. Contacto: agusnetacontacto@gmail.com",
+     "country": null,
+     "state": null,
+     "city": null,
+     "instagram": "agusneta/",
+     "twitter": "Lagusneta",
+     "youtube": "@laagusneta",
+     "discord": null,
+     "tiktok": "laagusneta?lang=es",
+     "facebook": null,
+     "gender": null,
+     "club": null,
+     "profilepic": "https://files.kick.com/images/user/31377709/profile_image/conversion/e5f9a225-fe80-47e2-a20c-65c03fa7a3ea-thumb.webp"
+    }
+   },
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58063,
+     "is_fallback": false,
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ]
+  },
+  {
+   "id": 128375746,
+   "slug": "b06b99e7-",
+   "channel_id": 98310221,
+   "created_at": "2026-09-21 07:40:13",
+   "session_title": "たのしかったお泊まり会",
+   "is_live": true,
+   "risk_level_id": null,
+   "start_time": "2026-09-21 07:40:13",
+   "source": null,
+   "twitch_channel": null,
+   "duration": 0,
+   "language": "Japanese",
+   "is_mature": false,
+   "viewer_count": 3290,
+   "order": 4,
+   "tags": [],
+   "thumbnail": {
+    "srcset": "https://images.kick.com/video_thumbnails/FEwZrKc655A3/5honGg7XRxoH/1080.webp?versionId=yrr00JDOs4mH4Zwmg5pMwjXe1nDqhBSl 1920w, https://images.kick.com/video_thumbnails/FEwZrKc655A3/5honGg7XRxoH/720.webp?versionId=jD21F.8ER1LtCg1.r3mgbNbkGaf7s2pv 1280w, https://images.kick.com/video_thumbnails/FEwZrKc655A3/5honGg7XRxoH/360.webp?versionId=Z4l7rg3ERwG0fTb9L35FOkV8pawEhAdY 480w, https://images.kick.com/video_thumbnails/FEwZrKc655A3/5honGg7XRxoH/160.webp?versionId=yqbJW9x_WPZ39mU650K4.j4acwKWeTMO 284w, https://images.kick.com/video_thumbnails/FEwZrKc655A3/5honGg7XRxoH/480.webp?versionId=GKTKBYKDQNkSQ.VM69opiRViDyZSSdAo 640w",
+    "src": "https://images.kick.com/video_thumbnails/FEwZrKc655A3/5honGg7XRxoH/720.webp?versionId=jD21F.8ER1LtCg1.r3mgbNbkGaf7s2pv"
+   },
+   "viewers": 3290,
+   "show_view_count": true,
+   "channel": {
+    "id": 98310221,
+    "user_id": 99529252,
+    "slug": "yuki_0121",
+    "is_banned": false,
+    "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.FEwZrKc655A3.m3u8",
+    "name_updated_at": null,
+    "vod_enabled": true,
+    "subscription_enabled": true,
+    "is_affiliate": true,
+    "can_host": true,
+    "user": {
+     "id": 99529252,
+     "username": "yuki_0121",
+     "agreed_to_terms": true,
+     "email_verified_at": "2026-03-10T12:50:34.000000Z",
+     "bio": null,
+     "country": null,
+     "state": null,
+     "city": null,
+     "instagram": null,
+     "twitter": "nyan56see",
+     "youtube": null,
+     "discord": null,
+     "tiktok": null,
+     "facebook": null,
+     "gender": null,
+     "club": null,
+     "profilepic": "https://files.kick.com/images/user/99529252/profile_image/conversion/730fc908-34aa-48d2-8dd7-f222142ec8f0-thumb.webp"
+    }
+   },
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58063,
+     "is_fallback": false,
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ]
+  },
+  {
+   "id": 128379259,
+   "slug": "90668c44edf75fbf-bigg-boss-watch-party-support-scoutop",
+   "channel_id": 105409796,
+   "created_at": "2026-09-21 08:52:46",
+   "session_title": "BIGG BOSS WATCH PARTY - SUPPORT SCOUTOP",
+   "is_live": true,
+   "risk_level_id": null,
+   "start_time": "2026-09-21 08:52:45",
+   "source": null,
+   "twitch_channel": null,
+   "duration": 0,
+   "language": "English (India)",
+   "is_mature": false,
+   "viewer_count": 2365,
+   "order": 1,
+   "tags": [],
+   "thumbnail": {
+    "srcset": "https://images.kick.com/video_thumbnails/VwH4WBOpIrOk/AriPjJV6vq1G/1080.webp?versionId=msxguzv2yUGWjohvkFiYM6.B3k7rKdH8 1920w, https://images.kick.com/video_thumbnails/VwH4WBOpIrOk/AriPjJV6vq1G/720.webp?versionId=kS_PqtoF51x.mn9wb9nQwrEqZYqPtT0E 1280w, https://images.kick.com/video_thumbnails/VwH4WBOpIrOk/AriPjJV6vq1G/360.webp?versionId=xsX.7ucAgqo2kTZ03wcdxlQa9qFl8a_P 480w, https://images.kick.com/video_thumbnails/VwH4WBOpIrOk/AriPjJV6vq1G/160.webp?versionId=qJX9CblXvwOecvqSnJCF5dnMZs17mwe5 284w, https://images.kick.com/video_thumbnails/VwH4WBOpIrOk/AriPjJV6vq1G/480.webp?versionId=OICrHrIX3XLzV6bEEPLRgTJycAU6AT_w 640w",
+    "src": "https://images.kick.com/video_thumbnails/VwH4WBOpIrOk/AriPjJV6vq1G/720.webp?versionId=kS_PqtoF51x.mn9wb9nQwrEqZYqPtT0E"
+   },
+   "viewers": 2365,
+   "show_view_count": true,
+   "channel": {
+    "id": 105409796,
+    "user_id": 106644581,
+    "slug": "kaashplays",
+    "is_banned": false,
+    "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.VwH4WBOpIrOk.m3u8",
+    "name_updated_at": null,
+    "vod_enabled": true,
+    "subscription_enabled": true,
+    "is_affiliate": true,
+    "can_host": true,
+    "user": {
+     "id": 106644581,
+     "username": "Kaashplays",
+     "agreed_to_terms": true,
+     "email_verified_at": "2026-05-11T14:01:31.000000Z",
+     "bio": "Hi I’m Kaashvi Hiranandani \nFinance Grad turned full time Streamer/ Gamer! 👻🧡",
+     "country": null,
+     "state": null,
+     "city": null,
+     "instagram": "kaaashvi",
+     "twitter": "@KaashviH",
+     "youtube": "@KaashPlays",
+     "discord": null,
+     "tiktok": null,
+     "facebook": null,
+     "gender": null,
+     "club": null,
+     "profilepic": "https://files.kick.com/images/user/106644581/profile_image/conversion/02f2388a-dfd4-42f4-9851-28c5e4fdb668-thumb.webp"
+    }
+   },
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58063,
+     "is_fallback": false,
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ]
+  },
+  {
+   "id": 128379585,
+   "slug": "4d8f18f1798f3b84-bigboss-watchpartyjoin-discord-support-scoutop",
+   "channel_id": 105216099,
+   "created_at": "2026-09-21 08:58:40",
+   "session_title": "BIGBOSS WATCHPARTY🚨JOIN DISCORD 🚨SUPPORT SCOUTOP",
+   "is_live": true,
+   "risk_level_id": null,
+   "start_time": "2026-09-21 08:58:39",
+   "source": null,
+   "twitch_channel": null,
+   "duration": 0,
+   "language": "English (India)",
+   "is_mature": false,
+   "viewer_count": 1967,
+   "order": 2,
+   "tags": [],
+   "thumbnail": {
+    "srcset": "https://images.kick.com/video_thumbnails/LROMk82plQZZ/p75ql4hiOdJx/1080.webp?versionId=oWJYU_jEiThX5SQn5uQ8WSAQ.0mf9nk6 1920w, https://images.kick.com/video_thumbnails/LROMk82plQZZ/p75ql4hiOdJx/720.webp?versionId=FO9dsZa.atjyjARjrQ.6pjGKpkDp3m4x 1280w, https://images.kick.com/video_thumbnails/LROMk82plQZZ/p75ql4hiOdJx/360.webp?versionId=lsa_8B7uEuutP3n2RAQ8qTxGNiSoESiP 480w, https://images.kick.com/video_thumbnails/LROMk82plQZZ/p75ql4hiOdJx/160.webp?versionId=OqyUz_MjGeZA.S77fsHFOMcol9mkWGo0 284w, https://images.kick.com/video_thumbnails/LROMk82plQZZ/p75ql4hiOdJx/480.webp?versionId=SrpUatuecyCE2_JbAnDo5hRbi5e3vR_. 640w",
+    "src": "https://images.kick.com/video_thumbnails/LROMk82plQZZ/p75ql4hiOdJx/720.webp?versionId=FO9dsZa.atjyjARjrQ.6pjGKpkDp3m4x"
+   },
+   "viewers": 1967,
+   "show_view_count": true,
+   "channel": {
+    "id": 105216099,
+    "user_id": 106450641,
+    "slug": "neyoo_gaming",
+    "is_banned": false,
+    "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.LROMk82plQZZ.m3u8",
+    "name_updated_at": null,
+    "vod_enabled": true,
+    "subscription_enabled": true,
+    "is_affiliate": true,
+    "can_host": true,
+    "user": {
+     "id": 106450641,
+     "username": "Neyoo_Gaming",
+     "agreed_to_terms": true,
+     "email_verified_at": "2026-05-10T16:33:18.000000Z",
+     "bio": "I’m Suraj “Neyoo” Majumdar a former BGMI/PUBG Mobile esports pro, IGL, streamer & content creator from Mumbai. 🎮🔥\n\nFrom grinding scrims day and night to competing on the biggest stages in India, my journey has been all about passion, pressure, trophies, and unforgettable moments. Representing iconic teams like TSM Entity and GodLike Esports helped me become one of the recognized faces of Indian mobile esports. 🇮🇳🏆\n\n✨ BMIS 2021 MVP\n⚔️ Known for aggressive gameplay & clutch leadership",
+     "country": null,
+     "state": null,
+     "city": null,
+     "instagram": "@neyoomeee",
+     "twitter": null,
+     "youtube": "@NEYOOGAMINGYT",
+     "discord": "6hBAebXVMK",
+     "tiktok": null,
+     "facebook": null,
+     "gender": null,
+     "club": null,
+     "profilepic": "https://files.kick.com/images/user/106450641/profile_image/conversion/f85b88da-564b-407f-80b4-ba935e5f25fe-thumb.webp"
+    }
+   },
+   "categories": [
+    {
+     "id": 15,
+     "category_id": 2,
+     "name": "Just Chatting",
+     "slug": "just-chatting",
+     "tags": [
+      "IRL",
+      "Casual"
+     ],
+     "description": null,
+     "deleted_at": null,
+     "is_mature": false,
+     "is_promoted": false,
+     "viewers": 58063,
+     "is_fallback": false,
+     "category": {
+      "id": 2,
+      "name": "IRL",
+      "slug": "irl",
+      "icon": "🎙️"
+     }
+    }
+   ]
+  }
+ ],
+ "first_page_url": "https://kick.com/stream/livestreams/en?page=1",
+ "from": 1,
+ "next_page_url": "https://kick.com/stream/livestreams/en?page=2",
+ "path": "https://kick.com/stream/livestreams/en",
+ "per_page": 5,
+ "prev_page_url": null,
+ "to": 5
+}

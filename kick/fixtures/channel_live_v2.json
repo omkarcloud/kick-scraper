@@ -1,0 +1,199 @@
+{
+ "id": 121970,
+ "user_id": 123326,
+ "slug": "trazer",
+ "is_banned": false,
+ "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.yZxgXojuVuRj.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwveVp4Z1hvanVWdVJqIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly90aXplbi5raWNrLmNvbSxodHRwczovL3dlYm9zLmtpY2suY29tLGh0dHBzOi8vKi5raWNrLXByZXByb2R1Y3Rpb24uY29tLGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOmFkcy1vcHQtb3V0Ijp0cnVlLCJleHAiOjE3ODk5ODYyMDJ9.udmXkZotvIuJJouzJXgrJgqxqjqNuIyxqE3Y1sygbj-efstdekt5B0BB8WdXdDb138mnPTykq37XEXgkWyf7wtgjJQJ1dp9pqNHOcCfjuccRi3DIGNlRDA59mL6teDqS",
+ "vod_enabled": true,
+ "subscription_enabled": true,
+ "is_affiliate": true,
+ "followers_count": "15945",
+ "subscriber_badges": [],
+ "banner_image": {
+  "url": "https://files.kick.com/images/channel/121970/banner_image/7f2d93b3-d913-4f54-874d-a20741479c26"
+ },
+ "livestream": {
+  "id": 128380012,
+  "slug": "268545ba-katowice-kakus-w-akcji-przegryw-desperat-g4-paczkomat-reklama-at-adamcy-at-patiro-at-azdus-at-pajalock-at-aktor-at-demonzz1-at-franio-at-slodkapinki",
+  "channel_id": 121970,
+  "created_at": "2026-09-21 09:05:54",
+  "session_title": "KATOWICE KAKUŚ W AKCJI 👨🏻‍🦰 #przegryw #desperat| !g4 !paczkomat #reklama @adamcy @Patiro @Azdus @pajalock @aktor @demonzz1 @Franio @slodkapinki",
+  "is_live": true,
+  "risk_level_id": null,
+  "start_time": "2026-09-21 09:05:54",
+  "source": null,
+  "twitch_channel": null,
+  "duration": 0,
+  "language": "Polish",
+  "is_mature": false,
+  "viewer_count": 8947,
+  "thumbnail": null,
+  "lang_iso": "pl",
+  "tags": [],
+  "categories": [
+   {
+    "id": 8549,
+    "category_id": 2,
+    "name": "IRL",
+    "slug": "irl",
+    "tags": [
+     "Adventure"
+    ],
+    "description": null,
+    "deleted_at": null,
+    "is_mature": false,
+    "is_promoted": false,
+    "viewers": 63986,
+    "is_fallback": false,
+    "category": {
+     "id": 2,
+     "name": "IRL",
+     "slug": "irl",
+     "icon": "🎙️"
+    }
+   }
+  ]
+ },
+ "role": null,
+ "muted": false,
+ "follower_badges": [],
+ "offline_banner_image": {
+  "src": "https://files.kick.com/images/channel/121970/offline_banner/conversion/7ac79197-7fd7-48de-b4e8-e8000c9bbc9c-fullsize.webp",
+  "srcset": "https://files.kick.com/images/channel/121970/offline_banner/responsives/7ac79197-7fd7-48de-b4e8-e8000c9bbc9c___fullsize_1200_1200.webp 1200w, https://files.kick.com/images/channel/121970/offline_banner/responsives/7ac79197-7fd7-48de-b4e8-e8000c9bbc9c___fullsize_1003_1003.webp 1003w, https://files.kick.com/images/channel/121970/offline_banner/responsives/7ac79197-7fd7-48de-b4e8-e8000c9bbc9c___fullsize_839_839.webp 839w, https://files.kick.com/images/channel/121970/offline_banner/responsives/7ac79197-7fd7-48de-b4e8-e8000c9bbc9c___fullsize_702_702.webp 702w"
+ },
+ "verified": true,
+ "recent_categories": [
+  {
+   "id": 8549,
+   "category_id": 2,
+   "name": "IRL",
+   "slug": "irl",
+   "tags": [
+    "Adventure"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 63986,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/8549/banner/responsives/3b142fca-b643-48d9-8ed0-405d454181d1___banner_408_546.webp 408w, https://files.kick.com/images/subcategories/8549/banner/responsives/3b142fca-b643-48d9-8ed0-405d454181d1___banner_341_456.webp 341w, https://files.kick.com/images/subcategories/8549/banner/responsives/3b142fca-b643-48d9-8ed0-405d454181d1___banner_285_381.webp 285w, https://files.kick.com/images/subcategories/8549/banner/responsives/3b142fca-b643-48d9-8ed0-405d454181d1___banner_238_319.webp 238w, https://files.kick.com/images/subcategories/8549/banner/responsives/3b142fca-b643-48d9-8ed0-405d454181d1___banner_199_266.webp 199w",
+    "url": "https://files.kick.com/images/subcategories/8549/banner/3b142fca-b643-48d9-8ed0-405d454181d1"
+   },
+   "category": {
+    "id": 2,
+    "name": "IRL",
+    "slug": "irl",
+    "icon": "🎙️"
+   }
+  },
+  {
+   "id": 544,
+   "category_id": 6,
+   "name": "Just Sleeping",
+   "slug": "just-sleeping",
+   "tags": [
+    "IRL",
+    "Sleeping"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 2790,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/544/banner/responsives/c59cbd7d-89a0-4ed2-9d94-7434f0c48241___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/544/banner/responsives/c59cbd7d-89a0-4ed2-9d94-7434f0c48241___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/544/banner/responsives/c59cbd7d-89a0-4ed2-9d94-7434f0c48241___banner_419_559.webp 419w, https://files.kick.com/images/subcategories/544/banner/responsives/c59cbd7d-89a0-4ed2-9d94-7434f0c48241___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/544/banner/responsives/c59cbd7d-89a0-4ed2-9d94-7434f0c48241___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/544/banner/responsives/c59cbd7d-89a0-4ed2-9d94-7434f0c48241___banner_245_327.webp 245w",
+    "url": "https://files.kick.com/images/subcategories/544/banner/c59cbd7d-89a0-4ed2-9d94-7434f0c48241"
+   },
+   "category": {
+    "id": 6,
+    "name": "Alternative",
+    "slug": "alternative",
+    "icon": "👽"
+   }
+  },
+  {
+   "id": 15,
+   "category_id": 2,
+   "name": "Just Chatting",
+   "slug": "just-chatting",
+   "tags": [
+    "IRL",
+    "Casual"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": false,
+   "is_promoted": false,
+   "viewers": 58701,
+   "is_fallback": false,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/15/banner/responsives/b697a8a3-62db-4779-aa76-e4e47662af97___banner_294_392.webp 294w",
+    "url": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97"
+   },
+   "category": {
+    "id": 2,
+    "name": "IRL",
+    "slug": "irl",
+    "icon": "🎙️"
+   }
+  },
+  {
+   "id": 28,
+   "category_id": 4,
+   "name": "Slots & Casino",
+   "slug": "slots",
+   "tags": [
+    "Gambling"
+   ],
+   "description": null,
+   "deleted_at": null,
+   "is_mature": true,
+   "is_promoted": false,
+   "viewers": 108563,
+   "is_fallback": true,
+   "banner": {
+    "responsive": "https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_600_800.webp 600w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_501_668.webp 501w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_420_560.webp 420w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_351_468.webp 351w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_294_392.webp 294w, https://files.kick.com/images/subcategories/28/banner/responsives/ca01a05f-f807-4fbf-8794-3d547b1bb7a6___banner_245_327.webp 245w",
+    "url": "https://files.kick.com/images/subcategories/28/banner/ca01a05f-f807-4fbf-8794-3d547b1bb7a6"
+   },
+   "category": {
+    "id": 4,
+    "name": "Gambling",
+    "slug": "gambling",
+    "icon": "🎰"
+   }
+  }
+ ],
+ "can_host": true,
+ "user": {
+  "id": 123326,
+  "username": "trazer",
+  "bio": "WSZYSTKO NA STREAMIE JEST WYREŻYSEROWANE I ODGRYWANE PRZEZ PROFESJONALNYCH AKTORÓW                         \nBusiness Inquiries: ---------- trazer2kontakt@gmail.com",
+  "instagram": null,
+  "twitter": null,
+  "youtube": null,
+  "discord": null,
+  "tiktok": null,
+  "facebook": null,
+  "club": null,
+  "profile_pic": "https://files.kick.com/images/user/123326/profile_image/conversion/9a31c831-17e9-4548-bd73-9a463f522ead-fullsize.webp"
+ },
+ "chatroom": {
+  "id": 121968,
+  "chatable_type": "App\\Models\\Channel",
+  "channel_id": 121970,
+  "created_at": "2022-12-06T19:34:08.000000Z",
+  "updated_at": "2026-09-19T22:18:55.000000Z",
+  "chat_mode_old": "public",
+  "chat_mode": "public",
+  "slow_mode": false,
+  "chatable_id": 121970,
+  "followers_mode": false,
+  "subscribers_mode": false,
+  "emotes_mode": false,
+  "message_interval": 5,
+  "following_min_duration": 1
+ }
+}

@@ -1,0 +1,10 @@
+services:
+  kick-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Kick's public JSON APIs do not rate-limit, so leave this unset.
+      # - KICK_PROXY=http://user:pass@host:port

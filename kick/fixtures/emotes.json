@@ -1,0 +1,971 @@
+[
+ {
+  "id": 668,
+  "user_id": 676,
+  "slug": "xqc",
+  "is_banned": false,
+  "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.DsuAwCgUc9Bh.m3u8",
+  "name_updated_at": null,
+  "vod_enabled": true,
+  "subscription_enabled": true,
+  "is_affiliate": false,
+  "emotes": [
+   {
+    "id": 1153261,
+    "channel_id": 668,
+    "name": "xqcLK",
+    "subscribers_only": false
+   },
+   {
+    "id": 1082364,
+    "channel_id": 668,
+    "name": "xqcAM",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082897,
+    "channel_id": 668,
+    "name": "xqcCheer",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082889,
+    "channel_id": 668,
+    "name": "xqcCursed",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082517,
+    "channel_id": 668,
+    "name": "xqcDespair",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082529,
+    "channel_id": 668,
+    "name": "xqcDitch",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082540,
+    "channel_id": 668,
+    "name": "xqcDud",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082547,
+    "channel_id": 668,
+    "name": "xqcF",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082560,
+    "channel_id": 668,
+    "name": "xqcHead",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082623,
+    "channel_id": 668,
+    "name": "xqcJuice",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082631,
+    "channel_id": 668,
+    "name": "xqcK",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082615,
+    "channel_id": 668,
+    "name": "xqcl",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082636,
+    "channel_id": 668,
+    "name": "xqcL",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082643,
+    "channel_id": 668,
+    "name": "xqcM",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082648,
+    "channel_id": 668,
+    "name": "xqcMood",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082655,
+    "channel_id": 668,
+    "name": "xqcMS",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082663,
+    "channel_id": 668,
+    "name": "xqcN",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082674,
+    "channel_id": 668,
+    "name": "xqcOld",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082681,
+    "channel_id": 668,
+    "name": "xqcPeepo",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082696,
+    "channel_id": 668,
+    "name": "xqcRich",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082702,
+    "channel_id": 668,
+    "name": "xqcS",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082884,
+    "channel_id": 668,
+    "name": "xqcSlam",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082877,
+    "channel_id": 668,
+    "name": "xqcSus",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082761,
+    "channel_id": 668,
+    "name": "xqcTL",
+    "subscribers_only": true
+   },
+   {
+    "id": 1082770,
+    "channel_id": 668,
+    "name": "xqcTOS",
+    "subscribers_only": true
+   }
+  ],
+  "can_host": true,
+  "user": {
+   "id": 676,
+   "username": "xQc",
+   "bio": "THE BEST AT ABSOLUTELY EVERYTHING. THE JUICER. LEADER OF THE JUICERS.",
+   "instagram": "xqcow1/",
+   "twitter": "xqc",
+   "youtube": "channel/UCmDTrq0LNgPodDOFZiSbsww",
+   "discord": "xqcow",
+   "tiktok": "",
+   "facebook": "",
+   "club": null,
+   "profile_pic": "https://files.kick.com/images/user/676/profile_image/conversion/931b4e8f-5445-427c-bd82-b473530390cc-thumb.webp"
+  }
+ },
+ {
+  "name": "Global",
+  "id": "Global",
+  "emotes": [
+   {
+    "id": 3753119,
+    "channel_id": null,
+    "name": "asmonSmash",
+    "subscribers_only": false
+   },
+   {
+    "id": 5380971,
+    "channel_id": null,
+    "name": "AURAPULSE",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756662,
+    "channel_id": null,
+    "name": "AYAYA",
+    "subscribers_only": false
+   },
+   {
+    "id": 5882722,
+    "channel_id": null,
+    "name": "BANG",
+    "subscribers_only": false
+   },
+   {
+    "id": 4147910,
+    "channel_id": null,
+    "name": "BBoomer",
+    "subscribers_only": false
+   },
+   {
+    "id": 39251,
+    "channel_id": null,
+    "name": "beeBobble",
+    "subscribers_only": false
+   },
+   {
+    "id": 37217,
+    "channel_id": null,
+    "name": "Bwop",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756614,
+    "channel_id": null,
+    "name": "CaptFail",
+    "subscribers_only": false
+   },
+   {
+    "id": 4148144,
+    "channel_id": null,
+    "name": "catblobDance",
+    "subscribers_only": false
+   },
+   {
+    "id": 4147900,
+    "channel_id": null,
+    "name": "catKISS",
+    "subscribers_only": false
+   },
+   {
+    "id": 37218,
+    "channel_id": null,
+    "name": "Clap",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756616,
+    "channel_id": null,
+    "name": "DanceDance",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756666,
+    "channel_id": null,
+    "name": "DonoWall",
+    "subscribers_only": false
+   },
+   {
+    "id": 4147914,
+    "channel_id": null,
+    "name": "duckPls",
+    "subscribers_only": false
+   },
+   {
+    "id": 3645850,
+    "channel_id": null,
+    "name": "EDDIE",
+    "subscribers_only": false
+   },
+   {
+    "id": 39265,
+    "channel_id": null,
+    "name": "EDMusiC",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756668,
+    "channel_id": null,
+    "name": "EZ",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756511,
+    "channel_id": null,
+    "name": "FLASHBANG",
+    "subscribers_only": false
+   },
+   {
+    "id": 39402,
+    "channel_id": null,
+    "name": "Flowie",
+    "subscribers_only": false
+   },
+   {
+    "id": 37243,
+    "channel_id": null,
+    "name": "gachiGASM",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756671,
+    "channel_id": null,
+    "name": "GIGACHAD",
+    "subscribers_only": false
+   },
+   {
+    "id": 4055795,
+    "channel_id": null,
+    "name": "GnomeDisco",
+    "subscribers_only": false
+   },
+   {
+    "id": 4148076,
+    "channel_id": null,
+    "name": "HaHaa",
+    "subscribers_only": false
+   },
+   {
+    "id": 5273247,
+    "channel_id": null,
+    "name": "highCortisol",
+    "subscribers_only": false
+   },
+   {
+    "id": 4148074,
+    "channel_id": null,
+    "name": "HYPERCLAP",
+    "subscribers_only": false
+   },
+   {
+    "id": 5452913,
+    "channel_id": null,
+    "name": "JudgeJackson",
+    "subscribers_only": false
+   },
+   {
+    "id": 4147902,
+    "channel_id": null,
+    "name": "KEKBye",
+    "subscribers_only": false
+   },
+   {
+    "id": 37225,
+    "channel_id": null,
+    "name": "KEKLEO",
+    "subscribers_only": false
+   },
+   {
+    "id": 37226,
+    "channel_id": null,
+    "name": "KEKW",
+    "subscribers_only": false
+   },
+   {
+    "id": 5470844,
+    "channel_id": null,
+    "name": "kickclassic",
+    "subscribers_only": false
+   },
+   {
+    "id": 5339426,
+    "channel_id": null,
+    "name": "kickDrops",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756621,
+    "channel_id": null,
+    "name": "kkHuh",
+    "subscribers_only": false
+   },
+   {
+    "id": 5273243,
+    "channel_id": null,
+    "name": "lowCortisol",
+    "subscribers_only": false
+   },
+   {
+    "id": 37227,
+    "channel_id": null,
+    "name": "LULW",
+    "subscribers_only": false
+   },
+   {
+    "id": 4148128,
+    "channel_id": null,
+    "name": "mericCat",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756381,
+    "channel_id": null,
+    "name": "modCheck",
+    "subscribers_only": false
+   },
+   {
+    "id": 5273241,
+    "channel_id": null,
+    "name": "MOGGED",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756628,
+    "channel_id": null,
+    "name": "MuteD",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756504,
+    "channel_id": null,
+    "name": "NODDERS",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756602,
+    "channel_id": null,
+    "name": "NugTime",
+    "subscribers_only": false
+   },
+   {
+    "id": 4055796,
+    "channel_id": null,
+    "name": "ODAJAM",
+    "subscribers_only": false
+   },
+   {
+    "id": 37229,
+    "channel_id": null,
+    "name": "OOOO",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756623,
+    "channel_id": null,
+    "name": "OuttaPocket",
+    "subscribers_only": false
+   },
+   {
+    "id": 4147892,
+    "channel_id": null,
+    "name": "PatrickBoo",
+    "subscribers_only": false
+   },
+   {
+    "id": 37232,
+    "channel_id": null,
+    "name": "PeepoClap",
+    "subscribers_only": false
+   },
+   {
+    "id": 37245,
+    "channel_id": null,
+    "name": "peepoDJ",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756675,
+    "channel_id": null,
+    "name": "peepoRiot",
+    "subscribers_only": false
+   },
+   {
+    "id": 37233,
+    "channel_id": null,
+    "name": "PogU",
+    "subscribers_only": false
+   },
+   {
+    "id": 37230,
+    "channel_id": null,
+    "name": "POLICE",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756627,
+    "channel_id": null,
+    "name": "politeCat",
+    "subscribers_only": false
+   },
+   {
+    "id": 4147888,
+    "channel_id": null,
+    "name": "ppJedi",
+    "subscribers_only": false
+   },
+   {
+    "id": 37234,
+    "channel_id": null,
+    "name": "Prayge",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756644,
+    "channel_id": null,
+    "name": "ratJAM",
+    "subscribers_only": false
+   },
+   {
+    "id": 4148081,
+    "channel_id": null,
+    "name": "Sadge",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756676,
+    "channel_id": null,
+    "name": "SenpaiWhoo",
+    "subscribers_only": false
+   },
+   {
+    "id": 5380973,
+    "channel_id": null,
+    "name": "shoulderRoll",
+    "subscribers_only": false
+   },
+   {
+    "id": 5755651,
+    "channel_id": null,
+    "name": "SIT",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756632,
+    "channel_id": null,
+    "name": "SUSSY",
+    "subscribers_only": false
+   },
+   {
+    "id": 37236,
+    "channel_id": null,
+    "name": "ThisIsFine",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756677,
+    "channel_id": null,
+    "name": "TriKool",
+    "subscribers_only": false
+   },
+   {
+    "id": 3645849,
+    "channel_id": null,
+    "name": "TRUEING",
+    "subscribers_only": false
+   },
+   {
+    "id": 4147884,
+    "channel_id": null,
+    "name": "vibePls",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756678,
+    "channel_id": null,
+    "name": "WeirdChamp",
+    "subscribers_only": false
+   },
+   {
+    "id": 5756680,
+    "channel_id": null,
+    "name": "WeSmart",
+    "subscribers_only": false
+   }
+  ]
+ },
+ {
+  "name": "Emojis",
+  "id": "Emoji",
+  "emotes": [
+   {
+    "id": 1730752,
+    "channel_id": null,
+    "name": "emojiAngel",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730753,
+    "channel_id": null,
+    "name": "emojiAngry",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579033,
+    "channel_id": null,
+    "name": "emojiAstonished",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730754,
+    "channel_id": null,
+    "name": "emojiAwake",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579036,
+    "channel_id": null,
+    "name": "emojiBlowKiss",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730755,
+    "channel_id": null,
+    "name": "emojiBubbly",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730756,
+    "channel_id": null,
+    "name": "emojiCheerful",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730758,
+    "channel_id": null,
+    "name": "emojiClown",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730759,
+    "channel_id": null,
+    "name": "emojiCool",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730760,
+    "channel_id": null,
+    "name": "emojiCrave",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730761,
+    "channel_id": null,
+    "name": "emojiCry",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579040,
+    "channel_id": null,
+    "name": "emojiCrying",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730762,
+    "channel_id": null,
+    "name": "emojiCurious",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730765,
+    "channel_id": null,
+    "name": "emojiCute",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730767,
+    "channel_id": null,
+    "name": "emojiDead",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730768,
+    "channel_id": null,
+    "name": "emojiDevil",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579041,
+    "channel_id": null,
+    "name": "emojiDisappoint",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579042,
+    "channel_id": null,
+    "name": "emojiDisguise",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730769,
+    "channel_id": null,
+    "name": "emojiDJ",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730770,
+    "channel_id": null,
+    "name": "emojiDown",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579044,
+    "channel_id": null,
+    "name": "emojiEnraged",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579045,
+    "channel_id": null,
+    "name": "emojiExcited",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579054,
+    "channel_id": null,
+    "name": "emojiEyeRoll",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730772,
+    "channel_id": null,
+    "name": "emojiFire",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730774,
+    "channel_id": null,
+    "name": "emojiGamer",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730775,
+    "channel_id": null,
+    "name": "emojiGlass",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730776,
+    "channel_id": null,
+    "name": "emojiGoofy",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730782,
+    "channel_id": null,
+    "name": "emojiGramps",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579046,
+    "channel_id": null,
+    "name": "emojiGrimacing",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730785,
+    "channel_id": null,
+    "name": "emojiGrin",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730786,
+    "channel_id": null,
+    "name": "emojiGrumpy",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730787,
+    "channel_id": null,
+    "name": "emojiHappy",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579047,
+    "channel_id": null,
+    "name": "emojiHeartEyes",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730788,
+    "channel_id": null,
+    "name": "emojiHmm",
+    "subscribers_only": false
+   },
+   {
+    "id": 4200908,
+    "channel_id": null,
+    "name": "emojiHydrate",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730789,
+    "channel_id": null,
+    "name": "emojiKing",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730790,
+    "channel_id": null,
+    "name": "emojiKiss",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730791,
+    "channel_id": null,
+    "name": "emojiLady",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579050,
+    "channel_id": null,
+    "name": "emojiLaughing",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730792,
+    "channel_id": null,
+    "name": "emojiLoading",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730794,
+    "channel_id": null,
+    "name": "emojiLol",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730796,
+    "channel_id": null,
+    "name": "emojiMan",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579051,
+    "channel_id": null,
+    "name": "emojiMoneyEyes",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730798,
+    "channel_id": null,
+    "name": "emojiNo",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730799,
+    "channel_id": null,
+    "name": "emojiOof",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730800,
+    "channel_id": null,
+    "name": "emojiOooh",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730802,
+    "channel_id": null,
+    "name": "emojiOuch",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579052,
+    "channel_id": null,
+    "name": "emojiPleading",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730803,
+    "channel_id": null,
+    "name": "emojiRich",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730807,
+    "channel_id": null,
+    "name": "emojiShocked",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730825,
+    "channel_id": null,
+    "name": "emojiSleep",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730827,
+    "channel_id": null,
+    "name": "emojiSmart",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579055,
+    "channel_id": null,
+    "name": "emojiSmerking",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579057,
+    "channel_id": null,
+    "name": "emojiSmiling",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730829,
+    "channel_id": null,
+    "name": "emojiSorry",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730830,
+    "channel_id": null,
+    "name": "emojiStare",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579058,
+    "channel_id": null,
+    "name": "emojiStarEyes",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579059,
+    "channel_id": null,
+    "name": "emojiSwearing",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579061,
+    "channel_id": null,
+    "name": "emojiUnamused",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579062,
+    "channel_id": null,
+    "name": "emojiVomiting",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730831,
+    "channel_id": null,
+    "name": "emojiWink",
+    "subscribers_only": false
+   },
+   {
+    "id": 1579038,
+    "channel_id": null,
+    "name": "emojiXEyes",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730834,
+    "channel_id": null,
+    "name": "emojiYay",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730835,
+    "channel_id": null,
+    "name": "emojiYes",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730839,
+    "channel_id": null,
+    "name": "emojiYuh",
+    "subscribers_only": false
+   },
+   {
+    "id": 1730840,
+    "channel_id": null,
+    "name": "emojiYum",
+    "subscribers_only": false
+   }
+  ]
+ }
+]

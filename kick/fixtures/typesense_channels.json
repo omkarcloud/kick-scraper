@@ -1,0 +1,206 @@
+{
+ "facet_counts": [],
+ "found": 8,
+ "hits": [
+  {
+   "document": {
+    "followers_count": 1113881,
+    "id": "668",
+    "is_banned": false,
+    "is_live": false,
+    "slug": "xqc",
+    "username": "xQc",
+    "verified": true
+   },
+   "highlight": {
+    "username": {
+     "matched_tokens": [
+      "xQc"
+     ],
+     "snippet": "<mark>xQc</mark>"
+    }
+   },
+   "highlights": [
+    {
+     "field": "username",
+     "matched_tokens": [
+      "xQc"
+     ],
+     "snippet": "<mark>xQc</mark>"
+    }
+   ],
+   "text_match": 578730123365711993,
+   "text_match_info": {
+    "best_field_score": "1108091339008",
+    "best_field_weight": 15,
+    "fields_matched": 1,
+    "num_tokens_dropped": 0,
+    "score": "578730123365711993",
+    "tokens_matched": 1,
+    "typo_prefix_score": 0
+   }
+  },
+  {
+   "document": {
+    "followers_count": 40,
+    "id": "3234567",
+    "is_banned": false,
+    "is_live": false,
+    "slug": "x_qc",
+    "username": "x_qc",
+    "verified": false
+   },
+   "highlight": {
+    "username": {
+     "matched_tokens": [
+      "x_qc"
+     ],
+     "snippet": "<mark>x_qc</mark>"
+    }
+   },
+   "highlights": [
+    {
+     "field": "username",
+     "matched_tokens": [
+      "x_qc"
+     ],
+     "snippet": "<mark>x_qc</mark>"
+    }
+   ],
+   "text_match": 578730123365711993,
+   "text_match_info": {
+    "best_field_score": "1108091339008",
+    "best_field_weight": 15,
+    "fields_matched": 1,
+    "num_tokens_dropped": 0,
+    "score": "578730123365711993",
+    "tokens_matched": 1,
+    "typo_prefix_score": 0
+   }
+  },
+  {
+   "document": {
+    "followers_count": 7,
+    "id": "3324042",
+    "is_banned": false,
+    "is_live": false,
+    "slug": "xq-c",
+    "username": "XQ_C",
+    "verified": false
+   },
+   "highlight": {
+    "username": {
+     "matched_tokens": [
+      "XQ_C"
+     ],
+     "snippet": "<mark>XQ_C</mark>"
+    }
+   },
+   "highlights": [
+    {
+     "field": "username",
+     "matched_tokens": [
+      "XQ_C"
+     ],
+     "snippet": "<mark>XQ_C</mark>"
+    }
+   ],
+   "text_match": 578730123365711993,
+   "text_match_info": {
+    "best_field_score": "1108091339008",
+    "best_field_weight": 15,
+    "fields_matched": 1,
+    "num_tokens_dropped": 0,
+    "score": "578730123365711993",
+    "tokens_matched": 1,
+    "typo_prefix_score": 0
+   }
+  },
+  {
+   "document": {
+    "followers_count": 0,
+    "id": "54683728",
+    "is_banned": false,
+    "is_live": false,
+    "slug": "@xqc",
+    "username": "@xqc",
+    "verified": false
+   },
+   "highlight": {
+    "username": {
+     "matched_tokens": [
+      "xqc"
+     ],
+     "snippet": "@<mark>xqc</mark>"
+    }
+   },
+   "highlights": [
+    {
+     "field": "username",
+     "matched_tokens": [
+      "xqc"
+     ],
+     "snippet": "@<mark>xqc</mark>"
+    }
+   ],
+   "text_match": 578730123365711993,
+   "text_match_info": {
+    "best_field_score": "1108091339008",
+    "best_field_weight": 15,
+    "fields_matched": 1,
+    "num_tokens_dropped": 0,
+    "score": "578730123365711993",
+    "tokens_matched": 1,
+    "typo_prefix_score": 0
+   }
+  },
+  {
+   "document": {
+    "followers_count": 0,
+    "id": "8556128",
+    "is_banned": false,
+    "is_live": false,
+    "slug": "x-q-c",
+    "username": "x_q_c",
+    "verified": false
+   },
+   "highlight": {
+    "username": {
+     "matched_tokens": [
+      "x_q_c"
+     ],
+     "snippet": "<mark>x_q_c</mark>"
+    }
+   },
+   "highlights": [
+    {
+     "field": "username",
+     "matched_tokens": [
+      "x_q_c"
+     ],
+     "snippet": "<mark>x_q_c</mark>"
+    }
+   ],
+   "text_match": 578730123365711993,
+   "text_match_info": {
+    "best_field_score": "1108091339008",
+    "best_field_weight": 15,
+    "fields_matched": 1,
+    "num_tokens_dropped": 0,
+    "score": "578730123365711993",
+    "tokens_matched": 1,
+    "typo_prefix_score": 0
+   }
+  }
+ ],
+ "out_of": 123563409,
+ "page": 1,
+ "request_params": {
+  "collection_name": "channel",
+  "first_q": "xqc",
+  "per_page": 5,
+  "q": "xqc"
+ },
+ "search_cutoff": false,
+ "search_time_ms": 2
+}

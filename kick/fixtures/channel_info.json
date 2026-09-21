@@ -1,0 +1,114 @@
+{
+ "id": 668,
+ "slug": "xqc",
+ "verified": true,
+ "is_banned": false,
+ "is_reserved": false,
+ "chatroom": {
+  "id": 668
+ },
+ "livestream": null,
+ "banner_image": {
+  "srcset": "",
+  "src": "https://files.kick.com/images/channel/668/banner_image/conversion/6fcf7418-df00-460b-9467-1fa95b8eb981-fullsize.jpg"
+ },
+ "subscriber_badges": [
+  {
+   "id": 97968,
+   "channel_id": 668,
+   "months": 1,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97968/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97975,
+   "channel_id": 668,
+   "months": 2,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97975/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97977,
+   "channel_id": 668,
+   "months": 3,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97977/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97978,
+   "channel_id": 668,
+   "months": 6,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97978/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97982,
+   "channel_id": 668,
+   "months": 9,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97982/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97985,
+   "channel_id": 668,
+   "months": 12,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97985/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97987,
+   "channel_id": 668,
+   "months": 18,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97987/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97988,
+   "channel_id": 668,
+   "months": 24,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97988/conversion/original-fullsize.png"
+   }
+  },
+  {
+   "id": 97989,
+   "channel_id": 668,
+   "months": 30,
+   "badge_image": {
+    "srcset": "",
+    "src": "https://files.kick.com/channel_subscriber_badges/97989/conversion/original-fullsize.png"
+   }
+  }
+ ],
+ "followers_count": 1113891,
+ "subscription_enabled": true,
+ "offline_banner_image": null,
+ "playback_url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.DsuAwCgUc9Bh.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvRHN1QXdDZ1VjOUJoIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20saHR0cHM6Ly94Ym94LmtpY2suY29tLGh0dHBzOi8vcGxheXN0YXRpb24ua2ljay5jb20saHR0cHM6Ly90aXplbi5raWNrLmNvbSxodHRwczovL3dlYm9zLmtpY2suY29tLGh0dHBzOi8vKi5raWNrLXByZXByb2R1Y3Rpb24uY29tLGh0dHBzOi8vKi5raWNrLWRldmVsb3BtZW50LmNvbSIsImF3czpzdHJpY3Qtb3JpZ2luLWVuZm9yY2VtZW50IjpmYWxzZSwiYXdzOmFkcy1vcHQtb3V0Ijp0cnVlLCJleHAiOjE3ODk5ODYyMDB9.1hPWsayYIhJNDtMD544BpUUC0AJcyPxR-H7JSnioJDAh3eXHflZVp7OLz3Pmsr7MC09rfbRmiOZw3tIJMX4xvJqPPMEZqKfx57dBXSXDGsm03HYQZGBeAwD6wlUXz60b",
+ "user": {
+  "bio": "THE BEST AT ABSOLUTELY EVERYTHING. THE JUICER. LEADER OF THE JUICERS.",
+  "username": "xQc",
+  "instagram": "xqcow1/",
+  "twitter": "xqc",
+  "youtube": "channel/UCmDTrq0LNgPodDOFZiSbsww",
+  "discord": "xqcow",
+  "tiktok": "",
+  "facebook": "",
+  "club": null,
+  "profile_pic": "https://files.kick.com/images/user/676/profile_image/conversion/931b4e8f-5445-427c-bd82-b473530390cc-fullsize.webp"
+ }
+}

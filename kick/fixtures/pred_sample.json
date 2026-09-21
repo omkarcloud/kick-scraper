@@ -1,0 +1,64 @@
+{
+ "data": {
+  "prediction": {
+   "id": "01M1ETNK5D7MNETHCBS243GQZK",
+   "channel_id": 29658059,
+   "title": "Czy dejvid znowu zleakuje adres",
+   "outcomes": [
+    {
+     "id": "01M1ETNK5D7MNETHCBS461T3XX",
+     "title": "Tak",
+     "total_vote_amount": 1197759,
+     "vote_count": 71,
+     "return_rate": 3.5982814,
+     "top_users": [
+      {
+       "id": 205083,
+       "username": "armilo",
+       "amount": 85800
+      },
+      {
+       "id": 433690,
+       "username": "zelikk",
+       "amount": 80000
+      },
+      {
+       "id": 36556929,
+       "username": "korsu7",
+       "amount": 76000
+      }
+     ]
+    },
+    {
+     "id": "01M1ETNK5D7MNETHCBS6R4EF4G",
+     "title": "Nie",
+     "total_vote_amount": 3112115,
+     "vote_count": 92,
+     "return_rate": 1.3848698,
+     "top_users": [
+      {
+       "id": 32840854,
+       "username": "dumix7",
+       "amount": 200000
+      },
+      {
+       "id": 6137332,
+       "username": "IZwKI",
+       "amount": 198000
+      },
+      {
+       "id": 38756211,
+       "username": "t6mvs",
+       "amount": 180000
+      }
+     ]
+    }
+   ],
+   "duration": 300,
+   "created_at": "2026-09-01T15:51:09Z",
+   "updated_at": "2026-09-01T15:53:07Z",
+   "state": "CANCELLED"
+  }
+ },
+ "message": "Success"
+}

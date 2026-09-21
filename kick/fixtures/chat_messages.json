@@ -1,0 +1,920 @@
+{
+ "status": {
+  "error": false,
+  "code": 200,
+  "message": "SUCCESS"
+ },
+ "data": {
+  "messages": [
+   {
+    "id": "dc0d0513-c58c-4987-8dee-4a049247069a",
+    "chat_id": 668,
+    "user_id": 9312236,
+    "content": "[emote:4147900:catKISS]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789982834409\"}",
+    "created_at": "2026-09-21T09:27:22Z",
+    "sender": {
+     "id": 9312236,
+     "slug": "arrayi",
+     "username": "Arrayi",
+     "identity": {
+      "color": "#E9113C",
+      "badges": [],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/19_5d6341dc-feee-4a6d-becd-1f9cdef30a53.png",
+        "metadata": {
+         "level": 19
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "0f0722b8-452f-4c98-af98-85e80c0196bf",
+    "chat_id": 668,
+    "user_id": 18043172,
+    "content": "[emote:1579036:emojiBlowKiss]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789980925138\"}",
+    "created_at": "2026-09-21T08:55:25Z",
+    "sender": {
+     "id": 18043172,
+     "slug": "everydaychamps",
+     "username": "EVERYDAYCHAMPS",
+     "identity": {
+      "color": "#FFC466",
+      "badges": [],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/32_019f35ce-472a-79f1-b4cb-a5642144c710.png",
+        "metadata": {
+         "level": 32
+        },
+        "selected": true,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "03c4475b-fd18-417a-8dc6-e87ed35b984c",
+    "chat_id": 668,
+    "user_id": 9312236,
+    "content": "[emote:5747938:collectiblesWaiting]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789980698402\"}",
+    "created_at": "2026-09-21T08:51:38Z",
+    "sender": {
+     "id": 9312236,
+     "slug": "arrayi",
+     "username": "Arrayi",
+     "identity": {
+      "color": "#E9113C",
+      "badges": [],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/19_5d6341dc-feee-4a6d-becd-1f9cdef30a53.png",
+        "metadata": {
+         "level": 19
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "7254d616-dfda-4f50-b2e3-bc2d958d59a1",
+    "chat_id": 668,
+    "user_id": 7404530,
+    "content": "Feel free to join my discord! https://discord.gg/xqcow (you don't have to be a sub) and follow Twitter! https://twitter.com/xQc",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-09-21T08:24:43Z",
+    "sender": {
+     "id": 7404530,
+     "slug": "fossabot",
+     "username": "Fossabot",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "moderator",
+        "text": "Moderator",
+        "sort_order": 12
+       },
+       {
+        "type": "verified",
+        "text": "Verified channel",
+        "sort_order": 14
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+        "metadata": {
+         "level": 1
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "af07cacd-7f36-4516-b84e-499ef65bfbc8",
+    "chat_id": 668,
+    "user_id": 17869399,
+    "content": "[emote:1579036:emojiBlowKiss]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789979027269\"}",
+    "created_at": "2026-09-21T08:23:47Z",
+    "sender": {
+     "id": 17869399,
+     "slug": "lds-newton",
+     "username": "LDS_Newton",
+     "identity": {
+      "color": "#4CFF75",
+      "badges": [],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+        "metadata": {
+         "level": 1
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "f3364b95-f294-43e4-8c4c-5eb2d112c7b0",
+    "chat_id": 668,
+    "user_id": 7395662,
+    "content": "small nap i guess doid",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789978933424\"}",
+    "created_at": "2026-09-21T08:22:13Z",
+    "sender": {
+     "id": 7395662,
+     "slug": "tztwiz",
+     "username": "tztwiz",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 16,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/60_019f35ce-472e-76eb-996c-0fe1ae7db948.png",
+        "metadata": {
+         "level": 60
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "30c50f45-b020-4a61-9591-1ddcde3797be",
+    "chat_id": 668,
+    "user_id": 7449660,
+    "content": "[emote:4147910:BBoomer]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789978901424\"}",
+    "created_at": "2026-09-21T08:21:41Z",
+    "sender": {
+     "id": 7449660,
+     "slug": "measuring",
+     "username": "Measuring",
+     "identity": {
+      "color": "#FFFFFF",
+      "badges": [],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+        "metadata": {
+         "level": 7
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "9b0d5ffd-640a-4226-81fc-63c34608fcc2",
+    "chat_id": 668,
+    "user_id": 7449660,
+    "content": "i was watching that cuh",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789978871466\"}",
+    "created_at": "2026-09-21T08:21:11Z",
+    "sender": {
+     "id": 7449660,
+     "slug": "measuring",
+     "username": "Measuring",
+     "identity": {
+      "color": "#BC66FF",
+      "badges": [],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/7_bce852c7-f8c0-43e9-bba1-5ae987199625.png",
+        "metadata": {
+         "level": 7
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "dd665a73-00cf-4a75-b30e-01fe5d27764f",
+    "chat_id": 668,
+    "user_id": 7404530,
+    "content": "Merch drop #3 is out https://xqc.store/ EZ",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-09-21T08:12:43Z",
+    "sender": {
+     "id": 7404530,
+     "slug": "fossabot",
+     "username": "Fossabot",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "moderator",
+        "text": "Moderator",
+        "sort_order": 12
+       },
+       {
+        "type": "verified",
+        "text": "Verified channel",
+        "sort_order": 14
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+        "metadata": {
+         "level": 1
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "0b72eb36-d33b-4b9a-8358-923387ac8d94",
+    "chat_id": 668,
+    "user_id": 4259292,
+    "content": "[emote:1730754:emojiAwake]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789978090441\"}",
+    "created_at": "2026-09-21T08:08:43Z",
+    "sender": {
+     "id": 4259292,
+     "slug": "gameron",
+     "username": "gameron",
+     "identity": {
+      "color": "#DEB2FF",
+      "badges": [],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/31_019f35ce-472a-74da-b3bc-69e3f2363639.png",
+        "metadata": {
+         "level": 31
+        },
+        "selected": true,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "a1243058-6a0e-48fa-b8ae-0b714fff206d",
+    "chat_id": 668,
+    "user_id": 118794809,
+    "content": "catPunch",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789978017667\"}",
+    "created_at": "2026-09-21T08:06:58Z",
+    "sender": {
+     "id": 118794809,
+     "slug": "jese-vp",
+     "username": "jese_vp",
+     "identity": {
+      "color": "#FF2C56",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 1,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/27_16ee146e-5d16-4b52-8322-01208e28e5fb.png",
+        "metadata": {
+         "level": 27
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "8336427d-572b-4b07-a425-a8df77202f67",
+    "chat_id": 668,
+    "user_id": 7395662,
+    "content": "its not funny [emote:4148081:Sadge]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789977982080\"}",
+    "created_at": "2026-09-21T08:06:22Z",
+    "sender": {
+     "id": 7395662,
+     "slug": "tztwiz",
+     "username": "tztwiz",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 16,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/60_019f35ce-472e-76eb-996c-0fe1ae7db948.png",
+        "metadata": {
+         "level": 60
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "e01a8a5a-f17a-49ee-9924-a67a24ed5745",
+    "chat_id": 668,
+    "user_id": 7395662,
+    "content": "STOPPPPP",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789977958903\"}",
+    "created_at": "2026-09-21T08:05:59Z",
+    "sender": {
+     "id": 7395662,
+     "slug": "tztwiz",
+     "username": "tztwiz",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 16,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/60_019f35ce-472e-76eb-996c-0fe1ae7db948.png",
+        "metadata": {
+         "level": 60
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "2a357327-e19d-4590-8275-952749c59ddc",
+    "chat_id": 668,
+    "user_id": 118794809,
+    "content": "catErm Fire",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789977952695\"}",
+    "created_at": "2026-09-21T08:05:53Z",
+    "sender": {
+     "id": 118794809,
+     "slug": "jese-vp",
+     "username": "jese_vp",
+     "identity": {
+      "color": "#FF2C56",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 1,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/27_16ee146e-5d16-4b52-8322-01208e28e5fb.png",
+        "metadata": {
+         "level": 27
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "52cc6903-e09b-4e3b-a3b5-97730c81e72f",
+    "chat_id": 668,
+    "user_id": 7404530,
+    "content": "Here is xQc's playlist -> https://open.spotify.com/playlist/1gKIYxGVZBUpkmqamRa60w?si=f398ce32ce254100",
+    "type": "reply",
+    "metadata": "{\"sender_type\":\"user\",\"original_message\":{\"id\":\"08a39a9d-1998-4bef-92cd-4ea0c5a4a2f1\",\"chatroom_id\":668,\"content\":\"!playlist\",\"type\":\"message\",\"created_at\":\"2026-09-21T08:03:01+00:00\",\"sender\":{\"id\":25705534,\"username\":\"kotidestroyer\",\"slug\":\"kotidestroyer\",\"identity\":{\"color\":\"#BDFF28\",\"badges\":[],\"badges_v2\":[{\"name\":\"level\",\"badge_type\":\"global\",\"image_url\":\"https:\\/\\/ext.cdn.kick.com\\/chat\\/badges\\/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png\",\"metadata\":{\"level\":42},\"selected\":true,\"sort_order\":1}]}},\"metadata\":{\"message_ref\":\"1789977781176\"},\"thread_parent_id\":\"\"},\"original_sender\":{\"id\":25705534,\"username\":\"kotidestroyer\",\"slug\":\"kotidestroyer\",\"identity\":{\"color\":\"#BDFF28\",\"badges\":[],\"badges_v2\":[{\"name\":\"level\",\"badge_type\":\"global\",\"image_url\":\"https:\\/\\/ext.cdn.kick.com\\/chat\\/badges\\/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png\",\"metadata\":{\"level\":42},\"selected\":true,\"sort_order\":1}]}}}",
+    "created_at": "2026-09-21T08:03:02Z",
+    "sender": {
+     "id": 7404530,
+     "slug": "fossabot",
+     "username": "Fossabot",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "moderator",
+        "text": "Moderator",
+        "sort_order": 12
+       },
+       {
+        "type": "verified",
+        "text": "Verified channel",
+        "sort_order": 14
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+        "metadata": {
+         "level": 1
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "08a39a9d-1998-4bef-92cd-4ea0c5a4a2f1",
+    "chat_id": 668,
+    "user_id": 25705534,
+    "content": "!playlist",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789977781176\"}",
+    "created_at": "2026-09-21T08:03:02Z",
+    "sender": {
+     "id": 25705534,
+     "slug": "kotidestroyer",
+     "username": "kotidestroyer",
+     "identity": {
+      "color": "#BDFF28",
+      "badges": [],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/42_226c6c94-f3c1-476a-80b5-f58e5e656a47.png",
+        "metadata": {
+         "level": 42
+        },
+        "selected": true,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "b468415a-11c2-49ba-88d6-01d7e963ead8",
+    "chat_id": 668,
+    "user_id": 51367617,
+    "content": "omE 󠀡",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789977580257\"}",
+    "created_at": "2026-09-21T07:59:40Z",
+    "sender": {
+     "id": 51367617,
+     "slug": "antithesisofspace",
+     "username": "AntithesisOfSpace",
+     "identity": {
+      "color": "#FF2C56",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 1,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "rs_ags_blade",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/rs_ags_blade_26f41c3c-aa8e-45da-af95-7c20633cd010.png",
+        "selected": false,
+        "sort_order": 4
+       },
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/34_019f35ce-472b-7c85-b482-8e7b7ed343b1.png",
+        "metadata": {
+         "level": 34
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "67779289-3f81-46f3-a92f-cf2fd470a953",
+    "chat_id": 668,
+    "user_id": 7395662,
+    "content": "but at least theres [emote:5748062:collectiblesErm] Pat",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789977536860\"}",
+    "created_at": "2026-09-21T07:58:57Z",
+    "sender": {
+     "id": 7395662,
+     "slug": "tztwiz",
+     "username": "tztwiz",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 16,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/60_019f35ce-472e-76eb-996c-0fe1ae7db948.png",
+        "metadata": {
+         "level": 60
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "c29f3698-d79b-40a2-88aa-71807ce00ede",
+    "chat_id": 668,
+    "user_id": 7395662,
+    "content": "passion gone, ambitions gone, aspirations gone, future gone, motivation gone",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789977518149\"}",
+    "created_at": "2026-09-21T07:58:38Z",
+    "sender": {
+     "id": 7395662,
+     "slug": "tztwiz",
+     "username": "tztwiz",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 16,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/60_019f35ce-472e-76eb-996c-0fe1ae7db948.png",
+        "metadata": {
+         "level": 60
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "076da18d-d331-48e2-bc50-aa0c208da748",
+    "chat_id": 668,
+    "user_id": 51367617,
+    "content": "[emote:5747866:collectiblesFeelsComfyMan] 󠀡",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789977485196\"}",
+    "created_at": "2026-09-21T07:58:05Z",
+    "sender": {
+     "id": 51367617,
+     "slug": "antithesisofspace",
+     "username": "AntithesisOfSpace",
+     "identity": {
+      "color": "#FF2C56",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 1,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "rs_ags_blade",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/rs_ags_blade_26f41c3c-aa8e-45da-af95-7c20633cd010.png",
+        "selected": false,
+        "sort_order": 4
+       },
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/34_019f35ce-472b-7c85-b482-8e7b7ed343b1.png",
+        "metadata": {
+         "level": 34
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "80e61c32-dd0f-45d1-9935-a8eb14b97f9b",
+    "chat_id": 668,
+    "user_id": 7395662,
+    "content": "x is gone.. chats gone.. lifes gone..",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789977449891\"}",
+    "created_at": "2026-09-21T07:57:30Z",
+    "sender": {
+     "id": 7395662,
+     "slug": "tztwiz",
+     "username": "tztwiz",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 16,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/60_019f35ce-472e-76eb-996c-0fe1ae7db948.png",
+        "metadata": {
+         "level": 60
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "2a76de54-62ba-46de-9b89-ec1736e3804d",
+    "chat_id": 668,
+    "user_id": 7404530,
+    "content": "Join my twitter community! https://twitter.com/i/communities/1601136065900793856",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-09-21T07:54:43Z",
+    "sender": {
+     "id": 7404530,
+     "slug": "fossabot",
+     "username": "Fossabot",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "moderator",
+        "text": "Moderator",
+        "sort_order": 12
+       },
+       {
+        "type": "verified",
+        "text": "Verified channel",
+        "sort_order": 14
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+        "metadata": {
+         "level": 1
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "15eff9f1-6fed-4690-8f06-7efba885bfcc",
+    "chat_id": 668,
+    "user_id": 7404530,
+    "content": "Are you a vod enjoyer ? Watch them here ! https://xqc.wtf/",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-09-21T07:52:56Z",
+    "sender": {
+     "id": 7404530,
+     "slug": "fossabot",
+     "username": "Fossabot",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "moderator",
+        "text": "Moderator",
+        "sort_order": 12
+       },
+       {
+        "type": "verified",
+        "text": "Verified channel",
+        "sort_order": 14
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+        "metadata": {
+         "level": 1
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "8e567055-e0ba-4060-810b-1be2e7afa12a",
+    "chat_id": 668,
+    "user_id": 118794809,
+    "content": "[emote:4148081:Sadge]",
+    "type": "message",
+    "metadata": "{\"message_ref\":\"1789977175783\"}",
+    "created_at": "2026-09-21T07:52:55Z",
+    "sender": {
+     "id": 118794809,
+     "slug": "jese-vp",
+     "username": "jese_vp",
+     "identity": {
+      "color": "#FF2C56",
+      "badges": [
+       {
+        "type": "subscriber",
+        "text": "Subscriber",
+        "count": 1,
+        "sort_order": 9
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/27_16ee146e-5d16-4b52-8322-01208e28e5fb.png",
+        "metadata": {
+         "level": 27
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   },
+   {
+    "id": "0c5bfb24-0757-4ba1-8928-47eed1e71adb",
+    "chat_id": 668,
+    "user_id": 7404530,
+    "content": "Feel free to join my discord! https://discord.gg/xqcow (you don't have to be a sub) and follow Twitter! https://twitter.com/xQc",
+    "type": "message",
+    "metadata": "{\"sender_type\":\"user\"}",
+    "created_at": "2026-09-21T07:52:43Z",
+    "sender": {
+     "id": 7404530,
+     "slug": "fossabot",
+     "username": "Fossabot",
+     "identity": {
+      "color": "#1475E1",
+      "badges": [
+       {
+        "type": "moderator",
+        "text": "Moderator",
+        "sort_order": 12
+       },
+       {
+        "type": "verified",
+        "text": "Verified channel",
+        "sort_order": 14
+       }
+      ],
+      "badges_v2": [
+       {
+        "name": "level",
+        "badge_type": "global",
+        "image_url": "https://ext.cdn.kick.com/chat/badges/1_17be7ee9-9ede-4f58-b6da-a2e1e4b1e56a.png",
+        "metadata": {
+         "level": 1
+        },
+        "selected": false,
+        "sort_order": 1
+       }
+      ]
+     }
+    }
+   }
+  ],
+  "cursor": "1789977163515400",
+  "pinned_message": null
+ }
+}

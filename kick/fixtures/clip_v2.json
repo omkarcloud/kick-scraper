@@ -1,0 +1,44 @@
+{
+ "clip": {
+  "id": "clip_01H811MXG4FBR62FXPE1AXABDH",
+  "livestream_id": "12271000",
+  "category_id": "15",
+  "channel_id": 668,
+  "user_id": 7418785,
+  "title": "soda",
+  "clip_url": "https://clips.kick.com/clips/dh/clip_01H811MXG4FBR62FXPE1AXABDH/playlist.m3u8",
+  "thumbnail_url": "https://clips.kick.com/clips/dh/clip_01H811MXG4FBR62FXPE1AXABDH/thumbnail.png",
+  "privacy": "public",
+  "likes": 0,
+  "liked": false,
+  "views": 328281,
+  "duration": 30,
+  "started_at": "2023-08-17T06:05:29Z",
+  "created_at": "2023-08-17T06:07:19.490719Z",
+  "vod_starts_at": 0,
+  "is_mature": false,
+  "video_url": "https://clips.kick.com/clips/dh/clip_01H811MXG4FBR62FXPE1AXABDH/playlist.m3u8",
+  "view_count": 328281,
+  "likes_count": 0,
+  "category": {
+   "id": 15,
+   "name": "Just Chatting",
+   "slug": "just-chatting",
+   "responsive": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97",
+   "banner": "https://files.kick.com/images/subcategories/15/banner/b697a8a3-62db-4779-aa76-e4e47662af97",
+   "parent_category": "irl"
+  },
+  "creator": {
+   "id": 7418785,
+   "username": "Wasab7i",
+   "slug": "wasab7i",
+   "profile_picture": "https://files.kick.com/images/user/7418785/profile_image/conversion/8d01b489-85fd-46c8-b75c-d965f99d2ce5-thumb.webp"
+  },
+  "channel": {
+   "id": 668,
+   "username": "xQc",
+   "slug": "xqc",
+   "profile_picture": "https://files.kick.com/images/user/676/profile_image/conversion/931b4e8f-5445-427c-bd82-b473530390cc-thumb.webp"
+  }
+ }
+}
