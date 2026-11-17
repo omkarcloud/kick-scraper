@@ -50,7 +50,10 @@ from concurrent.futures import ThreadPoolExecutor
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import config
+import egress
+import identity_pool
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
+from scraper_utils import debug, fanout, retry, sessions
 
 SITE = "https://kick.com"
 WEB = "https://web.kick.com"
@@ -63,13 +66,13 @@ FANOUT_WORKERS = 6
 
 HEADERS = {
     "accept": "application/json",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("kick"),
     "referer": SITE + "/",
     "origin": SITE,
 }
 PAGE_HEADERS = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("kick"),
     "upgrade-insecure-requests": "1",
 }
 
@@ -108,25 +111,12 @@ def _proxy_for_new_session():
 
 
 def _session():
-    sess = getattr(_local, "session", None)
-    if sess is None:
-        from curl_cffi import requests as curl_requests
-        sess = curl_requests.Session(impersonate=IMPERSONATE)
-        proxy = _proxy_for_new_session()
-        if proxy:
-            sess.proxies = {"http": proxy, "https": proxy}
-        _local.session = sess
-    return sess
+    return sessions.thread_session(_local, lambda: sessions.curl_session(
+        IMPERSONATE, proxy_fn=_proxy_for_new_session))
 
 
 def _drop_session():
-    sess = getattr(_local, "session", None)
-    _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.drop(_local)
 
 
 def _note_block():
@@ -139,14 +129,7 @@ def _note_block():
 
 
 def dump_debug(name, text):
-    dbg = os.environ.get("KICK_DEBUG_DIR", "")
-    if dbg and text:
-        try:
-            os.makedirs(dbg, exist_ok=True)
-            with open(os.path.join(dbg, name + ".txt"), "w") as f:
-                f.write(text)
-        except OSError:
-            pass
+    debug.dump("KICK_DEBUG_DIR", name, text)
 
 
 # ---- requests --------------------------------------------------------------------
@@ -203,16 +186,7 @@ def _json_of(resp, label):
 
 
 def _retrying(fn):
-    last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except KickUpstreamError as e:      # includes KickBlocked
-            last = e
-            _drop_session()
-        if attempt < config.MAX_RETRIES:
-            time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    return retry.run(fn, config, KickUpstreamError, lambda e: _drop_session())
 
 
 def get_json(url, params=None, *, headers=None, label=None):
@@ -294,55 +268,62 @@ def get_page(path):
 
 # ---- typesense search key --------------------------------------------------------
 # The site's search-only Typesense key is a build constant in one of the
-# _next chunks (NEXT_PUBLIC_TYPESENSE_API_KEY). Seeded from config; on a 401
-# the chunks referenced by the homepage are scanned once for a new value.
+# _next chunks (NEXT_PUBLIC_TYPESENSE_API_KEY). It lives in a shared
+# identity_pool seeded from config (replaced the `_search_key` global + lock
+# on 2026-11-09): a 401 wave across the 64 request threads costs ONE
+# homepage + chunk scan, the other threads get the winner's value, and a
+# second refresh inside KEY_REFRESH_INTERVAL returns the same key.
 _KEY_RE = re.compile(r'NEXT_PUBLIC_TYPESENSE_API_KEY\s*:\s*(?:o\.z\.string\(\)\.min\(1\)\.default\()?"([A-Za-z0-9]{16,64})"')
 _SCRIPT_RE = re.compile(r'<script[^>]+src="([^"]+\.js)"')
-_search_key = None
-_key_lock = threading.Lock()
+KEY_REFRESH_INTERVAL = 30      # seconds between two bundle scans
+
+
+def _mint_search_key(key, hint):
+    """The pool's mint: scan the JS chunks the homepage references for the
+    key. Raises (KickUpstreamError and friends) when the page cannot be read
+    or no chunk carries it."""
+    html = get_page("/")
+    sess = _session()
+    for src in _SCRIPT_RE.findall(html):
+        if src.startswith("//"):
+            src = "https:" + src
+        elif not src.startswith("http"):
+            src = SITE + src
+        try:
+            js = sess.get(src, headers=PAGE_HEADERS, timeout=PAGE_TIMEOUT).text or ""
+        except Exception:
+            continue
+        match = _KEY_RE.search(js)
+        if match:
+            return match.group(1)
+    raise KickUpstreamError("typesense key not found in the bundle")
+
+
+_search_keys = identity_pool.Pool("kick-search-key", _mint_search_key, min_interval=KEY_REFRESH_INTERVAL,
+                                  seed={"": config.KICK_TYPESENSE_API_KEY})
 
 
 def search_key():
-    global _search_key
-    if _search_key is None:
-        _search_key = config.KICK_TYPESENSE_API_KEY
-    return _search_key
+    """The current Typesense search key (the seed until a 401 rotates it)."""
+    return _search_keys.get().value
 
 
-def _refresh_search_key(stale=None):
-    """Re-read the key from the site's JS bundle. Returns the new value or None.
-    `stale` is the key that was just rejected: when another thread already
-    rotated past it while this one waited for the lock, that key is reused."""
-    global _search_key
-    with _key_lock:
-        current = _search_key
-        if stale is not None and current is not None and current != stale:
-            return current
-        try:
-            html = get_page("/")
-        except Exception as e:
-            print(f"kick: search key refresh failed: {type(e).__name__}: {e}")
-            return None
-        sess = _session()
-        for src in _SCRIPT_RE.findall(html):
-            if src.startswith("//"):
-                src = "https:" + src
-            elif not src.startswith("http"):
-                src = SITE + src
-            try:
-                js = sess.get(src, headers=PAGE_HEADERS, timeout=PAGE_TIMEOUT).text or ""
-            except Exception:
-                continue
-            match = _KEY_RE.search(js)
-            if match:
-                found = match.group(1)
-                if found == current:
-                    return None
-                print(f"kick: typesense key rotated {current} -> {found}")
-                _search_key = found
-                return found
-        print("kick: typesense key not found in the bundle")
+def _refresh_search_key(used):
+    """`used` (the pool identity whose key was just rejected) is stale: ask
+    the pool for its replacement. One scan per rejection wave (compare-and-
+    swap: a thread that lost the race gets the winner's key without a scan)
+    and at most one per KEY_REFRESH_INTERVAL. Returns the new key, or None
+    when it is unchanged or the scan failed (the old global's contract)."""
+    current = used.value
+    try:
+        fresh = _search_keys.get(replace=used)
+    except Exception as e:
+        print(f"kick: search key refresh failed: {type(e).__name__}: {e}")
         return None
+    if fresh.value == current:
+        return None
+    print(f"kick: typesense key rotated {current} -> {fresh.value}")
+    return fresh.value
 
 
 def typesense(collection, params):
@@ -354,9 +335,9 @@ def typesense(collection, params):
         query["x-typesense-api-key"] = key
         return get_json(url, query, label=f"search {collection}")
 
-    used = search_key()
+    used = _search_keys.get()
     try:
-        return call(used)
+        return call(used.value)
     except KickBadRequest as e:
         if "login" not in str(e):        # a real 400: bad params
             raise
@@ -369,30 +350,13 @@ def typesense(collection, params):
 # ---- fan-out ------------------------------------------------------------------------
 
 def run_parallel(fns):
-    if not fns:
-        return []
-    if len(fns) == 1:
-        return [fns[0]()]
-    with ThreadPoolExecutor(max_workers=min(FANOUT_WORKERS, len(fns))) as ex:
-        futures = [ex.submit(fn) for fn in fns]
-        return [f.result() for f in futures]
+    return fanout.per_call(fns, FANOUT_WORKERS)
 
 
 def gather(mapping):
     """{key: callable} in parallel -> {key: result}; a NotFound / BadRequest
     for one key yields None instead of failing the set."""
-    keys = list(mapping)
-
-    def guarded(fn):
-        def run():
-            try:
-                return fn()
-            except (KickNotFound, KickBadRequest):
-                return None
-        return run
-
-    results = run_parallel([guarded(mapping[k]) for k in keys])
-    return dict(zip(keys, results))
+    return fanout.gather(run_parallel, mapping, (KickNotFound, KickBadRequest))
 
 
 if __name__ == "__main__":

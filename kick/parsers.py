@@ -28,10 +28,13 @@ chat `metadata.message_ref` (a client-side dedupe token), the typesense
 `text_match*`/`highlight*`/`request_params` scoring blobs and `out_of`.
 """
 import json
+import fastjson
 import re
 from datetime import datetime, timezone
 
 from kick import refs
+from scraper_utils.values import bool_or_none, to_int
+from scraper_utils.text import stripped as text
 
 FILES = "https://files.kick.com"
 DEFAULT_AVATAR_RE = re.compile(r"/default-profile-pictures/|/default-avatar", re.I)
@@ -39,16 +42,7 @@ _SRCSET_RE = re.compile(r"(\S+)\s+(\d+)w")
 
 
 # ---- value helpers ------------------------------------------------------------
-# (kept local so the package stands alone, like the other site packages)
-
-def to_int(value):
-    try:
-        return int(value) if value not in (None, "") else None
-    except (TypeError, ValueError):
-        try:
-            return int(float(value))
-        except (TypeError, ValueError):
-            return None
+# (the generic ones come from scraper_utils; the rest are the site's own)
 
 
 def to_float(value):
@@ -56,17 +50,6 @@ def to_float(value):
         return float(value) if value not in (None, "") else None
     except (TypeError, ValueError):
         return None
-
-
-def text(value):
-    if not isinstance(value, str):
-        return None
-    value = value.strip()
-    return value or None
-
-
-def bool_or_none(value):
-    return value if isinstance(value, bool) else None
 
 
 def iso_datetime(value):
@@ -743,7 +726,7 @@ def chat_message(obj):
     meta = obj.get("metadata")
     if isinstance(meta, str):
         try:
-            meta = json.loads(meta)
+            meta = fastjson.loads(meta)
         except ValueError:
             meta = {}
     meta = meta if isinstance(meta, dict) else {}
